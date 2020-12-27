@@ -1,0 +1,28 @@
+SOFTWARE:
+
+1. https://www.apachefriends.org/download.html
+2. https://sqlitebrowser.org/
+3. https://www.mongodb.com/try#community
+4. https://www.latex-project.org/get/
+
+
+DATASETS:
+
+1. https://github.com/lerocha/chinook-database
+
+RESOURCES:
+
+1. https://en.wikibooks.org/wiki/LaTeX
+2. https://www.andy-roberts.net/writing/latex
+3. http://detexify.kirelabs.org/classify.html
+4. https://www.w3schools.com/sql/
+5. https://mariadb.com/kb/en/sql-statements/
+6. https://sqlite.org/lang.html
+7. https://www.w3schools.com/html/
+8. https://www.w3schools.com/css/
+9. https://www.w3schools.com/js/
+10. https://www.w3schools.com/bootstrap/
+11. https://www.w3schools.com/jquery/
+12. https://www.w3schools.com/php/
+13. https://flask.palletsprojects.com/en/0.12.x/quickstart/
+14. https://www.w3schools.com/nodejs/

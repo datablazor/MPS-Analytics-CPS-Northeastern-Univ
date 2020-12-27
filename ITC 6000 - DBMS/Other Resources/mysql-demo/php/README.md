@@ -1,0 +1,1 @@
+An example web application that uses PHP to query the Chinook database in MySQL for albums.

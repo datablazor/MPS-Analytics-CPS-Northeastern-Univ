@@ -1,0 +1,23 @@
+{
+  "name": "chinook",
+  "version": "1.0.0",
+  "description": "Example chinook api",
+  "main": "chinook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node chinook.js",
+    "dev": "nodemon chinook.js"
+  },
+  "author": "derbinsky",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "engines": {
+    "node": "6.11.3"
+  }
+}

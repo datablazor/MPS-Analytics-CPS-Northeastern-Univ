@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AJAX Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script>
+        $(document).ready(function(){
+            $("#inputform").submit(function(event){
+                event.preventDefault();
+                
+                var artistField = $('#artist');
+                var artist = artistField.val();
+                
+                var url = $('#inputform').attr('action');
+                var params = {};
+                if (artist) {
+                    params[artistField.attr('name')] = artist;
+                }
+                
+                $.get(url, params, function(data, status) {
+                    if (status == "success") {
+                        $('#results tr').remove();
+                        
+                        $.each(data, function(i, e) {
+                            $('#results').append(
+                                $('<tr>').append(
+                                    $('<td>').text(e['artist']),
+                                    $('<td>').text(e['album']),
+                                )
+                            );
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+    <body>
+
+        <div class="container">
+            <h1>AJAX Example</h1>
+          
+            <form id="inputform" method="get" action="http://localhost:5000">
+                <div class="form-group">
+                    <label for="artist">Artist</label>
+                    <input type="text" class="form-control" id="artist" name="artist_name" placeholder="Artist" />
+                </div>
+            
+                <button type="submit" class="btn btn-default" id="go">Submit</button>
+                
+                <hr />
+                
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Artist</th>
+                            <th>Album</th>
+                        </tr>
+                    </thead>
+                    <tbody id="results">
+                    </tbody>
+                </table>
+            </form>
+
+        </div>
+
+    </body>
+</html>

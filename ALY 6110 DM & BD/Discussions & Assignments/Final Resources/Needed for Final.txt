@@ -1,0 +1,24 @@
+https://github.com/scheckley/online-retail
+
+https://github.com/databricks/Spark-The-Definitive-Guide/tree/master/code
+
+
+
+Targeting New Customers — 
+
+The store must look out for new vendors who might be interested in a particular segment of gift products. In a way, competitor analysis can be carried out to find out who their customers are. Additionally, as we analyzed that new customer tend to spend less during their first purchase, first time buyers can be provided with discounts or added benefits such as free delivery, and replacement guarantee. 
+
+
+Building Trust — 
+
+The longer the customer lifespan is, the more valuable the customer becomes. This is dependent on how effectively the store can build trust with their both sets of customers (New and Repeat). Trust can be developed with services such as faster on-time deliveries, easy returns, or seamless checkouts. Increased customer engagement can also aid in building relationship by predicting their demands and ensuring what they need in particular from the product or service. 
+
+Increasing Purchase Frequency — 
+
+Providing recommendations to the retail customers based on the products they have had most success with and by researching their market demands. Making things easier for them with when and what to buy helps in increasing orders frequently. 
+
+Segmenting Lifetime Value — 
+
+Segmenting the customers based on their lifetime value and analyzing those segments over the span of their relationship with our business can tell us how their behaviour may change across the timeframe. For example, if a high valued customer stops buying or delays their purchasing frequency, predicting the reason of cause can help us in decreasing the churn rate of higher valued customer segments.
+
+

@@ -1,0 +1,2833 @@
+COUNTY,YEAR,STRATA,STRATA NAME,AGE GROUP,NUMBER OF ED VISITS,AGE-ADJUSTED ED VISIT RATE
+California,2017,Total population,All ages,5 - 17 Years,191904,50.4
+Alameda,2017,Total population,All ages,5 - 17 Years,9939,64.3
+Alpine,2017,Total population,All ages,5 - 17 Years,0,0
+Amador,2017,Total population,All ages,5 - 17 Years,196,58.4
+Butte,2017,Total population,All ages,5 - 17 Years,1044,50.2
+Calaveras,2017,Total population,All ages,5 - 17 Years,185,48
+Colusa,2017,Total population,All ages,5 - 17 Years,97,41.4
+Contra Costa,2017,Total population,All ages,5 - 17 Years,6858,65.2
+Del Norte,2017,Total population,All ages,5 - 17 Years,140,53
+El Dorado,2017,Total population,All ages,5 - 17 Years,592,36.4
+Fresno,2017,Total population,All ages,5 - 17 Years,7936,77
+Glenn,2017,Total population,All ages,5 - 17 Years,122,42.6
+Humboldt,2017,Total population,All ages,5 - 17 Years,835,63.4
+Imperial,2017,Total population,All ages,5 - 17 Years,1388,71.2
+Inyo,2017,Total population,All ages,5 - 17 Years,88,53.5
+Kern,2017,Total population,All ages,5 - 17 Years,5859,62.3
+Kings,2017,Total population,All ages,5 - 17 Years,1250,78.6
+Lake,2017,Total population,All ages,5 - 17 Years,478,80.4
+Lassen,2017,Total population,All ages,5 - 17 Years,148,45.3
+Los Angeles,2017,Total population,All ages,5 - 17 Years,52227,53.1
+Madera,2017,Total population,All ages,5 - 17 Years,1031,62.3
+Marin,2017,Total population,All ages,5 - 17 Years,541,22.2
+Mariposa,2017,Total population,All ages,5 - 17 Years,79,47.4
+Mendocino,2017,Total population,All ages,5 - 17 Years,479,57.4
+Merced,2017,Total population,All ages,5 - 17 Years,2425,87.4
+Modoc,2017,Total population,All ages,5 - 17 Years,53,67.9
+Mono,2017,Total population,All ages,5 - 17 Years,43,32
+Monterey,2017,Total population,All ages,5 - 17 Years,2194,50.2
+Napa,2017,Total population,All ages,5 - 17 Years,572,41.9
+Nevada,2017,Total population,All ages,5 - 17 Years,351,42.8
+Orange,2017,Total population,All ages,18 - 40  Years,10275,33.9
+Placer,2017,Total population,All ages,18 - 40  Years,1125,31.4
+Plumas,2017,Total population,All ages,18 - 40  Years,99,56.3
+Riverside,2017,Total population,All ages,18 - 40  Years,10111,43.2
+Sacramento,2017,Total population,All ages,18 - 40  Years,10109,69.2
+San Benito,2017,Total population,All ages,18 - 40  Years,285,50.1
+San Bernardino,2017,Total population,All ages,18 - 40  Years,12761,59.3
+San Diego,2017,Total population,All ages,18 - 40  Years,11646,37
+San Francisco,2017,Total population,All ages,18 - 40  Years,3141,41.3
+San Joaquin,2017,Total population,All ages,18 - 40  Years,4802,66.2
+San Luis Obispo,2017,Total population,All ages,18 - 40  Years,950,40.1
+San Mateo,2017,Total population,All ages,18 - 40  Years,2695,36.4
+Santa Barbara,2017,Total population,All ages,18 - 40  Years,1734,40.7
+Santa Clara,2017,Total population,All ages,18 - 40  Years,6521,35.1
+Santa Cruz,2017,Total population,All ages,18 - 40  Years,910,36.5
+Shasta,2017,Total population,All ages,18 - 40  Years,1015,60.5
+Sierra,2017,Total population,All ages,18 - 40  Years,9,
+Siskiyou,2017,Total population,All ages,18 - 40  Years,176,47
+Solano,2017,Total population,All ages,18 - 40  Years,3415,83.2
+Sonoma,2017,Total population,All ages,18 - 40  Years,1936,40.2
+Stanislaus,2017,Total population,All ages,18 - 40  Years,3281,60.7
+Sutter,2017,Total population,All ages,18 - 40  Years,337,34.1
+Tehama,2017,Total population,All ages,18 - 40  Years,323,52.7
+Trinity,2017,Total population,All ages,18 - 40  Years,67,60.5
+Tulare,2017,Total population,All ages,18 - 40  Years,2542,51.3
+Tuolumne,2017,Total population,All ages,18 - 40  Years,257,53.1
+Ventura,2017,Total population,All ages,18 - 40  Years,2933,35.3
+Yolo,2017,Total population,All ages,18 - 40  Years,852,44.1
+Yuba,2017,Total population,All ages,18 - 40  Years,346,45.4
+California,2017,Child vs. adult,0–17 years,5 - 17 Years,74050,80.6
+Alameda,2017,Child vs. adult,0–17 years,5 - 17 Years,3426,96.7
+Alpine,2017,Child vs. adult,0–17 years,5 - 17 Years,0,0
+Amador,2017,Child vs. adult,0–17 years,5 - 17 Years,45,85.1
+Butte,2017,Child vs. adult,0–17 years,5 - 17 Years,308,68.7
+Calaveras,2017,Child vs. adult,0–17 years,5 - 17 Years,46,63
+Colusa,2017,Child vs. adult,0–17 years,5 - 17 Years,48,77
+Contra Costa,2017,Child vs. adult,0–17 years,5 - 17 Years,2330,95.2
+Del Norte,2017,Child vs. adult,0–17 years,5 - 17 Years,49,85.2
+El Dorado,2017,Child vs. adult,0–17 years,5 - 17 Years,170,46.8
+Fresno,2017,Child vs. adult,0–17 years,5 - 17 Years,4482,156
+Glenn,2017,Child vs. adult,0–17 years,5 - 17 Years,39,51.8
+Humboldt,2017,Child vs. adult,0–17 years,5 - 17 Years,153,59.3
+Imperial,2017,Child vs. adult,0–17 years,5 - 17 Years,737,140.1
+Inyo,2017,Child vs. adult,0–17 years,5 - 17 Years,33,92
+Kern,2017,Child vs. adult,0–17 years,5 - 17 Years,2566,96.8
+Kings,2017,Child vs. adult,0–17 years,5 - 17 Years,615,143.4
+Lake,2017,Child vs. adult,0–17 years,5 - 17 Years,115,90.6
+Lassen,2017,Child vs. adult,0–17 years,5 - 17 Years,33,59.7
+Los Angeles,2017,Child vs. adult,0–17 years,5 - 17 Years,20540,88.7
+Madera,2017,Child vs. adult,0–17 years,5 - 17 Years,586,133
+Marin,2017,Child vs. adult,0–17 years,5 - 17 Years,167,33.5
+Mariposa,2017,Child vs. adult,0–17 years,5 - 17 Years,,
+Mendocino,2017,Child vs. adult,0–17 years,5 - 17 Years,130,69
+Merced,2017,Child vs. adult,0–17 years,5 - 17 Years,1110,139.8
+Modoc,2017,Child vs. adult,0–17 years,5 - 17 Years,19,100.1
+Mono,2017,Child vs. adult,0–17 years,5 - 17 Years,16,52.7
+Monterey,2017,Child vs. adult,0–17 years,5 - 17 Years,970,84.2
+Napa,2017,Child vs. adult,0–17 years,5 - 17 Years,190,62.5
+Nevada,2017,Child vs. adult,0–17 years,5 - 17 Years,79,47.9
+Orange,2017,Child vs. adult,0–17 years,5 - 17 Years,4279,59.7
+Placer,2017,Child vs. adult,0–17 years,5 - 17 Years,337,41.5
+Plumas,2017,Child vs. adult,0–17 years,5 - 17 Years,21,65.2
+Riverside,2017,Child vs. adult,0–17 years,5 - 17 Years,3917,64.9
+Sacramento,2017,Child vs. adult,0–17 years,5 - 17 Years,3285,90.8
+San Benito,2017,Child vs. adult,0–17 years,5 - 17 Years,115,76.6
+San Bernardino,2017,Child vs. adult,0–17 years,5 - 17 Years,5019,87.7
+San Diego,2017,Child vs. adult,0–17 years,5 - 17 Years,4616,62.1
+San Francisco,2017,Child vs. adult,0–17 years,5 - 17 Years,850,64.9
+San Joaquin,2017,Child vs. adult,0–17 years,5 - 17 Years,1868,95.1
+San Luis Obispo,2017,Child vs. adult,0–17 years,5 - 17 Years,321,65
+San Mateo,2017,Child vs. adult,0–17 years,5 - 17 Years,826,49.5
+Santa Barbara,2017,Child vs. adult,0–17 years,5 - 17 Years,689,70
+Santa Clara,2017,Child vs. adult,0–17 years,5 - 17 Years,1976,44.1
+Santa Cruz,2017,Child vs. adult,0–17 years,5 - 17 Years,343,60.8
+Shasta,2017,Child vs. adult,0–17 years,5 - 17 Years,300,78.1
+Sierra,2017,Child vs. adult,0–17 years,5 - 17 Years,,
+Siskiyou,2017,Child vs. adult,0–17 years,5 - 17 Years,43,50.4
+Solano,2017,Child vs. adult,0–17 years,5 - 17 Years,1141,119.4
+Sonoma,2017,Child vs. adult,0–17 years,5 - 17 Years,586,56.9
+Stanislaus,2017,Child vs. adult,0–17 years,5 - 17 Years,1236,85.8
+Sutter,2017,Child vs. adult,0–17 years,5 - 17 Years,121,47.5
+Tehama,2017,Child vs. adult,0–17 years,5 - 17 Years,128,85.3
+Trinity,2017,Child vs. adult,0–17 years,5 - 17 Years,,
+Tulare,2017,Child vs. adult,0–17 years,5 - 17 Years,1264,85.5
+Tuolumne,2017,Child vs. adult,0–17 years,5 - 17 Years,54,60.9
+Ventura,2017,Child vs. adult,0–17 years,5 - 17 Years,1271,62.7
+Yolo,2017,Child vs. adult,0–17 years,5 - 17 Years,291,67.7
+Yuba,2017,Child vs. adult,0–17 years,5 - 17 Years,131,62.5
+California,2017,Child vs. adult,18+ years,18 - 40  Years,117854,40
+Alameda,2017,Child vs. adult,18+ years,18 - 40  Years,6513,53.1
+Alpine,2017,Child vs. adult,18+ years,18 - 40  Years,0,0
+Amador,2017,Child vs. adult,18+ years,18 - 40  Years,151,49.1
+Butte,2017,Child vs. adult,18+ years,18 - 40  Years,736,43.8
+Calaveras,2017,Child vs. adult,18+ years,18 - 40  Years,139,42.7
+Colusa,2017,Child vs. adult,18+ years,18 - 40  Years,49,29
+Contra Costa,2017,Child vs. adult,18+ years,18 - 40  Years,4528,54.8
+Del Norte,2017,Child vs. adult,18+ years,18 - 40  Years,91,41.9
+El Dorado,2017,Child vs. adult,18+ years,18 - 40  Years,422,32.8
+Fresno,2017,Child vs. adult,18+ years,18 - 40  Years,3454,49.5
+Glenn,2017,Child vs. adult,18+ years,18 - 40  Years,83,39.4
+Humboldt,2017,Child vs. adult,18+ years,18 - 40  Years,682,64.8
+Imperial,2017,Child vs. adult,18+ years,18 - 40  Years,651,47.2
+Inyo,2017,Child vs. adult,18+ years,18 - 40  Years,55,40.1
+Kern,2017,Child vs. adult,18+ years,18 - 40  Years,3293,50.3
+Kings,2017,Child vs. adult,18+ years,18 - 40  Years,635,56.1
+Lake,2017,Child vs. adult,18+ years,18 - 40  Years,363,76.9
+Lassen,2017,Child vs. adult,18+ years,18 - 40  Years,115,40.2
+Los Angeles,2017,Child vs. adult,18+ years,18 - 40  Years,31687,40.8
+Madera,2017,Child vs. adult,18+ years,18 - 40  Years,445,37.7
+Marin,2017,Child vs. adult,18+ years,18 - 40  Years,374,18.3
+Mariposa,2017,Child vs. adult,18+ years,18 - 40  Years,69,51.8
+Mendocino,2017,Child vs. adult,18+ years,18 - 40  Years,349,53.4
+Merced,2017,Child vs. adult,18+ years,18 - 40  Years,1315,69.2
+Modoc,2017,Child vs. adult,18+ years,18 - 40  Years,34,56.7
+Mono,2017,Child vs. adult,18+ years,18 - 40  Years,27,24.8
+Monterey,2017,Child vs. adult,18+ years,18 - 40  Years,1224,38.3
+Napa,2017,Child vs. adult,18+ years,18 - 40  Years,382,34.7
+Nevada,2017,Child vs. adult,18+ years,18 - 40  Years,272,41
+Orange,2017,Child vs. adult,18+ years,18 - 40  Years,5996,24.9
+Placer,2017,Child vs. adult,18+ years,18 - 40  Years,788,27.9
+Plumas,2017,Child vs. adult,18+ years,18 - 40  Years,78,53.2
+Riverside,2017,Child vs. adult,18+ years,18 - 40  Years,6194,35.7
+Sacramento,2017,Child vs. adult,18+ years,18 - 40  Years,6824,61.7
+San Benito,2017,Child vs. adult,18+ years,18 - 40  Years,170,40.9
+San Bernardino,2017,Child vs. adult,18+ years,18 - 40  Years,7742,49.5
+San Diego,2017,Child vs. adult,18+ years,18 - 40  Years,7030,28.3
+San Francisco,2017,Child vs. adult,18+ years,18 - 40  Years,2291,33
+San Joaquin,2017,Child vs. adult,18+ years,18 - 40  Years,2934,56.2
+San Luis Obispo,2017,Child vs. adult,18+ years,18 - 40  Years,629,31.4
+San Mateo,2017,Child vs. adult,18+ years,18 - 40  Years,1869,31.9
+Santa Barbara,2017,Child vs. adult,18+ years,18 - 40  Years,1045,30.5
+Santa Clara,2017,Child vs. adult,18+ years,18 - 40  Years,4545,31.9
+Santa Cruz,2017,Child vs. adult,18+ years,18 - 40  Years,567,28.1
+Shasta,2017,Child vs. adult,18+ years,18 - 40  Years,715,54.4
+Sierra,2017,Child vs. adult,18+ years,18 - 40  Years,,
+Siskiyou,2017,Child vs. adult,18+ years,18 - 40  Years,133,45.8
+Solano,2017,Child vs. adult,18+ years,18 - 40  Years,2274,70.7
+Sonoma,2017,Child vs. adult,18+ years,18 - 40  Years,1350,34.4
+Stanislaus,2017,Child vs. adult,18+ years,18 - 40  Years,2045,51.9
+Sutter,2017,Child vs. adult,18+ years,18 - 40  Years,216,29.4
+Tehama,2017,Child vs. adult,18+ years,18 - 40  Years,195,41.4
+Trinity,2017,Child vs. adult,18+ years,18 - 40  Years,60,70.2
+Tulare,2017,Child vs. adult,18+ years,18 - 40  Years,1278,39.4
+Tuolumne,2017,Child vs. adult,18+ years,18 - 40  Years,203,50.4
+Ventura,2017,Child vs. adult,18+ years,18 - 40  Years,1662,25.8
+Yolo,2017,Child vs. adult,18+ years,18 - 40  Years,561,36
+Yuba,2017,Child vs. adult,18+ years,18 - 40  Years,215,39.5
+California,2017,Age groups,0–4 years,0 - 4 Years,25563,98.7
+Alameda,2017,Age groups,0–4 years,0 - 4 Years,1354,134.6
+Alpine,2017,Age groups,0–4 years,0 - 4 Years,0,0
+Amador,2017,Age groups,0–4 years,0 - 4 Years,17,128.3
+Butte,2017,Age groups,0–4 years,0 - 4 Years,99,87.8
+Calaveras,2017,Age groups,0–4 years,0 - 4 Years,18,106.8
+Colusa,2017,Age groups,0–4 years,0 - 4 Years,14,87.5
+Contra Costa,2017,Age groups,0–4 years,0 - 4 Years,791,125.5
+Del Norte,2017,Age groups,0–4 years,0 - 4 Years,,
+El Dorado,2017,Age groups,0–4 years,0 - 4 Years,48,55.9
+Fresno,2017,Age groups,0–4 years,0 - 4 Years,1792,220.1
+Glenn,2017,Age groups,0–4 years,0 - 4 Years,20,98.9
+Humboldt,2017,Age groups,0–4 years,0 - 4 Years,43,65.2
+Imperial,2017,Age groups,0–4 years,0 - 4 Years,161,100.9
+Inyo,2017,Age groups,0–4 years,0 - 4 Years,13,138.9
+Kern,2017,Age groups,0–4 years,0 - 4 Years,878,117.2
+Kings,2017,Age groups,0–4 years,0 - 4 Years,212,171.7
+Lake,2017,Age groups,0–4 years,0 - 4 Years,30,87.6
+Lassen,2017,Age groups,0–4 years,0 - 4 Years,,
+Los Angeles,2017,Age groups,0–4 years,0 - 4 Years,6693,98.7
+Madera,2017,Age groups,0–4 years,0 - 4 Years,241,198.1
+Marin,2017,Age groups,0–4 years,0 - 4 Years,61,48.5
+Mariposa,2017,Age groups,0–4 years,0 - 4 Years,,
+Mendocino,2017,Age groups,0–4 years,0 - 4 Years,40,79.4
+Merced,2017,Age groups,0–4 years,0 - 4 Years,373,176.2
+Modoc,2017,Age groups,0–4 years,0 - 4 Years,,
+Mono,2017,Age groups,0–4 years,0 - 4 Years,,
+Monterey,2017,Age groups,0–4 years,0 - 4 Years,336,99.5
+Napa,2017,Age groups,0–4 years,0 - 4 Years,54,66.2
+Nevada,2017,Age groups,0–4 years,0 - 4 Years,30,73.5
+Orange,2017,Age groups,0–4 years,0 - 4 Years,1668,82.8
+Placer,2017,Age groups,0–4 years,0 - 4 Years,91,45.2
+Plumas,2017,Age groups,0–4 years,0 - 4 Years,,
+Riverside,2017,Age groups,0–4 years,0 - 4 Years,1143,71.2
+Sacramento,2017,Age groups,0–4 years,0 - 4 Years,1150,114.6
+San Benito,2017,Age groups,0–4 years,0 - 4 Years,27,68.6
+San Bernardino,2017,Age groups,0–4 years,0 - 4 Years,1523,96.3
+San Diego,2017,Age groups,0–4 years,0 - 4 Years,1870,86.7
+San Francisco,2017,Age groups,0–4 years,0 - 4 Years,396,88.7
+San Joaquin,2017,Age groups,0–4 years,0 - 4 Years,616,116
+San Luis Obispo,2017,Age groups,0–4 years,0 - 4 Years,87,66.8
+San Mateo,2017,Age groups,0–4 years,0 - 4 Years,330,70.1
+Santa Barbara,2017,Age groups,0–4 years,0 - 4 Years,217,77.4
+Santa Clara,2017,Age groups,0–4 years,0 - 4 Years,689,55
+Santa Cruz,2017,Age groups,0–4 years,0 - 4 Years,141,85.7
+Shasta,2017,Age groups,0–4 years,0 - 4 Years,110,103.8
+Sierra,2017,Age groups,0–4 years,0 - 4 Years,0,0
+Siskiyou,2017,Age groups,0–4 years,0 - 4 Years,16,75
+Solano,2017,Age groups,0–4 years,0 - 4 Years,365,143
+Sonoma,2017,Age groups,0–4 years,0 - 4 Years,216,78.4
+Stanislaus,2017,Age groups,0–4 years,0 - 4 Years,364,92.5
+Sutter,2017,Age groups,0–4 years,0 - 4 Years,33,48
+Tehama,2017,Age groups,0–4 years,0 - 4 Years,39,104.9
+Trinity,2017,Age groups,0–4 years,0 - 4 Years,,
+Tulare,2017,Age groups,0–4 years,0 - 4 Years,508,123.4
+Tuolumne,2017,Age groups,0–4 years,0 - 4 Years,12,55.1
+Ventura,2017,Age groups,0–4 years,0 - 4 Years,442,78.4
+Yolo,2017,Age groups,0–4 years,0 - 4 Years,105,90.2
+Yuba,2017,Age groups,0–4 years,0 - 4 Years,51,85.2
+California,2017,Age groups,5–17 years,5 - 17 Years,48487,74
+Alameda,2017,Age groups,5–17 years,5 - 17 Years,2072,82.8
+Alpine,2017,Age groups,5–17 years,5 - 17 Years,0,0
+Amador,2017,Age groups,5–17 years,5 - 17 Years,28,69.3
+Butte,2017,Age groups,5–17 years,5 - 17 Years,209,61.8
+Calaveras,2017,Age groups,5–17 years,5 - 17 Years,28,47
+Colusa,2017,Age groups,5–17 years,5 - 17 Years,34,73.2
+Contra Costa,2017,Age groups,5–17 years,5 - 17 Years,1539,84.1
+Del Norte,2017,Age groups,5–17 years,5 - 17 Years,39,91.5
+El Dorado,2017,Age groups,5–17 years,5 - 17 Years,122,43.5
+Fresno,2017,Age groups,5–17 years,5 - 17 Years,2690,132.4
+Glenn,2017,Age groups,5–17 years,5 - 17 Years,19,34.5
+Humboldt,2017,Age groups,5–17 years,5 - 17 Years,110,57.2
+Imperial,2017,Age groups,5–17 years,5 - 17 Years,576,154.5
+Inyo,2017,Age groups,5–17 years,5 - 17 Years,20,74.8
+Kern,2017,Age groups,5–17 years,5 - 17 Years,1688,89.3
+Kings,2017,Age groups,5–17 years,5 - 17 Years,403,133
+Lake,2017,Age groups,5–17 years,5 - 17 Years,85,91.6
+Lassen,2017,Age groups,5–17 years,5 - 17 Years,26,62.8
+Los Angeles,2017,Age groups,5–17 years,5 - 17 Years,13847,85
+Madera,2017,Age groups,5–17 years,5 - 17 Years,345,109.1
+Marin,2017,Age groups,5–17 years,5 - 17 Years,106,28.1
+Mariposa,2017,Age groups,5–17 years,5 - 17 Years,,
+Mendocino,2017,Age groups,5–17 years,5 - 17 Years,90,65.1
+Merced,2017,Age groups,5–17 years,5 - 17 Years,737,126.4
+Modoc,2017,Age groups,5–17 years,5 - 17 Years,13,86.9
+Mono,2017,Age groups,5–17 years,5 - 17 Years,14,63.8
+Monterey,2017,Age groups,5–17 years,5 - 17 Years,634,78.5
+Napa,2017,Age groups,5–17 years,5 - 17 Years,136,61.2
+Nevada,2017,Age groups,5–17 years,5 - 17 Years,49,38.5
+Orange,2017,Age groups,5–17 years,5 - 17 Years,2611,51.3
+Placer,2017,Age groups,5–17 years,5 - 17 Years,246,40.1
+Plumas,2017,Age groups,5–17 years,5 - 17 Years,15,62.2
+Riverside,2017,Age groups,5–17 years,5 - 17 Years,2774,62.6
+Sacramento,2017,Age groups,5–17 years,5 - 17 Years,2135,82
+San Benito,2017,Age groups,5–17 years,5 - 17 Years,88,79.5
+San Bernardino,2017,Age groups,5–17 years,5 - 17 Years,3496,84.5
+San Diego,2017,Age groups,5–17 years,5 - 17 Years,2746,53.1
+San Francisco,2017,Age groups,5–17 years,5 - 17 Years,454,56.2
+San Joaquin,2017,Age groups,5–17 years,5 - 17 Years,1252,87.5
+San Luis Obispo,2017,Age groups,5–17 years,5 - 17 Years,234,64.4
+San Mateo,2017,Age groups,5–17 years,5 - 17 Years,496,41.9
+Santa Barbara,2017,Age groups,5–17 years,5 - 17 Years,472,67.2
+Santa Clara,2017,Age groups,5–17 years,5 - 17 Years,1287,40.2
+Santa Cruz,2017,Age groups,5–17 years,5 - 17 Years,202,51.7
+Shasta,2017,Age groups,5–17 years,5 - 17 Years,190,68.7
+Sierra,2017,Age groups,5–17 years,5 - 17 Years,,
+Siskiyou,2017,Age groups,5–17 years,5 - 17 Years,27,41.4
+Solano,2017,Age groups,5–17 years,5 - 17 Years,776,110.8
+Sonoma,2017,Age groups,5–17 years,5 - 17 Years,370,49
+Stanislaus,2017,Age groups,5–17 years,5 - 17 Years,872,83.4
+Sutter,2017,Age groups,5–17 years,5 - 17 Years,88,47.3
+Tehama,2017,Age groups,5–17 years,5 - 17 Years,89,78.1
+Trinity,2017,Age groups,5–17 years,5 - 17 Years,,
+Tulare,2017,Age groups,5–17 years,5 - 17 Years,756,71.5
+Tuolumne,2017,Age groups,5–17 years,5 - 17 Years,42,63.1
+Ventura,2017,Age groups,5–17 years,5 - 17 Years,829,56.9
+Yolo,2017,Age groups,5–17 years,5 - 17 Years,186,59.4
+Yuba,2017,Age groups,5–17 years,5 - 17 Years,80,54.1
+California,2017,Age groups,18–64 years,41 - 64 Years,99761,40.7
+Alameda,2017,Age groups,18–64 years,41 - 64 Years,5431,52.8
+Alpine,2017,Age groups,18–64 years,41 - 64 Years,0,0
+Amador,2017,Age groups,18–64 years,41 - 64 Years,112,50.2
+Butte,2017,Age groups,18–64 years,41 - 64 Years,631,47.3
+Calaveras,2017,Age groups,18–64 years,41 - 64 Years,115,46.8
+Colusa,2017,Age groups,18–64 years,41 - 64 Years,40,29.5
+Contra Costa,2017,Age groups,18–64 years,41 - 64 Years,3795,56.4
+Del Norte,2017,Age groups,18–64 years,41 - 64 Years,79,45.5
+El Dorado,2017,Age groups,18–64 years,41 - 64 Years,360,35.7
+Fresno,2017,Age groups,18–64 years,41 - 64 Years,2928,49.8
+Glenn,2017,Age groups,18–64 years,41 - 64 Years,75,43.4
+Humboldt,2017,Age groups,18–64 years,41 - 64 Years,590,69.6
+Imperial,2017,Age groups,18–64 years,41 - 64 Years,534,46.3
+Inyo,2017,Age groups,18–64 years,41 - 64 Years,48,45
+Kern,2017,Age groups,18–64 years,41 - 64 Years,2946,53.1
+Kings,2017,Age groups,18–64 years,41 - 64 Years,551,55.2
+Lake,2017,Age groups,18–64 years,41 - 64 Years,317,85.5
+Lassen,2017,Age groups,18–64 years,41 - 64 Years,97,40
+Los Angeles,2017,Age groups,18–64 years,41 - 64 Years,26914,41.2
+Madera,2017,Age groups,18–64 years,41 - 64 Years,361,36.9
+Marin,2017,Age groups,18–64 years,41 - 64 Years,268,17.5
+Mariposa,2017,Age groups,18–64 years,41 - 64 Years,51,54
+Mendocino,2017,Age groups,18–64 years,41 - 64 Years,296,58.2
+Merced,2017,Age groups,18–64 years,41 - 64 Years,1132,70.6
+Modoc,2017,Age groups,18–64 years,41 - 64 Years,26,61
+Mono,2017,Age groups,18–64 years,41 - 64 Years,25,27.7
+Monterey,2017,Age groups,18–64 years,41 - 64 Years,1034,38.5
+Napa,2017,Age groups,18–64 years,41 - 64 Years,297,34.5
+Nevada,2017,Age groups,18–64 years,41 - 64 Years,230,45.5
+Orange,2017,Age groups,18–64 years,41 - 64 Years,4788,23.9
+Placer,2017,Age groups,18–64 years,41 - 64 Years,611,27.9
+Plumas,2017,Age groups,18–64 years,41 - 64 Years,69,61
+Riverside,2017,Age groups,18–64 years,41 - 64 Years,5451,38
+Sacramento,2017,Age groups,18–64 years,41 - 64 Years,6011,65.5
+San Benito,2017,Age groups,18–64 years,41 - 64 Years,146,42.1
+San Bernardino,2017,Age groups,18–64 years,41 - 64 Years,6862,51.5
+San Diego,2017,Age groups,18–64 years,41 - 64 Years,5933,28.6
+San Francisco,2017,Age groups,18–64 years,41 - 64 Years,1855,32.5
+San Joaquin,2017,Age groups,18–64 years,41 - 64 Years,2558,58.7
+San Luis Obispo,2017,Age groups,18–64 years,41 - 64 Years,534,33.9
+San Mateo,2017,Age groups,18–64 years,41 - 64 Years,1399,29.6
+Santa Barbara,2017,Age groups,18–64 years,41 - 64 Years,878,31.1
+Santa Clara,2017,Age groups,18–64 years,41 - 64 Years,3711,31
+Santa Cruz,2017,Age groups,18–64 years,41 - 64 Years,474,28.2
+Shasta,2017,Age groups,18–64 years,41 - 64 Years,616,59.8
+Sierra,2017,Age groups,18–64 years,41 - 64 Years,,
+Siskiyou,2017,Age groups,18–64 years,41 - 64 Years,110,50.8
+Solano,2017,Age groups,18–64 years,41 - 64 Years,1919,72.7
+Sonoma,2017,Age groups,18–64 years,41 - 64 Years,1029,33.5
+Stanislaus,2017,Age groups,18–64 years,41 - 64 Years,1765,53.8
+Sutter,2017,Age groups,18–64 years,41 - 64 Years,175,29.6
+Tehama,2017,Age groups,18–64 years,41 - 64 Years,160,43.5
+Trinity,2017,Age groups,18–64 years,41 - 64 Years,52,79.2
+Tulare,2017,Age groups,18–64 years,41 - 64 Years,1115,40.7
+Tuolumne,2017,Age groups,18–64 years,41 - 64 Years,163,53.9
+Ventura,2017,Age groups,18–64 years,41 - 64 Years,1362,25.7
+Yolo,2017,Age groups,18–64 years,41 - 64 Years,464,35
+Yuba,2017,Age groups,18–64 years,41 - 64 Years,178,38.9
+California,2017,Age groups,65+ years,65+ years,18093,36.4
+Alameda,2017,Age groups,65+ years,65+ years,1082,54.8
+Alpine,2017,Age groups,65+ years,65+ years,0,0
+Amador,2017,Age groups,65+ years,65+ years,39,43.7
+Butte,2017,Age groups,65+ years,65+ years,105,26.7
+Calaveras,2017,Age groups,65+ years,65+ years,24,22.9
+Colusa,2017,Age groups,65+ years,65+ years,,
+Contra Costa,2017,Age groups,65+ years,65+ years,733,46.7
+Del Norte,2017,Age groups,65+ years,65+ years,12,24.1
+El Dorado,2017,Age groups,65+ years,65+ years,62,18.7
+Fresno,2017,Age groups,65+ years,65+ years,526,48.3
+Glenn,2017,Age groups,65+ years,65+ years,,
+Humboldt,2017,Age groups,65+ years,65+ years,92,41.6
+Imperial,2017,Age groups,65+ years,65+ years,117,51.7
+Inyo,2017,Age groups,65+ years,65+ years,,
+Kern,2017,Age groups,65+ years,65+ years,347,36.7
+Kings,2017,Age groups,65+ years,65+ years,84,60.3
+Lake,2017,Age groups,65+ years,65+ years,46,34.8
+Lassen,2017,Age groups,65+ years,65+ years,18,41.3
+Los Angeles,2017,Age groups,65+ years,65+ years,4773,38.8
+Madera,2017,Age groups,65+ years,65+ years,84,41.8
+Marin,2017,Age groups,65+ years,65+ years,106,21.7
+Mariposa,2017,Age groups,65+ years,65+ years,18,41.1
+Mendocino,2017,Age groups,65+ years,65+ years,53,30.1
+Merced,2017,Age groups,65+ years,65+ years,183,62.5
+Modoc,2017,Age groups,65+ years,65+ years,,
+Mono,2017,Age groups,65+ years,65+ years,,
+Monterey,2017,Age groups,65+ years,65+ years,190,37.5
+Napa,2017,Age groups,65+ years,65+ years,85,35.5
+Nevada,2017,Age groups,65+ years,65+ years,42,18.7
+Orange,2017,Age groups,65+ years,65+ years,1208,29.7
+Placer,2017,Age groups,65+ years,65+ years,177,28.1
+Plumas,2017,Age groups,65+ years,65+ years,,
+Riverside,2017,Age groups,65+ years,65+ years,743,24.5
+Sacramento,2017,Age groups,65+ years,65+ years,813,43.6
+San Benito,2017,Age groups,65+ years,65+ years,24,35.1
+San Bernardino,2017,Age groups,65+ years,65+ years,880,39.6
+San Diego,2017,Age groups,65+ years,65+ years,1097,26.8
+San Francisco,2017,Age groups,65+ years,65+ years,436,35.9
+San Joaquin,2017,Age groups,65+ years,65+ years,376,43.6
+San Luis Obispo,2017,Age groups,65+ years,65+ years,95,19.5
+San Mateo,2017,Age groups,65+ years,65+ years,470,43.1
+Santa Barbara,2017,Age groups,65+ years,65+ years,167,27.9
+Santa Clara,2017,Age groups,65+ years,65+ years,834,36.8
+Santa Cruz,2017,Age groups,65+ years,65+ years,93,27.6
+Shasta,2017,Age groups,65+ years,65+ years,99,28.1
+Sierra,2017,Age groups,65+ years,65+ years,0,0
+Siskiyou,2017,Age groups,65+ years,65+ years,23,21.7
+Solano,2017,Age groups,65+ years,65+ years,355,60.7
+Sonoma,2017,Age groups,65+ years,65+ years,321,38.9
+Stanislaus,2017,Age groups,65+ years,65+ years,280,42.8
+Sutter,2017,Age groups,65+ years,65+ years,41,28.3
+Tehama,2017,Age groups,65+ years,65+ years,35,30.8
+Trinity,2017,Age groups,65+ years,65+ years,,
+Tulare,2017,Age groups,65+ years,65+ years,163,32.9
+Tuolumne,2017,Age groups,65+ years,65+ years,40,33.1
+Ventura,2017,Age groups,65+ years,65+ years,300,26.2
+Yolo,2017,Age groups,65+ years,65+ years,97,40.7
+Yuba,2017,Age groups,65+ years,65+ years,37,42
+California,2017,Race/ethnicity,White,18 - 40  Years,54967,40.1
+Alameda,2017,Race/ethnicity,White,18 - 40  Years,1549,32
+Alpine,2017,Race/ethnicity,White,18 - 40  Years,0,0
+Amador,2017,Race/ethnicity,White,18 - 40  Years,161,63.8
+Butte,2017,Race/ethnicity,White,18 - 40  Years,764,53.3
+Calaveras,2017,Race/ethnicity,White,18 - 40  Years,156,50.1
+Colusa,2017,Race/ethnicity,White,18 - 40  Years,37,55.1
+Contra Costa,2017,Race/ethnicity,White,18 - 40  Years,1906,40.4
+Del Norte,2017,Race/ethnicity,White,18 - 40  Years,110,72.9
+El Dorado,2017,Race/ethnicity,White,18 - 40  Years,318,25.8
+Fresno,2017,Race/ethnicity,White,18 - 40  Years,1951,72.7
+Glenn,2017,Race/ethnicity,White,18 - 40  Years,73,53.9
+Humboldt,2017,Race/ethnicity,White,18 - 40  Years,634,65.5
+Imperial,2017,Race/ethnicity,White,18 - 40  Years,174,73.8
+Inyo,2017,Race/ethnicity,White,18 - 40  Years,52,50.8
+Kern,2017,Race/ethnicity,White,18 - 40  Years,1851,56.9
+Kings,2017,Race/ethnicity,White,18 - 40  Years,444,87.6
+Lake,2017,Race/ethnicity,White,18 - 40  Years,344,83.6
+Lassen,2017,Race/ethnicity,White,18 - 40  Years,126,57.3
+Los Angeles,2017,Race/ethnicity,White,18 - 40  Years,8625,35.4
+Madera,2017,Race/ethnicity,White,18 - 40  Years,229,46.6
+Marin,2017,Race/ethnicity,White,18 - 40  Years,324,19.5
+Mariposa,2017,Race/ethnicity,White,18 - 40  Years,69,51.7
+Mendocino,2017,Race/ethnicity,White,18 - 40  Years,348,70.2
+Merced,2017,Race/ethnicity,White,18 - 40  Years,702,85.7
+Modoc,2017,Race/ethnicity,White,18 - 40  Years,42,72.8
+Mono,2017,Race/ethnicity,White,18 - 40  Years,27,36
+Monterey,2017,Race/ethnicity,White,18 - 40  Years,464,44.7
+Napa,2017,Race/ethnicity,White,18 - 40  Years,318,46
+Nevada,2017,Race/ethnicity,White,18 - 40  Years,329,50.9
+Orange,2017,Race/ethnicity,White,18 - 40  Years,4025,33.8
+Placer,2017,Race/ethnicity,White,18 - 40  Years,843,33.8
+Plumas,2017,Race/ethnicity,White,18 - 40  Years,68,48.7
+Riverside,2017,Race/ethnicity,White,18 - 40  Years,3279,40.7
+Sacramento,2017,Race/ethnicity,White,18 - 40  Years,3266,49.7
+San Benito,2017,Race/ethnicity,White,18 - 40  Years,92,61.5
+San Bernardino,2017,Race/ethnicity,White,18 - 40  Years,3552,54.9
+San Diego,2017,Race/ethnicity,White,18 - 40  Years,3698,26.2
+San Francisco,2017,Race/ethnicity,White,18 - 40  Years,816,26.4
+San Joaquin,2017,Race/ethnicity,White,18 - 40  Years,1335,58
+San Luis Obispo,2017,Race/ethnicity,White,18 - 40  Years,613,39.3
+San Mateo,2017,Race/ethnicity,White,18 - 40  Years,805,28.5
+Santa Barbara,2017,Race/ethnicity,White,18 - 40  Years,632,36.8
+Santa Clara,2017,Race/ethnicity,White,18 - 40  Years,1753,30.1
+Santa Cruz,2017,Race/ethnicity,White,18 - 40  Years,428,30.7
+Shasta,2017,Race/ethnicity,White,18 - 40  Years,852,65.7
+Sierra,2017,Race/ethnicity,White,18 - 40  Years,,
+Siskiyou,2017,Race/ethnicity,White,18 - 40  Years,136,50.5
+Solano,2017,Race/ethnicity,White,18 - 40  Years,1082,69.1
+Sonoma,2017,Race/ethnicity,White,18 - 40  Years,1196,39.7
+Stanislaus,2017,Race/ethnicity,White,18 - 40  Years,1370,59.1
+Sutter,2017,Race/ethnicity,White,18 - 40  Years,176,37.8
+Tehama,2017,Race/ethnicity,White,18 - 40  Years,227,58.1
+Trinity,2017,Race/ethnicity,White,18 - 40  Years,62,74.7
+Tulare,2017,Race/ethnicity,White,18 - 40  Years,482,34.5
+Tuolumne,2017,Race/ethnicity,White,18 - 40  Years,224,59.9
+Ventura,2017,Race/ethnicity,White,18 - 40  Years,1162,33.1
+Yolo,2017,Race/ethnicity,White,18 - 40  Years,378,41
+Yuba,2017,Race/ethnicity,White,18 - 40  Years,226,53
+California,2017,Race/ethnicity,Black,18 - 40  Years,38416,177.3
+Alameda,2017,Race/ethnicity,Black,18 - 40  Years,4051,218.5
+Alpine,2017,Race/ethnicity,Black,18 - 40  Years,0,0
+Amador,2017,Race/ethnicity,Black,18 - 40  Years,,
+Butte,2017,Race/ethnicity,Black,18 - 40  Years,91,286.6
+Calaveras,2017,Race/ethnicity,Black,18 - 40  Years,,
+Colusa,2017,Race/ethnicity,Black,18 - 40  Years,,
+Contra Costa,2017,Race/ethnicity,Black,18 - 40  Years,2150,232.7
+Del Norte,2017,Race/ethnicity,Black,18 - 40  Years,,
+El Dorado,2017,Race/ethnicity,Black,18 - 40  Years,19,176.3
+Fresno,2017,Race/ethnicity,Black,18 - 40  Years,775,153
+Glenn,2017,Race/ethnicity,Black,18 - 40  Years,,
+Humboldt,2017,Race/ethnicity,Black,18 - 40  Years,49,379.6
+Imperial,2017,Race/ethnicity,Black,18 - 40  Years,48,119.3
+Inyo,2017,Race/ethnicity,Black,18 - 40  Years,0,0
+Kern,2017,Race/ethnicity,Black,18 - 40  Years,1039,201.5
+Kings,2017,Race/ethnicity,Black,18 - 40  Years,167,177.7
+Lake,2017,Race/ethnicity,Black,18 - 40  Years,21,221.7
+Lassen,2017,Race/ethnicity,Black,18 - 40  Years,,
+Los Angeles,2017,Race/ethnicity,Black,18 - 40  Years,13260,175.8
+Madera,2017,Race/ethnicity,Black,18 - 40  Years,70,194.6
+Marin,2017,Race/ethnicity,Black,18 - 40  Years,54,87.8
+Mariposa,2017,Race/ethnicity,Black,18 - 40  Years,,
+Mendocino,2017,Race/ethnicity,Black,18 - 40  Years,13,180.4
+Merced,2017,Race/ethnicity,Black,41 - 64 Years,284,361.6
+Modoc,2017,Race/ethnicity,Black,41 - 64 Years,0,0
+Mono,2017,Race/ethnicity,Black,41 - 64 Years,0,0
+Monterey,2017,Race/ethnicity,Black,41 - 64 Years,135,161.4
+Napa,2017,Race/ethnicity,Black,41 - 64 Years,26,135.9
+Nevada,2017,Race/ethnicity,Black,41 - 64 Years,,
+Orange,2017,Race/ethnicity,Black,41 - 64 Years,610,126
+Placer,2017,Race/ethnicity,Black,41 - 64 Years,43,112.5
+Plumas,2017,Race/ethnicity,Black,41 - 64 Years,,
+Riverside,2017,Race/ethnicity,Black,41 - 64 Years,1996,139.5
+Sacramento,2017,Race/ethnicity,Black,41 - 64 Years,3440,229.9
+San Benito,2017,Race/ethnicity,Black,41 - 64 Years,,
+San Bernardino,2017,Race/ethnicity,Black,41 - 64 Years,2935,154.9
+San Diego,2017,Race/ethnicity,Black,41 - 64 Years,1883,129.8
+San Francisco,2017,Race/ethnicity,Black,41 - 64 Years,994,227.5
+San Joaquin,2017,Race/ethnicity,Black,41 - 64 Years,1194,215.7
+San Luis Obispo,2017,Race/ethnicity,Black,41 - 64 Years,45,132.3
+San Mateo,2017,Race/ethnicity,Black,41 - 64 Years,132,67.7
+Santa Barbara,2017,Race/ethnicity,Black,41 - 64 Years,115,151.5
+Santa Clara,2017,Race/ethnicity,Black,41 - 64 Years,602,117.5
+Santa Cruz,2017,Race/ethnicity,Black,41 - 64 Years,22,87.4
+Shasta,2017,Race/ethnicity,Black,41 - 64 Years,24,148.8
+Sierra,2017,Race/ethnicity,Black,41 - 64 Years,0,0
+Siskiyou,2017,Race/ethnicity,Black,41 - 64 Years,,
+Solano,2017,Race/ethnicity,Black,41 - 64 Years,1228,232.8
+Sonoma,2017,Race/ethnicity,Black,41 - 64 Years,97,121.5
+Stanislaus,2017,Race/ethnicity,Black,41 - 64 Years,379,280.5
+Sutter,2017,Race/ethnicity,Black,41 - 64 Years,21,131.3
+Tehama,2017,Race/ethnicity,Black,41 - 64 Years,,
+Trinity,2017,Race/ethnicity,Black,41 - 64 Years,0,0
+Tulare,2017,Race/ethnicity,Black,41 - 64 Years,70,129.5
+Tuolumne,2017,Race/ethnicity,Black,41 - 64 Years,11,
+Ventura,2017,Race/ethnicity,Black,41 - 64 Years,156,141.2
+Yolo,2017,Race/ethnicity,Black,41 - 64 Years,62,108
+Yuba,2017,Race/ethnicity,Black,41 - 64 Years,29,135
+California,2017,Race/ethnicity,Hispanic,41 - 64 Years,77639,48.8
+Alameda,2017,Race/ethnicity,Hispanic,41 - 64 Years,2263,57.7
+Alpine,2017,Race/ethnicity,Hispanic,41 - 64 Years,0,0
+Amador,2017,Race/ethnicity,Hispanic,41 - 64 Years,24,53.8
+Butte,2017,Race/ethnicity,Hispanic,41 - 64 Years,121,33.5
+Calaveras,2017,Race/ethnicity,Hispanic,41 - 64 Years,21,37.7
+Colusa,2017,Race/ethnicity,Hispanic,41 - 64 Years,54,34.9
+Contra Costa,2017,Race/ethnicity,Hispanic,41 - 64 Years,1937,68.2
+Del Norte,2017,Race/ethnicity,Hispanic,41 - 64 Years,15,26.1
+El Dorado,2017,Race/ethnicity,Hispanic,41 - 64 Years,101,41.7
+Fresno,2017,Race/ethnicity,Hispanic,41 - 64 Years,4827,83.8
+Glenn,2017,Race/ethnicity,Hispanic,41 - 64 Years,39,33.9
+Humboldt,2017,Race/ethnicity,Hispanic,41 - 64 Years,40,25.7
+Imperial,2017,Race/ethnicity,Hispanic,41 - 64 Years,1139,70.4
+Inyo,2017,Race/ethnicity,Hispanic,41 - 64 Years,23,47.7
+Kern,2017,Race/ethnicity,Hispanic,41 - 64 Years,2694,53.4
+Kings,2017,Race/ethnicity,Hispanic,41 - 64 Years,592,70.7
+Lake,2017,Race/ethnicity,Hispanic,41 - 64 Years,79,70
+Lassen,2017,Race/ethnicity,Hispanic,41 - 64 Years,,
+Los Angeles,2017,Race/ethnicity,Hispanic,0 - 4 Years,25709,50
+Madera,2017,Race/ethnicity,Hispanic,0 - 4 Years,704,68.8
+Marin,2017,Race/ethnicity,Hispanic,0 - 4 Years,118,27.2
+Mariposa,2017,Race/ethnicity,Hispanic,0 - 4 Years,,
+Mendocino,2017,Race/ethnicity,Hispanic,0 - 4 Years,82,33.3
+Merced,2017,Race/ethnicity,Hispanic,0 - 4 Years,1355,82.2
+Modoc,2017,Race/ethnicity,Hispanic,0 - 4 Years,,
+Mono,2017,Race/ethnicity,Hispanic,0 - 4 Years,16,32
+Monterey,2017,Race/ethnicity,Hispanic,0 - 4 Years,1393,51
+Napa,2017,Race/ethnicity,Hispanic,0 - 4 Years,168,32.4
+Nevada,2017,Race/ethnicity,Hispanic,0 - 4 Years,14,15.1
+Orange,2017,Race/ethnicity,Hispanic,0 - 4 Years,4274,36.5
+Placer,2017,Race/ethnicity,Hispanic,0 - 4 Years,137,23.5
+Plumas,2017,Race/ethnicity,Hispanic,0 - 4 Years,21,134.6
+Riverside,2017,Race/ethnicity,Hispanic,0 - 4 Years,4192,36.6
+Sacramento,2017,Race/ethnicity,Hispanic,0 - 4 Years,2046,59.2
+San Benito,2017,Race/ethnicity,Hispanic,0 - 4 Years,183,49.6
+San Bernardino,2017,Race/ethnicity,Hispanic,5 - 17 Years,5105,45.3
+San Diego,2017,Race/ethnicity,Hispanic,5 - 17 Years,4392,37.7
+San Francisco,2017,Race/ethnicity,Hispanic,5 - 17 Years,593,48.5
+San Joaquin,2017,Race/ethnicity,Hispanic,5 - 17 Years,1699,56.9
+San Luis Obispo,2017,Race/ethnicity,Hispanic,5 - 17 Years,236,35.3
+San Mateo,2017,Race/ethnicity,Hispanic,5 - 17 Years,1154,58.3
+Santa Barbara,2017,Race/ethnicity,Hispanic,5 - 17 Years,921,42.6
+Santa Clara,2017,Race/ethnicity,Hispanic,5 - 17 Years,2872,54.5
+Santa Cruz,2017,Race/ethnicity,Hispanic,5 - 17 Years,441,45.6
+Shasta,2017,Race/ethnicity,Hispanic,5 - 17 Years,64,33.5
+Sierra,2017,Race/ethnicity,Hispanic,5 - 17 Years,,
+Siskiyou,2017,Race/ethnicity,Hispanic,5 - 17 Years,12,22.7
+Solano,2017,Race/ethnicity,Hispanic,5 - 17 Years,656,59.3
+Sonoma,2017,Race/ethnicity,Hispanic,5 - 17 Years,508,37
+Stanislaus,2017,Race/ethnicity,Hispanic,5 - 17 Years,1296,53.1
+Sutter,2017,Race/ethnicity,Hispanic,5 - 17 Years,91,27.9
+Tehama,2017,Race/ethnicity,Hispanic,5 - 17 Years,77,50.4
+Trinity,2017,Race/ethnicity,Hispanic,5 - 17 Years,,
+Tulare,2017,Race/ethnicity,Hispanic,5 - 17 Years,1273,38.1
+Tuolumne,2017,Race/ethnicity,Hispanic,5 - 17 Years,15,22.5
+Ventura,2017,Race/ethnicity,Hispanic,5 - 17 Years,1443,37.4
+Yolo,2017,Race/ethnicity,Hispanic,5 - 17 Years,313,48.7
+Yuba,2017,Race/ethnicity,Hispanic,5 - 17 Years,62,29.2
+California,2017,Race/ethnicity,Asian/PI,5 - 17 Years,9676,19.4
+Alameda,2017,Race/ethnicity,Asian/PI,5 - 17 Years,957,23
+Alpine,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Amador,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Butte,2017,Race/ethnicity,Asian/PI,5 - 17 Years,19,21.1
+Calaveras,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Colusa,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Contra Costa,2017,Race/ethnicity,Asian/PI,5 - 17 Years,401,26.3
+Del Norte,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+El Dorado,2017,Race/ethnicity,Asian/PI,5 - 17 Years,12,18.4
+Fresno,2017,Race/ethnicity,Asian/PI,5 - 17 Years,237,25.5
+Glenn,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Humboldt,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Imperial,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Inyo,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Kern,2017,Race/ethnicity,Asian/PI,5 - 17 Years,79,23.5
+Kings,2017,Race/ethnicity,Asian/PI,5 - 17 Years,11,
+Lake,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Lassen,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Los Angeles,2017,Race/ethnicity,Asian/PI,5 - 17 Years,2360,18
+Madera,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Marin,2017,Race/ethnicity,Asian/PI,5 - 17 Years,25,17.4
+Mariposa,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Mendocino,2017,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Merced,2017,Race/ethnicity,Asian/PI,5 - 17 Years,33,20.3
+Modoc,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Mono,2017,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Monterey,2017,Race/ethnicity,Asian/PI,5 - 17 Years,86,31.9
+Napa,2017,Race/ethnicity,Asian/PI,5 - 17 Years,34,34
+Nevada,2017,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Orange,2017,Race/ethnicity,Asian/PI,41 - 64 Years,814,14.8
+Placer,2017,Race/ethnicity,Asian/PI,41 - 64 Years,42,15.4
+Plumas,2017,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Riverside,2017,Race/ethnicity,Asian/PI,41 - 64 Years,182,13.5
+Sacramento,2017,Race/ethnicity,Asian/PI,41 - 64 Years,749,33.4
+San Benito,2017,Race/ethnicity,Asian/PI,41 - 64 Years,,
+San Bernardino,2017,Race/ethnicity,Asian/PI,41 - 64 Years,214,17.4
+San Diego,2017,Race/ethnicity,Asian/PI,41 - 64 Years,668,19.4
+San Francisco,2017,Race/ethnicity,Asian/PI,41 - 64 Years,498,20.4
+San Joaquin,2017,Race/ethnicity,Asian/PI,41 - 64 Years,328,32
+San Luis Obispo,2017,Race/ethnicity,Asian/PI,41 - 64 Years,11,
+San Mateo,2017,Race/ethnicity,Asian/PI,41 - 64 Years,361,18.5
+Santa Barbara,2017,Race/ethnicity,Asian/PI,41 - 64 Years,38,23.5
+Santa Clara,2017,Race/ethnicity,Asian/PI,41 - 64 Years,943,16
+Santa Cruz,2017,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Shasta,2017,Race/ethnicity,Asian/PI,41 - 64 Years,20,33.8
+Sierra,2017,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Siskiyou,2017,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Solano,2017,Race/ethnicity,Asian/PI,41 - 64 Years,212,33.3
+Sonoma,2017,Race/ethnicity,Asian/PI,41 - 64 Years,32,16.9
+Stanislaus,2017,Race/ethnicity,Asian/PI,41 - 64 Years,59,21
+Sutter,2017,Race/ethnicity,Asian/PI,41 - 64 Years,31,20.7
+Tehama,2017,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Trinity,2017,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Tulare,2017,Race/ethnicity,Asian/PI,41 - 64 Years,23,14.1
+Tuolumne,2017,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Ventura,2017,Race/ethnicity,Asian/PI,41 - 64 Years,76,13.8
+Yolo,2017,Race/ethnicity,Asian/PI,41 - 64 Years,58,33.8
+Yuba,2017,Race/ethnicity,Asian/PI,41 - 64 Years,14,37.9
+California,2017,Race/ethnicity,AI/AN,41 - 64 Years,765,47
+Alameda,2017,Race/ethnicity,AI/AN,41 - 64 Years,185,469.6
+Alpine,2017,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Amador,2017,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Butte,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Calaveras,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Colusa,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Contra Costa,2017,Race/ethnicity,AI/AN,41 - 64 Years,13,50.9
+Del Norte,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+El Dorado,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Fresno,2017,Race/ethnicity,AI/AN,41 - 64 Years,11,
+Glenn,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Humboldt,2017,Race/ethnicity,AI/AN,41 - 64 Years,49,70.4
+Imperial,2017,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Inyo,2017,Race/ethnicity,AI/AN,41 - 64 Years,12,71.6
+Kern,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Kings,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Lake,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Lassen,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Los Angeles,2017,Race/ethnicity,AI/AN,41 - 64 Years,51,26.1
+Madera,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Marin,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mariposa,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mendocino,2017,Race/ethnicity,AI/AN,41 - 64 Years,19,56.8
+Merced,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Modoc,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mono,2017,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Monterey,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Napa,2017,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Nevada,2017,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Orange,2017,Race/ethnicity,AI/AN,41 - 64 Years,13,23.7
+Placer,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Plumas,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Riverside,2017,Race/ethnicity,AI/AN,41 - 64 Years,44,40.2
+Sacramento,2017,Race/ethnicity,AI/AN,41 - 64 Years,43,55.3
+San Benito,2017,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+San Bernardino,2017,Race/ethnicity,AI/AN,41 - 64 Years,69,82.7
+San Diego,2017,Race/ethnicity,AI/AN,41 - 64 Years,25,17.5
+San Francisco,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+San Joaquin,2017,Race/ethnicity,AI/AN,41 - 64 Years,19,60.9
+San Luis Obispo,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+San Mateo,2017,Race/ethnicity,AI/AN,41 - 64 Years,,
+Santa Barbara,2017,Race/ethnicity,AI/AN,65+ years,,
+Santa Clara,2017,Race/ethnicity,AI/AN,65+ years,,
+Santa Cruz,2017,Race/ethnicity,AI/AN,65+ years,0,0
+Shasta,2017,Race/ethnicity,AI/AN,65+ years,28,64.9
+Sierra,2017,Race/ethnicity,AI/AN,65+ years,0,0
+Siskiyou,2017,Race/ethnicity,AI/AN,65+ years,,
+Solano,2017,Race/ethnicity,AI/AN,65+ years,12,59.4
+Sonoma,2017,Race/ethnicity,AI/AN,65+ years,21,49.9
+Stanislaus,2017,Race/ethnicity,AI/AN,65+ years,,
+Sutter,2017,Race/ethnicity,AI/AN,65+ years,,
+Tehama,2017,Race/ethnicity,AI/AN,65+ years,0,0
+Trinity,2017,Race/ethnicity,AI/AN,65+ years,,
+Tulare,2017,Race/ethnicity,AI/AN,65+ years,23,69.3
+Tuolumne,2017,Race/ethnicity,AI/AN,65+ years,0,0
+Ventura,2017,Race/ethnicity,AI/AN,65+ years,,
+Yolo,2017,Race/ethnicity,AI/AN,65+ years,,
+Yuba,2017,Race/ethnicity,AI/AN,65+ years,,
+California,2018,Total population,All ages,65+ years,174733,45.8
+Alameda,2018,Total population,All ages,65+ years,9086,57.8
+Alpine,2018,Total population,All ages,65+ years,,
+Amador,2018,Total population,All ages,65+ years,187,61.8
+Butte,2018,Total population,All ages,65+ years,770,38.1
+Calaveras,2018,Total population,All ages,65+ years,171,45.3
+Colusa,2018,Total population,All ages,65+ years,67,29.6
+Contra Costa,2018,Total population,All ages,65+ years,6021,56.8
+Del Norte,2018,Total population,All ages,65+ years,172,71.1
+El Dorado,2018,Total population,All ages,65+ years,564,35.5
+Fresno,2018,Total population,All ages,65+ years,6930,67.4
+Glenn,2018,Total population,All ages,65+ years,103,36.3
+Humboldt,2018,Total population,All ages,65+ years,815,64.5
+Imperial,2018,Total population,All ages,65+ years,1287,66.3
+Inyo,2018,Total population,All ages,65+ years,90,53.7
+Kern,2018,Total population,All ages,65+ years,5008,54.5
+Kings,2018,Total population,All ages,65+ years,1027,65
+Lake,2018,Total population,All ages,65+ years,487,79.4
+Lassen,2018,Total population,All ages,65+ years,118,40.7
+Los Angeles,2018,Total population,All ages,65+ years,50778,51.5
+Madera,2018,Total population,All ages,65+ years,956,60.2
+Marin,2018,Total population,All ages,65+ years,543,23.1
+Mariposa,2018,Total population,All ages,65+ years,66,45.3
+Mendocino,2018,Total population,All ages,65+ years,451,56.4
+Merced,2018,Total population,All ages,65+ years,2211,79.2
+Modoc,2018,Total population,All ages,65+ years,59,80.1
+Mono,2018,Total population,All ages,65+ years,33,28.1
+Monterey,2018,Total population,All ages,65+ years,1959,44.3
+Napa,2018,Total population,All ages,65+ years,439,33.5
+Nevada,2018,Total population,All ages,65+ years,267,33.6
+Orange,2018,Total population,All ages,65+ years,8878,29.2
+Placer,2018,Total population,All ages,65+ years,968,28.3
+Plumas,2018,Total population,All ages,65+ years,99,61.4
+Riverside,2018,Total population,All ages,65+ years,9596,41.5
+Sacramento,2018,Total population,All ages,65+ years,8953,60.7
+San Benito,2018,Total population,All ages,65+ years,268,48.7
+San Bernardino,2018,Total population,All ages,65+ years,11335,51.9
+San Diego,2018,Total population,All ages,65+ years,10068,30.9
+San Francisco,2018,Total population,All ages,65+ years,2997,38.5
+San Joaquin,2018,Total population,All ages,65+ years,4245,57.5
+San Luis Obispo,2018,Total population,All ages,65+ years,926,38.1
+San Mateo,2018,Total population,All ages,65+ years,2382,32.5
+Santa Barbara,2018,Total population,All ages,65+ years,1641,37.7
+Santa Clara,2018,Total population,All ages,65+ years,5534,29.1
+Santa Cruz,2018,Total population,All ages,65+ years,864,34.4
+Shasta,2018,Total population,All ages,65+ years,726,46.4
+Sierra,2018,Total population,All ages,65+ years,8,
+Siskiyou,2018,Total population,All ages,65+ years,128,33.7
+Solano,2018,Total population,All ages,65+ years,3349,80.8
+Sonoma,2018,Total population,All ages,65+ years,1682,36.6
+Stanislaus,2018,Total population,All ages,65+ years,2763,51.3
+Sutter,2018,Total population,All ages,65+ years,324,33.7
+Tehama,2018,Total population,All ages,65+ years,335,55.9
+Trinity,2018,Total population,All ages,65+ years,55,52.7
+Tulare,2018,Total population,All ages,65+ years,1980,40.5
+Tuolumne,2018,Total population,All ages,65+ years,224,46.9
+Ventura,2018,Total population,All ages,65+ years,2619,32.4
+Yolo,2018,Total population,All ages,65+ years,774,38.4
+Yuba,2018,Total population,All ages,65+ years,297,39.2
+California,2018,Child vs. adult,0–17 years,5 - 17 Years,69375,75.3
+Alameda,2018,Child vs. adult,0–17 years,5 - 17 Years,3435,98.5
+Alpine,2018,Child vs. adult,0–17 years,5 - 17 Years,0,0
+Amador,2018,Child vs. adult,0–17 years,5 - 17 Years,56,100.4
+Butte,2018,Child vs. adult,0–17 years,5 - 17 Years,226,49.9
+Calaveras,2018,Child vs. adult,0–17 years,5 - 17 Years,40,53.8
+Colusa,2018,Child vs. adult,0–17 years,5 - 17 Years,26,43.1
+Contra Costa,2018,Child vs. adult,0–17 years,5 - 17 Years,2185,88.8
+Del Norte,2018,Child vs. adult,0–17 years,5 - 17 Years,71,120.8
+El Dorado,2018,Child vs. adult,0–17 years,5 - 17 Years,155,44.5
+Fresno,2018,Child vs. adult,0–17 years,5 - 17 Years,4066,143.1
+Glenn,2018,Child vs. adult,0–17 years,5 - 17 Years,38,50.6
+Humboldt,2018,Child vs. adult,0–17 years,5 - 17 Years,160,57.7
+Imperial,2018,Child vs. adult,0–17 years,5 - 17 Years,718,133
+Inyo,2018,Child vs. adult,0–17 years,5 - 17 Years,39,96.8
+Kern,2018,Child vs. adult,0–17 years,5 - 17 Years,2228,86.8
+Kings,2018,Child vs. adult,0–17 years,5 - 17 Years,510,111
+Lake,2018,Child vs. adult,0–17 years,5 - 17 Years,108,79.6
+Lassen,2018,Child vs. adult,0–17 years,5 - 17 Years,32,60.7
+Los Angeles,2018,Child vs. adult,0–17 years,5 - 17 Years,20462,88.5
+Madera,2018,Child vs. adult,0–17 years,5 - 17 Years,595,140.3
+Marin,2018,Child vs. adult,0–17 years,5 - 17 Years,166,33
+Mariposa,2018,Child vs. adult,0–17 years,5 - 17 Years,22,77.6
+Mendocino,2018,Child vs. adult,0–17 years,5 - 17 Years,128,66.7
+Merced,2018,Child vs. adult,0–17 years,5 - 17 Years,1039,130.9
+Modoc,2018,Child vs. adult,0–17 years,5 - 17 Years,19,114.2
+Mono,2018,Child vs. adult,0–17 years,5 - 17 Years,14,49.4
+Monterey,2018,Child vs. adult,0–17 years,5 - 17 Years,758,65.4
+Napa,2018,Child vs. adult,0–17 years,5 - 17 Years,148,51.6
+Nevada,2018,Child vs. adult,0–17 years,5 - 17 Years,60,37.4
+Orange,2018,Child vs. adult,0–17 years,5 - 17 Years,3872,53.7
+Placer,2018,Child vs. adult,0–17 years,5 - 17 Years,288,38.4
+Plumas,2018,Child vs. adult,0–17 years,5 - 17 Years,22,70.4
+Riverside,2018,Child vs. adult,0–17 years,5 - 17 Years,3951,66.5
+Sacramento,2018,Child vs. adult,0–17 years,5 - 17 Years,2825,78.2
+San Benito,2018,Child vs. adult,0–17 years,5 - 17 Years,120,83.2
+San Bernardino,2018,Child vs. adult,0–17 years,5 - 17 Years,4679,81.2
+San Diego,2018,Child vs. adult,0–17 years,5 - 17 Years,4085,51
+San Francisco,2018,Child vs. adult,0–17 years,5 - 17 Years,930,67.7
+San Joaquin,2018,Child vs. adult,0–17 years,5 - 17 Years,1587,80.1
+San Luis Obispo,2018,Child vs. adult,0–17 years,5 - 17 Years,268,54.3
+San Mateo,2018,Child vs. adult,0–17 years,5 - 17 Years,782,48.2
+Santa Barbara,2018,Child vs. adult,0–17 years,5 - 17 Years,685,67.8
+Santa Clara,2018,Child vs. adult,0–17 years,5 - 17 Years,1676,37.4
+Santa Cruz,2018,Child vs. adult,0–17 years,5 - 17 Years,332,56
+Shasta,2018,Child vs. adult,0–17 years,5 - 17 Years,255,68.5
+Sierra,2018,Child vs. adult,0–17 years,5 - 17 Years,,
+Siskiyou,2018,Child vs. adult,0–17 years,5 - 17 Years,29,33.2
+Solano,2018,Child vs. adult,0–17 years,5 - 17 Years,1079,108.9
+Sonoma,2018,Child vs. adult,0–17 years,5 - 17 Years,535,55.1
+Stanislaus,2018,Child vs. adult,0–17 years,5 - 17 Years,1062,73.3
+Sutter,2018,Child vs. adult,0–17 years,5 - 17 Years,126,50.7
+Tehama,2018,Child vs. adult,0–17 years,5 - 17 Years,112,72.6
+Trinity,2018,Child vs. adult,0–17 years,5 - 17 Years,12,56.9
+Tulare,2018,Child vs. adult,0–17 years,5 - 17 Years,960,66.4
+Tuolumne,2018,Child vs. adult,0–17 years,5 - 17 Years,52,59.3
+Ventura,2018,Child vs. adult,0–17 years,5 - 17 Years,1164,58.8
+Yolo,2018,Child vs. adult,0–17 years,5 - 17 Years,287,59.4
+Yuba,2018,Child vs. adult,0–17 years,5 - 17 Years,95,43.7
+California,2018,Child vs. adult,18+ years,18 - 40  Years,105358,35.5
+Alameda,2018,Child vs. adult,18+ years,18 - 40  Years,5651,43.7
+Alpine,2018,Child vs. adult,18+ years,18 - 40  Years,,
+Amador,2018,Child vs. adult,18+ years,18 - 40  Years,131,48.4
+Butte,2018,Child vs. adult,18+ years,18 - 40  Years,544,34
+Calaveras,2018,Child vs. adult,18+ years,18 - 40  Years,131,42.3
+Colusa,2018,Child vs. adult,18+ years,18 - 40  Years,41,25
+Contra Costa,2018,Child vs. adult,18+ years,18 - 40  Years,3836,45.7
+Del Norte,2018,Child vs. adult,18+ years,18 - 40  Years,101,53.9
+El Dorado,2018,Child vs. adult,18+ years,18 - 40  Years,409,32.4
+Fresno,2018,Child vs. adult,18+ years,18 - 40  Years,2864,41.1
+Glenn,2018,Child vs. adult,18+ years,18 - 40  Years,65,31.3
+Humboldt,2018,Child vs. adult,18+ years,18 - 40  Years,655,66.8
+Imperial,2018,Child vs. adult,18+ years,18 - 40  Years,569,43.1
+Inyo,2018,Child vs. adult,18+ years,18 - 40  Years,51,38.8
+Kern,2018,Child vs. adult,18+ years,18 - 40  Years,2780,43.3
+Kings,2018,Child vs. adult,18+ years,18 - 40  Years,517,49
+Lake,2018,Child vs. adult,18+ years,18 - 40  Years,379,79.4
+Lassen,2018,Child vs. adult,18+ years,18 - 40  Years,86,33.8
+Los Angeles,2018,Child vs. adult,18+ years,18 - 40  Years,30316,38.6
+Madera,2018,Child vs. adult,18+ years,18 - 40  Years,361,32.3
+Marin,2018,Child vs. adult,18+ years,18 - 40  Years,377,19.7
+Mariposa,2018,Child vs. adult,18+ years,18 - 40  Years,44,34.1
+Mendocino,2018,Child vs. adult,18+ years,18 - 40  Years,323,52.8
+Merced,2018,Child vs. adult,18+ years,18 - 40  Years,1172,61.2
+Modoc,2018,Child vs. adult,18+ years,18 - 40  Years,40,68.2
+Mono,2018,Child vs. adult,18+ years,18 - 40  Years,19,20.8
+Monterey,2018,Child vs. adult,18+ years,18 - 40  Years,1201,37
+Napa,2018,Child vs. adult,18+ years,18 - 40  Years,291,27.2
+Nevada,2018,Child vs. adult,18+ years,18 - 40  Years,207,32.3
+Orange,2018,Child vs. adult,18+ years,18 - 40  Years,5006,20.7
+Placer,2018,Child vs. adult,18+ years,18 - 40  Years,680,24.8
+Plumas,2018,Child vs. adult,18+ years,18 - 40  Years,77,58.3
+Riverside,2018,Child vs. adult,18+ years,18 - 40  Years,5645,32.7
+Sacramento,2018,Child vs. adult,18+ years,18 - 40  Years,6128,54.7
+San Benito,2018,Child vs. adult,18+ years,18 - 40  Years,148,36.8
+San Bernardino,2018,Child vs. adult,18+ years,18 - 40  Years,6656,41.8
+San Diego,2018,Child vs. adult,18+ years,18 - 40  Years,5983,24
+San Francisco,2018,Child vs. adult,18+ years,18 - 40  Years,2067,28.4
+San Joaquin,2018,Child vs. adult,18+ years,18 - 40  Years,2658,49.6
+San Luis Obispo,2018,Child vs. adult,18+ years,18 - 40  Years,658,32.4
+San Mateo,2018,Child vs. adult,18+ years,18 - 40  Years,1600,27
+Santa Barbara,2018,Child vs. adult,18+ years,18 - 40  Years,956,27.3
+Santa Clara,2018,Child vs. adult,18+ years,18 - 40  Years,3858,26.1
+Santa Cruz,2018,Child vs. adult,18+ years,18 - 40  Years,532,26.9
+Shasta,2018,Child vs. adult,18+ years,18 - 40  Years,471,38.7
+Sierra,2018,Child vs. adult,18+ years,18 - 40  Years,,
+Siskiyou,2018,Child vs. adult,18+ years,18 - 40  Years,99,33.9
+Solano,2018,Child vs. adult,18+ years,18 - 40  Years,2270,71
+Sonoma,2018,Child vs. adult,18+ years,18 - 40  Years,1147,30.2
+Stanislaus,2018,Child vs. adult,18+ years,18 - 40  Years,1701,43.6
+Sutter,2018,Child vs. adult,18+ years,18 - 40  Years,198,27.8
+Tehama,2018,Child vs. adult,18+ years,18 - 40  Years,223,50.2
+Trinity,2018,Child vs. adult,18+ years,18 - 40  Years,43,51.2
+Tulare,2018,Child vs. adult,18+ years,18 - 40  Years,1020,31.6
+Tuolumne,2018,Child vs. adult,18+ years,18 - 40  Years,172,42.6
+Ventura,2018,Child vs. adult,18+ years,18 - 40  Years,1455,23.2
+Yolo,2018,Child vs. adult,18+ years,18 - 40  Years,487,31.1
+Yuba,2018,Child vs. adult,18+ years,18 - 40  Years,202,37.7
+California,2018,Age groups,0–4 years,0 - 4 Years,23613,94.8
+Alameda,2018,Age groups,0–4 years,0 - 4 Years,1329,137.4
+Alpine,2018,Age groups,0–4 years,0 - 4 Years,0,0
+Amador,2018,Age groups,0–4 years,0 - 4 Years,13,94
+Butte,2018,Age groups,0–4 years,0 - 4 Years,60,49.4
+Calaveras,2018,Age groups,0–4 years,0 - 4 Years,,
+Colusa,2018,Age groups,0–4 years,0 - 4 Years,,
+Contra Costa,2018,Age groups,0–4 years,0 - 4 Years,740,118.7
+Del Norte,2018,Age groups,0–4 years,0 - 4 Years,19,119.9
+El Dorado,2018,Age groups,0–4 years,0 - 4 Years,42,53.8
+Fresno,2018,Age groups,0–4 years,0 - 4 Years,1621,206.3
+Glenn,2018,Age groups,0–4 years,0 - 4 Years,13,66.7
+Humboldt,2018,Age groups,0–4 years,0 - 4 Years,57,76.2
+Imperial,2018,Age groups,0–4 years,0 - 4 Years,177,105.6
+Inyo,2018,Age groups,0–4 years,0 - 4 Years,20,168.4
+Kern,2018,Age groups,0–4 years,0 - 4 Years,704,100.4
+Kings,2018,Age groups,0–4 years,0 - 4 Years,187,157
+Lake,2018,Age groups,0–4 years,0 - 4 Years,37,98.5
+Lassen,2018,Age groups,0–4 years,0 - 4 Years,,
+Los Angeles,2018,Age groups,0–4 years,0 - 4 Years,6606,103.7
+Madera,2018,Age groups,0–4 years,0 - 4 Years,224,196.7
+Marin,2018,Age groups,0–4 years,0 - 4 Years,55,46.6
+Mariposa,2018,Age groups,0–4 years,0 - 4 Years,,
+Mendocino,2018,Age groups,0–4 years,0 - 4 Years,44,83.9
+Merced,2018,Age groups,0–4 years,0 - 4 Years,330,157.8
+Modoc,2018,Age groups,0–4 years,0 - 4 Years,,
+Mono,2018,Age groups,0–4 years,0 - 4 Years,,
+Monterey,2018,Age groups,0–4 years,0 - 4 Years,251,78.3
+Napa,2018,Age groups,0–4 years,0 - 4 Years,50,68.1
+Nevada,2018,Age groups,0–4 years,0 - 4 Years,18,44.6
+Orange,2018,Age groups,0–4 years,0 - 4 Years,1451,75.9
+Placer,2018,Age groups,0–4 years,0 - 4 Years,98,53.1
+Plumas,2018,Age groups,0–4 years,0 - 4 Years,,
+Riverside,2018,Age groups,0–4 years,0 - 4 Years,1137,74.5
+Sacramento,2018,Age groups,0–4 years,0 - 4 Years,974,99.6
+San Benito,2018,Age groups,0–4 years,0 - 4 Years,26,71.3
+San Bernardino,2018,Age groups,0–4 years,0 - 4 Years,1424,93.7
+San Diego,2018,Age groups,0–4 years,0 - 4 Years,1677,75
+San Francisco,2018,Age groups,0–4 years,0 - 4 Years,482,110.9
+San Joaquin,2018,Age groups,0–4 years,0 - 4 Years,504,98.8
+San Luis Obispo,2018,Age groups,0–4 years,0 - 4 Years,81,62
+San Mateo,2018,Age groups,0–4 years,0 - 4 Years,335,77.9
+Santa Barbara,2018,Age groups,0–4 years,0 - 4 Years,215,74.7
+Santa Clara,2018,Age groups,0–4 years,0 - 4 Years,582,47.6
+Santa Cruz,2018,Age groups,0–4 years,0 - 4 Years,115,71.7
+Shasta,2018,Age groups,0–4 years,0 - 4 Years,86,86.9
+Sierra,2018,Age groups,0–4 years,0 - 4 Years,0,0
+Siskiyou,2018,Age groups,0–4 years,0 - 4 Years,,
+Solano,2018,Age groups,0–4 years,0 - 4 Years,321,123.1
+Sonoma,2018,Age groups,0–4 years,0 - 4 Years,173,68.8
+Stanislaus,2018,Age groups,0–4 years,0 - 4 Years,306,79.9
+Sutter,2018,Age groups,0–4 years,0 - 4 Years,44,68
+Tehama,2018,Age groups,0–4 years,0 - 4 Years,30,69.1
+Trinity,2018,Age groups,0–4 years,0 - 4 Years,,
+Tulare,2018,Age groups,0–4 years,0 - 4 Years,354,92.7
+Tuolumne,2018,Age groups,0–4 years,0 - 4 Years,16,69.9
+Ventura,2018,Age groups,0–4 years,0 - 4 Years,397,76.6
+Yolo,2018,Age groups,0–4 years,0 - 4 Years,99,78.9
+Yuba,2018,Age groups,0–4 years,0 - 4 Years,37,62
+California,2018,Age groups,5–17 years,5 - 17 Years,45762,68.1
+Alameda,2018,Age groups,5–17 years,5 - 17 Years,2106,84.2
+Alpine,2018,Age groups,5–17 years,5 - 17 Years,0,0
+Amador,2018,Age groups,5–17 years,5 - 17 Years,43,102.8
+Butte,2018,Age groups,5–17 years,5 - 17 Years,166,50.1
+Calaveras,2018,Age groups,5–17 years,5 - 17 Years,35,63
+Colusa,2018,Age groups,5–17 years,5 - 17 Years,19,41.6
+Contra Costa,2018,Age groups,5–17 years,5 - 17 Years,1445,77.8
+Del Norte,2018,Age groups,5–17 years,5 - 17 Years,52,121.1
+El Dorado,2018,Age groups,5–17 years,5 - 17 Years,113,41.1
+Fresno,2018,Age groups,5–17 years,5 - 17 Years,2445,120
+Glenn,2018,Age groups,5–17 years,5 - 17 Years,25,44.6
+Humboldt,2018,Age groups,5–17 years,5 - 17 Years,103,51
+Imperial,2018,Age groups,5–17 years,5 - 17 Years,541,143
+Inyo,2018,Age groups,5–17 years,5 - 17 Years,19,70.6
+Kern,2018,Age groups,5–17 years,5 - 17 Years,1524,81.9
+Kings,2018,Age groups,5–17 years,5 - 17 Years,323,94.2
+Lake,2018,Age groups,5–17 years,5 - 17 Years,71,72.7
+Lassen,2018,Age groups,5–17 years,5 - 17 Years,26,68.3
+Los Angeles,2018,Age groups,5–17 years,5 - 17 Years,13856,83
+Madera,2018,Age groups,5–17 years,5 - 17 Years,371,119.7
+Marin,2018,Age groups,5–17 years,5 - 17 Years,111,28
+Mariposa,2018,Age groups,5–17 years,5 - 17 Years,16,77.7
+Mendocino,2018,Age groups,5–17 years,5 - 17 Years,84,60.4
+Merced,2018,Age groups,5–17 years,5 - 17 Years,709,121
+Modoc,2018,Age groups,5–17 years,5 - 17 Years,11,
+Mono,2018,Age groups,5–17 years,5 - 17 Years,,
+Monterey,2018,Age groups,5–17 years,5 - 17 Years,507,60.6
+Napa,2018,Age groups,5–17 years,5 - 17 Years,98,45.5
+Nevada,2018,Age groups,5–17 years,5 - 17 Years,42,34.8
+Orange,2018,Age groups,5–17 years,5 - 17 Years,2421,45.6
+Placer,2018,Age groups,5–17 years,5 - 17 Years,190,33
+Plumas,2018,Age groups,5–17 years,5 - 17 Years,18,77
+Riverside,2018,Age groups,5–17 years,5 - 17 Years,2814,63.6
+Sacramento,2018,Age groups,5–17 years,5 - 17 Years,1851,70.3
+San Benito,2018,Age groups,5–17 years,5 - 17 Years,94,87.5
+San Bernardino,2018,Age groups,5–17 years,5 - 17 Years,3255,76.6
+San Diego,2018,Age groups,5–17 years,5 - 17 Years,2408,42.2
+San Francisco,2018,Age groups,5–17 years,5 - 17 Years,448,51.9
+San Joaquin,2018,Age groups,5–17 years,5 - 17 Years,1083,73.3
+San Luis Obispo,2018,Age groups,5–17 years,5 - 17 Years,187,51.4
+San Mateo,2018,Age groups,5–17 years,5 - 17 Years,447,37.4
+Santa Barbara,2018,Age groups,5–17 years,5 - 17 Years,470,65.3
+Santa Clara,2018,Age groups,5–17 years,5 - 17 Years,1094,33.7
+Santa Cruz,2018,Age groups,5–17 years,5 - 17 Years,217,50.2
+Shasta,2018,Age groups,5–17 years,5 - 17 Years,169,61.8
+Sierra,2018,Age groups,5–17 years,5 - 17 Years,,
+Siskiyou,2018,Age groups,5–17 years,5 - 17 Years,20,31.2
+Solano,2018,Age groups,5–17 years,5 - 17 Years,758,103.7
+Sonoma,2018,Age groups,5–17 years,5 - 17 Years,362,50
+Stanislaus,2018,Age groups,5–17 years,5 - 17 Years,756,70.9
+Sutter,2018,Age groups,5–17 years,5 - 17 Years,82,44.3
+Tehama,2018,Age groups,5–17 years,5 - 17 Years,82,73.9
+Trinity,2018,Age groups,5–17 years,5 - 17 Years,,
+Tulare,2018,Age groups,5–17 years,5 - 17 Years,606,56.7
+Tuolumne,2018,Age groups,5–17 years,5 - 17 Years,36,55.4
+Ventura,2018,Age groups,5–17 years,5 - 17 Years,767,52.3
+Yolo,2018,Age groups,5–17 years,5 - 17 Years,188,52.3
+Yuba,2018,Age groups,5–17 years,5 - 17 Years,58,36.9
+California,2018,Age groups,18–64 years,41 - 64 Years,93650,38.4
+Alameda,2018,Age groups,18–64 years,41 - 64 Years,4887,45.6
+Alpine,2018,Age groups,18–64 years,41 - 64 Years,,
+Amador,2018,Age groups,18–64 years,41 - 64 Years,113,54.3
+Butte,2018,Age groups,18–64 years,41 - 64 Years,496,38.7
+Calaveras,2018,Age groups,18–64 years,41 - 64 Years,111,47.9
+Colusa,2018,Age groups,18–64 years,41 - 64 Years,36,27.5
+Contra Costa,2018,Age groups,18–64 years,41 - 64 Years,3390,49.8
+Del Norte,2018,Age groups,18–64 years,41 - 64 Years,94,62
+El Dorado,2018,Age groups,18–64 years,41 - 64 Years,367,36.7
+Fresno,2018,Age groups,18–64 years,41 - 64 Years,2544,43.7
+Glenn,2018,Age groups,18–64 years,41 - 64 Years,55,33.1
+Humboldt,2018,Age groups,18–64 years,41 - 64 Years,615,77.2
+Imperial,2018,Age groups,18–64 years,41 - 64 Years,485,44.1
+Inyo,2018,Age groups,18–64 years,41 - 64 Years,45,43.7
+Kern,2018,Age groups,18–64 years,41 - 64 Years,2575,47.8
+Kings,2018,Age groups,18–64 years,41 - 64 Years,474,53.2
+Lake,2018,Age groups,18–64 years,41 - 64 Years,333,89.1
+Lassen,2018,Age groups,18–64 years,41 - 64 Years,78,37
+Los Angeles,2018,Age groups,18–64 years,41 - 64 Years,27003,41.5
+Madera,2018,Age groups,18–64 years,41 - 64 Years,312,34.3
+Marin,2018,Age groups,18–64 years,41 - 64 Years,310,21.1
+Mariposa,2018,Age groups,18–64 years,41 - 64 Years,30,34.9
+Mendocino,2018,Age groups,18–64 years,41 - 64 Years,288,59.9
+Merced,2018,Age groups,18–64 years,41 - 64 Years,1085,67.8
+Modoc,2018,Age groups,18–64 years,41 - 64 Years,38,80.6
+Mono,2018,Age groups,18–64 years,41 - 64 Years,19,25
+Monterey,2018,Age groups,18–64 years,41 - 64 Years,1081,40.3
+Napa,2018,Age groups,18–64 years,41 - 64 Years,223,27.1
+Nevada,2018,Age groups,18–64 years,41 - 64 Years,181,36.8
+Orange,2018,Age groups,18–64 years,41 - 64 Years,4304,21.7
+Placer,2018,Age groups,18–64 years,41 - 64 Years,575,26.9
+Plumas,2018,Age groups,18–64 years,41 - 64 Years,62,64.8
+Riverside,2018,Age groups,18–64 years,41 - 64 Years,5082,36
+Sacramento,2018,Age groups,18–64 years,41 - 64 Years,5637,60.8
+San Benito,2018,Age groups,18–64 years,41 - 64 Years,126,38.1
+San Bernardino,2018,Age groups,18–64 years,41 - 64 Years,6109,45.7
+San Diego,2018,Age groups,18–64 years,41 - 64 Years,5286,25.7
+San Francisco,2018,Age groups,18–64 years,41 - 64 Years,1771,29.9
+San Joaquin,2018,Age groups,18–64 years,41 - 64 Years,2446,55.2
+San Luis Obispo,2018,Age groups,18–64 years,41 - 64 Years,559,35.5
+San Mateo,2018,Age groups,18–64 years,41 - 64 Years,1291,27.5
+Santa Barbara,2018,Age groups,18–64 years,41 - 64 Years,803,28.1
+Santa Clara,2018,Age groups,18–64 years,41 - 64 Years,3356,27.6
+Santa Cruz,2018,Age groups,18–64 years,41 - 64 Years,467,28.8
+Shasta,2018,Age groups,18–64 years,41 - 64 Years,435,44.6
+Sierra,2018,Age groups,18–64 years,41 - 64 Years,,
+Siskiyou,2018,Age groups,18–64 years,41 - 64 Years,85,38.2
+Solano,2018,Age groups,18–64 years,41 - 64 Years,2032,78
+Sonoma,2018,Age groups,18–64 years,41 - 64 Years,986,32.7
+Stanislaus,2018,Age groups,18–64 years,41 - 64 Years,1546,47.9
+Sutter,2018,Age groups,18–64 years,41 - 64 Years,177,30.4
+Tehama,2018,Age groups,18–64 years,41 - 64 Years,200,56.6
+Trinity,2018,Age groups,18–64 years,41 - 64 Years,40,60.1
+Tulare,2018,Age groups,18–64 years,41 - 64 Years,925,34.3
+Tuolumne,2018,Age groups,18–64 years,41 - 64 Years,139,46.6
+Ventura,2018,Age groups,18–64 years,41 - 64 Years,1277,24.9
+Yolo,2018,Age groups,18–64 years,41 - 64 Years,435,33.3
+Yuba,2018,Age groups,18–64 years,41 - 64 Years,179,39.8
+California,2018,Age groups,65+ years,65+ years,11708,21.4
+Alameda,2018,Age groups,65+ years,65+ years,764,34.3
+Alpine,2018,Age groups,65+ years,65+ years,0,0
+Amador,2018,Age groups,65+ years,65+ years,18,19.6
+Butte,2018,Age groups,65+ years,65+ years,48,11.2
+Calaveras,2018,Age groups,65+ years,65+ years,20,15.2
+Colusa,2018,Age groups,65+ years,65+ years,,
+Contra Costa,2018,Age groups,65+ years,65+ years,446,25.5
+Del Norte,2018,Age groups,65+ years,65+ years,,
+El Dorado,2018,Age groups,65+ years,65+ years,42,11.5
+Fresno,2018,Age groups,65+ years,65+ years,320,28.4
+Glenn,2018,Age groups,65+ years,65+ years,,
+Humboldt,2018,Age groups,65+ years,65+ years,40,16.4
+Imperial,2018,Age groups,65+ years,65+ years,84,38.3
+Inyo,2018,Age groups,65+ years,65+ years,,
+Kern,2018,Age groups,65+ years,65+ years,205,21.2
+Kings,2018,Age groups,65+ years,65+ years,43,28.7
+Lake,2018,Age groups,65+ years,65+ years,46,32.2
+Lassen,2018,Age groups,65+ years,65+ years,,
+Los Angeles,2018,Age groups,65+ years,65+ years,3313,24.4
+Madera,2018,Age groups,65+ years,65+ years,49,22.7
+Marin,2018,Age groups,65+ years,65+ years,67,12.6
+Mariposa,2018,Age groups,65+ years,65+ years,14,29.8
+Mendocino,2018,Age groups,65+ years,65+ years,35,18.5
+Merced,2018,Age groups,65+ years,65+ years,87,29.1
+Modoc,2018,Age groups,65+ years,65+ years,,
+Mono,2018,Age groups,65+ years,65+ years,0,0
+Monterey,2018,Age groups,65+ years,65+ years,120,20.7
+Napa,2018,Age groups,65+ years,65+ years,68,27.5
+Nevada,2018,Age groups,65+ years,65+ years,26,10.2
+Orange,2018,Age groups,65+ years,65+ years,702,15.7
+Placer,2018,Age groups,65+ years,65+ years,105,14.6
+Plumas,2018,Age groups,65+ years,65+ years,15,26.2
+Riverside,2018,Age groups,65+ years,65+ years,563,16.8
+Sacramento,2018,Age groups,65+ years,65+ years,491,24.9
+San Benito,2018,Age groups,65+ years,65+ years,22,30.2
+San Bernardino,2018,Age groups,65+ years,65+ years,547,22.8
+San Diego,2018,Age groups,65+ years,65+ years,697,15.3
+San Francisco,2018,Age groups,65+ years,65+ years,296,21.2
+San Joaquin,2018,Age groups,65+ years,65+ years,212,22.8
+San Luis Obispo,2018,Age groups,65+ years,65+ years,99,17.7
+San Mateo,2018,Age groups,65+ years,65+ years,309,24.6
+Santa Barbara,2018,Age groups,65+ years,65+ years,153,23
+Santa Clara,2018,Age groups,65+ years,65+ years,502,19.2
+Santa Cruz,2018,Age groups,65+ years,65+ years,65,17.4
+Shasta,2018,Age groups,65+ years,65+ years,36,9.9
+Sierra,2018,Age groups,65+ years,65+ years,0,0
+Siskiyou,2018,Age groups,65+ years,65+ years,14,12.9
+Solano,2018,Age groups,65+ years,65+ years,238,36.8
+Sonoma,2018,Age groups,65+ years,65+ years,161,17.9
+Stanislaus,2018,Age groups,65+ years,65+ years,155,22.6
+Sutter,2018,Age groups,65+ years,65+ years,21,14.8
+Tehama,2018,Age groups,65+ years,65+ years,23,18.7
+Trinity,2018,Age groups,65+ years,65+ years,,
+Tulare,2018,Age groups,65+ years,65+ years,95,18.3
+Tuolumne,2018,Age groups,65+ years,65+ years,33,23.2
+Ventura,2018,Age groups,65+ years,65+ years,178,14.6
+Yolo,2018,Age groups,65+ years,65+ years,52,20.7
+Yuba,2018,Age groups,65+ years,65+ years,23,27.1
+California,2018,Race/ethnicity,White,5 - 17 Years,45866,34.8
+Alameda,2018,Race/ethnicity,White,5 - 17 Years,1438,28.8
+Alpine,2018,Race/ethnicity,White,5 - 17 Years,,
+Amador,2018,Race/ethnicity,White,5 - 17 Years,146,62.7
+Butte,2018,Race/ethnicity,White,5 - 17 Years,571,41.3
+Calaveras,2018,Race/ethnicity,White,5 - 17 Years,151,50.5
+Colusa,2018,Race/ethnicity,White,5 - 17 Years,33,42.4
+Contra Costa,2018,Race/ethnicity,White,5 - 17 Years,1534,34
+Del Norte,2018,Race/ethnicity,White,5 - 17 Years,126,92.3
+El Dorado,2018,Race/ethnicity,White,5 - 17 Years,355,30.1
+Fresno,2018,Race/ethnicity,White,5 - 17 Years,1631,66.2
+Glenn,2018,Race/ethnicity,White,5 - 17 Years,48,33
+Humboldt,2018,Race/ethnicity,White,5 - 17 Years,603,66.1
+Imperial,2018,Race/ethnicity,White,5 - 17 Years,120,62.2
+Inyo,2018,Race/ethnicity,White,5 - 17 Years,45,44.1
+Kern,2018,Race/ethnicity,White,5 - 17 Years,1432,49.8
+Kings,2018,Race/ethnicity,White,5 - 17 Years,311,65.9
+Lake,2018,Race/ethnicity,White,5 - 17 Years,351,82.5
+Lassen,2018,Race/ethnicity,White,5 - 17 Years,92,50.8
+Los Angeles,2018,Race/ethnicity,White,5 - 17 Years,7663,32.3
+Madera,2018,Race/ethnicity,White,5 - 17 Years,217,52.5
+Marin,2018,Race/ethnicity,White,5 - 17 Years,303,19.3
+Mariposa,2018,Race/ethnicity,White,5 - 17 Years,53,45.7
+Mendocino,2018,Race/ethnicity,White,5 - 17 Years,275,58.4
+Merced,2018,Race/ethnicity,White,5 - 17 Years,588,84.4
+Modoc,2018,Race/ethnicity,White,5 - 17 Years,44,81.9
+Mono,2018,Race/ethnicity,White,5 - 17 Years,19,30.8
+Monterey,2018,Race/ethnicity,White,5 - 17 Years,427,37.4
+Napa,2018,Race/ethnicity,White,5 - 17 Years,230,35.6
+Nevada,2018,Race/ethnicity,White,5 - 17 Years,237,37.3
+Orange,2018,Race/ethnicity,White,5 - 17 Years,3230,28.3
+Placer,2018,Race/ethnicity,White,5 - 17 Years,699,28.9
+Plumas,2018,Race/ethnicity,White,5 - 17 Years,69,53.3
+Riverside,2018,Race/ethnicity,White,5 - 17 Years,2934,39.8
+Sacramento,2018,Race/ethnicity,White,5 - 17 Years,2707,42.3
+San Benito,2018,Race/ethnicity,White,5 - 17 Years,84,51
+San Bernardino,2018,Race/ethnicity,White,5 - 17 Years,2716,44.3
+San Diego,2018,Race/ethnicity,White,5 - 17 Years,2930,20.9
+San Francisco,2018,Race/ethnicity,White,5 - 17 Years,751,23
+San Joaquin,2018,Race/ethnicity,White,5 - 17 Years,1014,46.4
+San Luis Obispo,2018,Race/ethnicity,White,5 - 17 Years,588,37.6
+San Mateo,2018,Race/ethnicity,White,5 - 17 Years,676,24.5
+Santa Barbara,2018,Race/ethnicity,White,5 - 17 Years,578,33.4
+Santa Clara,2018,Race/ethnicity,White,5 - 17 Years,1399,23.6
+Santa Cruz,2018,Race/ethnicity,White,5 - 17 Years,406,30.5
+Shasta,2018,Race/ethnicity,White,5 - 17 Years,570,47.4
+Sierra,2018,Race/ethnicity,White,5 - 17 Years,,
+Siskiyou,2018,Race/ethnicity,White,5 - 17 Years,105,37.7
+Solano,2018,Race/ethnicity,White,5 - 17 Years,914,61
+Sonoma,2018,Race/ethnicity,White,5 - 17 Years,937,34.9
+Stanislaus,2018,Race/ethnicity,White,5 - 17 Years,1024,49
+Sutter,2018,Race/ethnicity,White,5 - 17 Years,155,37.3
+Tehama,2018,Race/ethnicity,White,5 - 17 Years,236,61.2
+Trinity,2018,Race/ethnicity,White,5 - 17 Years,50,61.8
+Tulare,2018,Race/ethnicity,White,5 - 17 Years,320,26.7
+Tuolumne,2018,Race/ethnicity,White,5 - 17 Years,197,52.4
+Ventura,2018,Race/ethnicity,White,5 - 17 Years,1045,32.6
+Yolo,2018,Race/ethnicity,White,5 - 17 Years,287,31.7
+Yuba,2018,Race/ethnicity,White,5 - 17 Years,180,44
+California,2018,Race/ethnicity,Black,5 - 17 Years,36180,168.1
+Alameda,2018,Race/ethnicity,Black,5 - 17 Years,3646,204
+Alpine,2018,Race/ethnicity,Black,5 - 17 Years,0,0
+Amador,2018,Race/ethnicity,Black,5 - 17 Years,,
+Butte,2018,Race/ethnicity,Black,5 - 17 Years,66,201.3
+Calaveras,2018,Race/ethnicity,Black,5 - 17 Years,,
+Colusa,2018,Race/ethnicity,Black,5 - 17 Years,0,0
+Contra Costa,2018,Race/ethnicity,Black,5 - 17 Years,1982,206.2
+Del Norte,2018,Race/ethnicity,Black,5 - 17 Years,,
+El Dorado,2018,Race/ethnicity,Black,5 - 17 Years,14,111.8
+Fresno,2018,Race/ethnicity,Black,5 - 17 Years,721,146.4
+Glenn,2018,Race/ethnicity,Black,5 - 17 Years,,
+Humboldt,2018,Race/ethnicity,Black,5 - 17 Years,70,456.3
+Imperial,2018,Race/ethnicity,Black,5 - 17 Years,33,119.6
+Inyo,2018,Race/ethnicity,Black,5 - 17 Years,,
+Kern,2018,Race/ethnicity,Black,5 - 17 Years,893,177.6
+Kings,2018,Race/ethnicity,Black,5 - 17 Years,139,157.4
+Lake,2018,Race/ethnicity,Black,5 - 17 Years,29,284.8
+Lassen,2018,Race/ethnicity,Black,5 - 17 Years,,
+Los Angeles,2018,Race/ethnicity,Black,5 - 17 Years,12869,167
+Madera,2018,Race/ethnicity,Black,5 - 17 Years,96,315.7
+Marin,2018,Race/ethnicity,Black,5 - 17 Years,73,114.7
+Mariposa,2018,Race/ethnicity,Black,5 - 17 Years,,
+Mendocino,2018,Race/ethnicity,Black,5 - 17 Years,,
+Merced,2018,Race/ethnicity,Black,5 - 17 Years,260,300
+Modoc,2018,Race/ethnicity,Black,5 - 17 Years,0,0
+Mono,2018,Race/ethnicity,Black,5 - 17 Years,0,0
+Monterey,2018,Race/ethnicity,Black,5 - 17 Years,124,127.2
+Napa,2018,Race/ethnicity,Black,5 - 17 Years,22,103.3
+Nevada,2018,Race/ethnicity,Black,5 - 17 Years,,
+Orange,2018,Race/ethnicity,Black,5 - 17 Years,565,123.4
+Placer,2018,Race/ethnicity,Black,5 - 17 Years,61,152
+Plumas,2018,Race/ethnicity,Black,5 - 17 Years,13,560.9
+Riverside,2018,Race/ethnicity,Black,5 - 17 Years,1976,147.6
+Sacramento,2018,Race/ethnicity,Black,5 - 17 Years,3178,214.6
+San Benito,2018,Race/ethnicity,Black,5 - 17 Years,,
+San Bernardino,2018,Race/ethnicity,Black,5 - 17 Years,2556,141.2
+San Diego,2018,Race/ethnicity,Black,5 - 17 Years,1730,109.6
+San Francisco,2018,Race/ethnicity,Black,5 - 17 Years,848,199.1
+San Joaquin,2018,Race/ethnicity,Black,5 - 17 Years,1178,226.9
+San Luis Obispo,2018,Race/ethnicity,Black,5 - 17 Years,39,89
+San Mateo,2018,Race/ethnicity,Black,5 - 17 Years,146,90.3
+Santa Barbara,2018,Race/ethnicity,Black,5 - 17 Years,95,139.6
+Santa Clara,2018,Race/ethnicity,Black,5 - 17 Years,556,121.9
+Santa Cruz,2018,Race/ethnicity,Black,5 - 17 Years,14,61.7
+Shasta,2018,Race/ethnicity,Black,5 - 17 Years,33,193.8
+Sierra,2018,Race/ethnicity,Black,5 - 17 Years,0,0
+Siskiyou,2018,Race/ethnicity,Black,5 - 17 Years,,
+Solano,2018,Race/ethnicity,Black,5 - 17 Years,1298,228.1
+Sonoma,2018,Race/ethnicity,Black,5 - 17 Years,112,157.8
+Stanislaus,2018,Race/ethnicity,Black,5 - 17 Years,331,236
+Sutter,2018,Race/ethnicity,Black,5 - 17 Years,29,172.9
+Tehama,2018,Race/ethnicity,Black,5 - 17 Years,,
+Trinity,2018,Race/ethnicity,Black,5 - 17 Years,0,0
+Tulare,2018,Race/ethnicity,Black,5 - 17 Years,85,165.8
+Tuolumne,2018,Race/ethnicity,Black,5 - 17 Years,,
+Ventura,2018,Race/ethnicity,Black,5 - 17 Years,109,99.3
+Yolo,2018,Race/ethnicity,Black,5 - 17 Years,62,139.7
+Yuba,2018,Race/ethnicity,Black,5 - 17 Years,42,183.6
+California,2018,Race/ethnicity,Hispanic,5 - 17 Years,73234,44.7
+Alameda,2018,Race/ethnicity,Hispanic,5 - 17 Years,2187,54.3
+Alpine,2018,Race/ethnicity,Hispanic,5 - 17 Years,0,0
+Amador,2018,Race/ethnicity,Hispanic,5 - 17 Years,28,65.2
+Butte,2018,Race/ethnicity,Hispanic,5 - 17 Years,83,24.5
+Calaveras,2018,Race/ethnicity,Hispanic,5 - 17 Years,,
+Colusa,2018,Race/ethnicity,Hispanic,5 - 17 Years,33,24.6
+Contra Costa,2018,Race/ethnicity,Hispanic,5 - 17 Years,1727,57.7
+Del Norte,2018,Race/ethnicity,Hispanic,5 - 17 Years,21,37.9
+El Dorado,2018,Race/ethnicity,Hispanic,5 - 17 Years,72,28.5
+Fresno,2018,Race/ethnicity,Hispanic,5 - 17 Years,4254,71.7
+Glenn,2018,Race/ethnicity,Hispanic,5 - 17 Years,44,38.4
+Humboldt,2018,Race/ethnicity,Hispanic,5 - 17 Years,47,29.3
+Imperial,2018,Race/ethnicity,Hispanic,5 - 17 Years,1103,66.9
+Inyo,2018,Race/ethnicity,Hispanic,5 - 17 Years,25,55.9
+Kern,2018,Race/ethnicity,Hispanic,5 - 17 Years,2468,48.4
+Kings,2018,Race/ethnicity,Hispanic,5 - 17 Years,540,60.9
+Lake,2018,Race/ethnicity,Hispanic,5 - 17 Years,67,52.4
+Lassen,2018,Race/ethnicity,Hispanic,5 - 17 Years,14,23.6
+Los Angeles,2018,Race/ethnicity,Hispanic,5 - 17 Years,25431,48.8
+Madera,2018,Race/ethnicity,Hispanic,5 - 17 Years,629,60.4
+Marin,2018,Race/ethnicity,Hispanic,5 - 17 Years,122,26.9
+Mariposa,2018,Race/ethnicity,Hispanic,5 - 17 Years,,
+Mendocino,2018,Race/ethnicity,Hispanic,5 - 17 Years,115,47.8
+Merced,2018,Race/ethnicity,Hispanic,5 - 17 Years,1268,73.2
+Modoc,2018,Race/ethnicity,Hispanic,5 - 17 Years,,
+Mono,2018,Race/ethnicity,Hispanic,5 - 17 Years,11,
+Monterey,2018,Race/ethnicity,Hispanic,5 - 17 Years,1240,44.3
+Napa,2018,Race/ethnicity,Hispanic,5 - 17 Years,156,30.8
+Nevada,2018,Race/ethnicity,Hispanic,5 - 17 Years,20,22.1
+Orange,2018,Race/ethnicity,Hispanic,5 - 17 Years,3814,31.7
+Placer,2018,Race/ethnicity,Hispanic,5 - 17 Years,121,23.5
+Plumas,2018,Race/ethnicity,Hispanic,5 - 17 Years,,
+Riverside,2018,Race/ethnicity,Hispanic,5 - 17 Years,4058,33.9
+Sacramento,2018,Race/ethnicity,Hispanic,5 - 17 Years,1890,52.8
+San Benito,2018,Race/ethnicity,Hispanic,5 - 17 Years,173,50.6
+San Bernardino,2018,Race/ethnicity,Hispanic,5 - 17 Years,5066,43
+San Diego,2018,Race/ethnicity,Hispanic,5 - 17 Years,3934,32.1
+San Francisco,2018,Race/ethnicity,Hispanic,5 - 17 Years,684,52
+San Joaquin,2018,Race/ethnicity,Hispanic,5 - 17 Years,1534,47.7
+San Luis Obispo,2018,Race/ethnicity,Hispanic,5 - 17 Years,241,37.5
+San Mateo,2018,Race/ethnicity,Hispanic,5 - 17 Years,1016,51.6
+Santa Barbara,2018,Race/ethnicity,Hispanic,5 - 17 Years,903,40.1
+Santa Clara,2018,Race/ethnicity,Hispanic,5 - 17 Years,2444,44.6
+Santa Cruz,2018,Race/ethnicity,Hispanic,5 - 17 Years,399,38.1
+Shasta,2018,Race/ethnicity,Hispanic,5 - 17 Years,54,29.3
+Sierra,2018,Race/ethnicity,Hispanic,5 - 17 Years,,
+Siskiyou,2018,Race/ethnicity,Hispanic,5 - 17 Years,,
+Solano,2018,Race/ethnicity,Hispanic,5 - 17 Years,659,55.2
+Sonoma,2018,Race/ethnicity,Hispanic,5 - 17 Years,498,35.2
+Stanislaus,2018,Race/ethnicity,Hispanic,5 - 17 Years,1185,45.4
+Sutter,2018,Race/ethnicity,Hispanic,5 - 17 Years,94,29.7
+Tehama,2018,Race/ethnicity,Hispanic,5 - 17 Years,74,42.6
+Trinity,2018,Race/ethnicity,Hispanic,5 - 17 Years,,
+Tulare,2018,Race/ethnicity,Hispanic,5 - 17 Years,964,29.1
+Tuolumne,2018,Race/ethnicity,Hispanic,5 - 17 Years,17,28.3
+Ventura,2018,Race/ethnicity,Hispanic,5 - 17 Years,1298,32.9
+Yolo,2018,Race/ethnicity,Hispanic,5 - 17 Years,317,47.4
+Yuba,2018,Race/ethnicity,Hispanic,5 - 17 Years,48,23.7
+California,2018,Race/ethnicity,Asian/PI,5 - 17 Years,10306,21
+Alameda,2018,Race/ethnicity,Asian/PI,5 - 17 Years,1112,27
+Alpine,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Amador,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Butte,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Calaveras,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Colusa,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Contra Costa,2018,Race/ethnicity,Asian/PI,5 - 17 Years,474,29.6
+Del Norte,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+El Dorado,2018,Race/ethnicity,Asian/PI,5 - 17 Years,17,30.3
+Fresno,2018,Race/ethnicity,Asian/PI,5 - 17 Years,214,23.2
+Glenn,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Humboldt,2018,Race/ethnicity,Asian/PI,5 - 17 Years,15,46.5
+Imperial,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Inyo,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Kern,2018,Race/ethnicity,Asian/PI,5 - 17 Years,92,26.4
+Kings,2018,Race/ethnicity,Asian/PI,5 - 17 Years,13,27.3
+Lake,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Lassen,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Los Angeles,2018,Race/ethnicity,Asian/PI,5 - 17 Years,2633,21
+Madera,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Marin,2018,Race/ethnicity,Asian/PI,5 - 17 Years,23,15.5
+Mariposa,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Mendocino,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Merced,2018,Race/ethnicity,Asian/PI,5 - 17 Years,51,26.9
+Modoc,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Mono,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Monterey,2018,Race/ethnicity,Asian/PI,5 - 17 Years,82,37.2
+Napa,2018,Race/ethnicity,Asian/PI,5 - 17 Years,21,22.2
+Nevada,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Orange,2018,Race/ethnicity,Asian/PI,5 - 17 Years,743,14.2
+Placer,2018,Race/ethnicity,Asian/PI,5 - 17 Years,47,21
+Plumas,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Riverside,2018,Race/ethnicity,Asian/PI,5 - 17 Years,215,16.6
+Sacramento,2018,Race/ethnicity,Asian/PI,5 - 17 Years,770,34.6
+San Benito,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+San Bernardino,2018,Race/ethnicity,Asian/PI,5 - 17 Years,239,18.7
+San Diego,2018,Race/ethnicity,Asian/PI,5 - 17 Years,689,19.7
+San Francisco,2018,Race/ethnicity,Asian/PI,5 - 17 Years,482,21.9
+San Joaquin,2018,Race/ethnicity,Asian/PI,5 - 17 Years,306,29.4
+San Luis Obispo,2018,Race/ethnicity,Asian/PI,5 - 17 Years,13,16.1
+San Mateo,2018,Race/ethnicity,Asian/PI,5 - 17 Years,414,21.5
+Santa Barbara,2018,Race/ethnicity,Asian/PI,5 - 17 Years,34,20.2
+Santa Clara,2018,Race/ethnicity,Asian/PI,5 - 17 Years,865,14.3
+Santa Cruz,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Shasta,2018,Race/ethnicity,Asian/PI,5 - 17 Years,20,44.7
+Sierra,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Siskiyou,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Solano,2018,Race/ethnicity,Asian/PI,5 - 17 Years,325,52.2
+Sonoma,2018,Race/ethnicity,Asian/PI,5 - 17 Years,63,34.4
+Stanislaus,2018,Race/ethnicity,Asian/PI,5 - 17 Years,82,27.6
+Sutter,2018,Race/ethnicity,Asian/PI,5 - 17 Years,28,19
+Tehama,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Trinity,2018,Race/ethnicity,Asian/PI,5 - 17 Years,0,0
+Tulare,2018,Race/ethnicity,Asian/PI,5 - 17 Years,27,18.6
+Tuolumne,2018,Race/ethnicity,Asian/PI,5 - 17 Years,,
+Ventura,2018,Race/ethnicity,Asian/PI,5 - 17 Years,74,12.9
+Yolo,2018,Race/ethnicity,Asian/PI,5 - 17 Years,50,19.7
+Yuba,2018,Race/ethnicity,Asian/PI,5 - 17 Years,16,35.2
+California,2018,Race/ethnicity,AI/AN,5 - 17 Years,672,46.1
+Alameda,2018,Race/ethnicity,AI/AN,5 - 17 Years,37,80.5
+Alpine,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+Amador,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Butte,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Calaveras,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Colusa,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+Contra Costa,2018,Race/ethnicity,AI/AN,5 - 17 Years,14,56.3
+Del Norte,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+El Dorado,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Fresno,2018,Race/ethnicity,AI/AN,5 - 17 Years,12,22.1
+Glenn,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Humboldt,2018,Race/ethnicity,AI/AN,5 - 17 Years,32,46.2
+Imperial,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Inyo,2018,Race/ethnicity,AI/AN,5 - 17 Years,17,108.3
+Kern,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Kings,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Lake,2018,Race/ethnicity,AI/AN,5 - 17 Years,14,83.1
+Lassen,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Los Angeles,2018,Race/ethnicity,AI/AN,5 - 17 Years,58,35.9
+Madera,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+Marin,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Mariposa,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Mendocino,2018,Race/ethnicity,AI/AN,5 - 17 Years,26,80.4
+Merced,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Modoc,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Mono,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Monterey,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Napa,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+Nevada,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Orange,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Placer,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Plumas,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Riverside,2018,Race/ethnicity,AI/AN,5 - 17 Years,33,36.5
+Sacramento,2018,Race/ethnicity,AI/AN,5 - 17 Years,34,44.3
+San Benito,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+San Bernardino,2018,Race/ethnicity,AI/AN,5 - 17 Years,143,199.4
+San Diego,2018,Race/ethnicity,AI/AN,5 - 17 Years,40,28.5
+San Francisco,2018,Race/ethnicity,AI/AN,5 - 17 Years,38,263.9
+San Joaquin,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+San Luis Obispo,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+San Mateo,2018,Race/ethnicity,AI/AN,5 - 17 Years,11,
+Santa Barbara,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Santa Clara,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Santa Cruz,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+Shasta,2018,Race/ethnicity,AI/AN,5 - 17 Years,11,
+Sierra,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+Siskiyou,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Solano,2018,Race/ethnicity,AI/AN,5 - 17 Years,15,95.6
+Sonoma,2018,Race/ethnicity,AI/AN,5 - 17 Years,14,37.5
+Stanislaus,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Sutter,2018,Race/ethnicity,AI/AN,5 - 17 Years,0,0
+Tehama,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Trinity,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Tulare,2018,Race/ethnicity,AI/AN,5 - 17 Years,11,
+Tuolumne,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Ventura,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Yolo,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+Yuba,2018,Race/ethnicity,AI/AN,5 - 17 Years,,
+California,2019,Total population,All ages,5 - 17 Years,180053,46.9
+Alameda,2019,Total population,All ages,5 - 17 Years,8942,56.3
+Alpine,2019,Total population,All ages,5 - 17 Years,0,0
+Amador,2019,Total population,All ages,5 - 17 Years,176,56.8
+Butte,2019,Total population,All ages,5 - 17 Years,936,45.3
+Calaveras,2019,Total population,All ages,5 - 17 Years,198,55.1
+Colusa,2019,Total population,All ages,5 - 17 Years,62,28.4
+Contra Costa,2019,Total population,All ages,5 - 17 Years,6706,62.6
+Del Norte,2019,Total population,All ages,5 - 17 Years,150,61.2
+El Dorado,2019,Total population,All ages,5 - 17 Years,650,40.5
+Fresno,2019,Total population,All ages,5 - 17 Years,7783,75.4
+Glenn,2019,Total population,All ages,5 - 17 Years,129,45.6
+Humboldt,2019,Total population,All ages,5 - 17 Years,851,67.1
+Imperial,2019,Total population,All ages,5 - 17 Years,1291,65.7
+Inyo,2019,Total population,All ages,5 - 17 Years,110,70.7
+Kern,2019,Total population,All ages,5 - 17 Years,4853,52.2
+Kings,2019,Total population,All ages,5 - 17 Years,1074,67.9
+Lake,2019,Total population,All ages,5 - 17 Years,482,80.1
+Lassen,2019,Total population,All ages,5 - 17 Years,131,44
+Los Angeles,2019,Total population,All ages,5 - 17 Years,49504,50
+Madera,2019,Total population,All ages,5 - 17 Years,979,61.7
+Marin,2019,Total population,All ages,5 - 17 Years,564,23.5
+Mariposa,2019,Total population,All ages,5 - 17 Years,63,46.5
+Mendocino,2019,Total population,All ages,5 - 17 Years,567,70.9
+Merced,2019,Total population,All ages,5 - 17 Years,2067,73.9
+Modoc,2019,Total population,All ages,5 - 17 Years,77,106
+Mono,2019,Total population,All ages,5 - 17 Years,40,32
+Monterey,2019,Total population,All ages,5 - 17 Years,1916,43.1
+Napa,2019,Total population,All ages,5 - 17 Years,537,40.2
+Nevada,2019,Total population,All ages,5 - 17 Years,306,38.5
+Orange,2019,Total population,All ages,5 - 17 Years,9084,29.7
+Placer,2019,Total population,All ages,5 - 17 Years,1193,34.7
+Plumas,2019,Total population,All ages,5 - 17 Years,86,63.2
+Riverside,2019,Total population,All ages,5 - 17 Years,10076,43.2
+Sacramento,2019,Total population,All ages,5 - 17 Years,10129,68.6
+San Benito,2019,Total population,All ages,5 - 17 Years,340,61.2
+San Bernardino,2019,Total population,All ages,5 - 17 Years,11204,51.4
+San Diego,2019,Total population,All ages,5 - 17 Years,10339,31.7
+San Francisco,2019,Total population,All ages,5 - 17 Years,3247,41.7
+San Joaquin,2019,Total population,All ages,5 - 17 Years,4881,65.9
+San Luis Obispo,2019,Total population,All ages,5 - 17 Years,800,33.3
+San Mateo,2019,Total population,All ages,5 - 17 Years,2346,31.8
+Santa Barbara,2019,Total population,All ages,5 - 17 Years,1471,33.5
+Santa Clara,2019,Total population,All ages,5 - 17 Years,5865,30.7
+Santa Cruz,2019,Total population,All ages,5 - 17 Years,772,29.8
+Shasta,2019,Total population,All ages,5 - 17 Years,722,45.3
+Sierra,2019,Total population,All ages,5 - 17 Years,,
+Siskiyou,2019,Total population,All ages,5 - 17 Years,159,42.1
+Solano,2019,Total population,All ages,5 - 17 Years,3850,91.7
+Sonoma,2019,Total population,All ages,5 - 17 Years,1938,41.6
+Stanislaus,2019,Total population,All ages,5 - 17 Years,3077,56.6
+Sutter,2019,Total population,All ages,5 - 17 Years,301,31.7
+Tehama,2019,Total population,All ages,5 - 17 Years,350,59.7
+Trinity,2019,Total population,All ages,5 - 17 Years,55,50.1
+Tulare,2019,Total population,All ages,5 - 17 Years,2134,43.4
+Tuolumne,2019,Total population,All ages,5 - 17 Years,244,53.6
+Ventura,2019,Total population,All ages,5 - 17 Years,2836,34.8
+Yolo,2019,Total population,All ages,5 - 17 Years,894,43.3
+Yuba,2019,Total population,All ages,5 - 17 Years,366,47.9
+California,2019,Child vs. adult,0–17 years,5 - 17 Years,68787,74.5
+Alameda,2019,Child vs. adult,0–17 years,5 - 17 Years,3179,90.7
+Alpine,2019,Child vs. adult,0–17 years,5 - 17 Years,0,0
+Amador,2019,Child vs. adult,0–17 years,5 - 17 Years,38,71.2
+Butte,2019,Child vs. adult,0–17 years,5 - 17 Years,226,49.4
+Calaveras,2019,Child vs. adult,0–17 years,5 - 17 Years,50,70.3
+Colusa,2019,Child vs. adult,0–17 years,5 - 17 Years,37,61.9
+Contra Costa,2019,Child vs. adult,0–17 years,5 - 17 Years,2204,89.4
+Del Norte,2019,Child vs. adult,0–17 years,5 - 17 Years,52,88.7
+El Dorado,2019,Child vs. adult,0–17 years,5 - 17 Years,163,46.9
+Fresno,2019,Child vs. adult,0–17 years,5 - 17 Years,4371,153.9
+Glenn,2019,Child vs. adult,0–17 years,5 - 17 Years,27,36.2
+Humboldt,2019,Child vs. adult,0–17 years,5 - 17 Years,173,61.7
+Imperial,2019,Child vs. adult,0–17 years,5 - 17 Years,691,126.8
+Inyo,2019,Child vs. adult,0–17 years,5 - 17 Years,32,78.4
+Kern,2019,Child vs. adult,0–17 years,5 - 17 Years,2219,86.4
+Kings,2019,Child vs. adult,0–17 years,5 - 17 Years,506,109.7
+Lake,2019,Child vs. adult,0–17 years,5 - 17 Years,112,82.2
+Lassen,2019,Child vs. adult,0–17 years,5 - 17 Years,35,63.7
+Los Angeles,2019,Child vs. adult,0–17 years,5 - 17 Years,19061,82.5
+Madera,2019,Child vs. adult,0–17 years,5 - 17 Years,562,132.6
+Marin,2019,Child vs. adult,0–17 years,5 - 17 Years,165,32.7
+Mariposa,2019,Child vs. adult,0–17 years,5 - 17 Years,14,50.9
+Mendocino,2019,Child vs. adult,0–17 years,5 - 17 Years,192,100
+Merced,2019,Child vs. adult,0–17 years,5 - 17 Years,894,112.3
+Modoc,2019,Child vs. adult,0–17 years,5 - 17 Years,19,105.3
+Mono,2019,Child vs. adult,0–17 years,5 - 17 Years,,
+Monterey,2019,Child vs. adult,0–17 years,5 - 17 Years,747,64.3
+Napa,2019,Child vs. adult,0–17 years,5 - 17 Years,152,52.5
+Nevada,2019,Child vs. adult,0–17 years,5 - 17 Years,80,50.3
+Orange,2019,Child vs. adult,0–17 years,5 - 17 Years,3828,53.1
+Placer,2019,Child vs. adult,0–17 years,5 - 17 Years,372,50.1
+Plumas,2019,Child vs. adult,0–17 years,5 - 17 Years,29,96.8
+Riverside,2019,Child vs. adult,0–17 years,5 - 17 Years,3931,66.1
+Sacramento,2019,Child vs. adult,0–17 years,5 - 17 Years,3169,87.6
+San Benito,2019,Child vs. adult,0–17 years,5 - 17 Years,138,97.2
+San Bernardino,2019,Child vs. adult,0–17 years,5 - 17 Years,4519,78.2
+San Diego,2019,Child vs. adult,0–17 years,5 - 17 Years,4291,52.9
+San Francisco,2019,Child vs. adult,0–17 years,5 - 17 Years,1049,75.3
+San Joaquin,2019,Child vs. adult,0–17 years,5 - 17 Years,1692,85.3
+San Luis Obispo,2019,Child vs. adult,0–17 years,5 - 17 Years,270,53.7
+San Mateo,2019,Child vs. adult,0–17 years,5 - 17 Years,752,46.1
+Santa Barbara,2019,Child vs. adult,0–17 years,5 - 17 Years,574,55.9
+Santa Clara,2019,Child vs. adult,0–17 years,5 - 17 Years,1834,40.8
+Santa Cruz,2019,Child vs. adult,0–17 years,5 - 17 Years,290,48.3
+Shasta,2019,Child vs. adult,0–17 years,5 - 17 Years,229,61.2
+Sierra,2019,Child vs. adult,0–17 years,5 - 17 Years,0,0
+Siskiyou,2019,Child vs. adult,0–17 years,5 - 17 Years,45,52.5
+Solano,2019,Child vs. adult,0–17 years,5 - 17 Years,1199,120.6
+Sonoma,2019,Child vs. adult,0–17 years,5 - 17 Years,561,58
+Stanislaus,2019,Child vs. adult,0–17 years,5 - 17 Years,1121,77.1
+Sutter,2019,Child vs. adult,0–17 years,5 - 17 Years,118,47.5
+Tehama,2019,Child vs. adult,0–17 years,5 - 17 Years,139,91.1
+Trinity,2019,Child vs. adult,0–17 years,5 - 17 Years,,
+Tulare,2019,Child vs. adult,0–17 years,5 - 17 Years,1054,73.4
+Tuolumne,2019,Child vs. adult,0–17 years,5 - 17 Years,62,71.4
+Ventura,2019,Child vs. adult,0–17 years,5 - 17 Years,1080,54.9
+Yolo,2019,Child vs. adult,0–17 years,5 - 17 Years,294,58.8
+Yuba,2019,Child vs. adult,0–17 years,5 - 17 Years,121,56
+California,2019,Child vs. adult,18+ years,18 - 40  Years,111266,37.4
+Alameda,2019,Child vs. adult,18+ years,18 - 40  Years,5763,44.4
+Alpine,2019,Child vs. adult,18+ years,18 - 40  Years,0,0
+Amador,2019,Child vs. adult,18+ years,18 - 40  Years,138,51.8
+Butte,2019,Child vs. adult,18+ years,18 - 40  Years,710,43.9
+Calaveras,2019,Child vs. adult,18+ years,18 - 40  Years,148,49.8
+Colusa,2019,Child vs. adult,18+ years,18 - 40  Years,25,16.8
+Contra Costa,2019,Child vs. adult,18+ years,18 - 40  Years,4502,53.3
+Del Norte,2019,Child vs. adult,18+ years,18 - 40  Years,98,51.6
+El Dorado,2019,Child vs. adult,18+ years,18 - 40  Years,487,38.2
+Fresno,2019,Child vs. adult,18+ years,18 - 40  Years,3412,48.1
+Glenn,2019,Child vs. adult,18+ years,18 - 40  Years,102,48.9
+Humboldt,2019,Child vs. adult,18+ years,18 - 40  Years,678,69
+Imperial,2019,Child vs. adult,18+ years,18 - 40  Years,600,44.5
+Inyo,2019,Child vs. adult,18+ years,18 - 40  Years,78,68
+Kern,2019,Child vs. adult,18+ years,18 - 40  Years,2634,40.3
+Kings,2019,Child vs. adult,18+ years,18 - 40  Years,568,53.3
+Lake,2019,Child vs. adult,18+ years,18 - 40  Years,370,79.4
+Lassen,2019,Child vs. adult,18+ years,18 - 40  Years,96,37.2
+Los Angeles,2019,Child vs. adult,18+ years,18 - 40  Years,30443,38.7
+Madera,2019,Child vs. adult,18+ years,18 - 40  Years,417,37.1
+Marin,2019,Child vs. adult,18+ years,18 - 40  Years,399,20.4
+Mariposa,2019,Child vs. adult,18+ years,18 - 40  Years,49,45
+Mendocino,2019,Child vs. adult,18+ years,18 - 40  Years,375,60.8
+Merced,2019,Child vs. adult,18+ years,18 - 40  Years,1173,60.6
+Modoc,2019,Child vs. adult,18+ years,18 - 40  Years,58,106.3
+Mono,2019,Child vs. adult,18+ years,18 - 40  Years,31,32.1
+Monterey,2019,Child vs. adult,18+ years,18 - 40  Years,1169,35.7
+Napa,2019,Child vs. adult,18+ years,18 - 40  Years,385,35.9
+Nevada,2019,Child vs. adult,18+ years,18 - 40  Years,226,34.4
+Orange,2019,Child vs. adult,18+ years,18 - 40  Years,5256,21.6
+Placer,2019,Child vs. adult,18+ years,18 - 40  Years,821,29.3
+Plumas,2019,Child vs. adult,18+ years,18 - 40  Years,57,51.5
+Riverside,2019,Child vs. adult,18+ years,18 - 40  Years,6145,35.3
+Sacramento,2019,Child vs. adult,18+ years,18 - 40  Years,6960,61.9
+San Benito,2019,Child vs. adult,18+ years,18 - 40  Years,202,48.6
+San Bernardino,2019,Child vs. adult,18+ years,18 - 40  Years,6685,42.1
+San Diego,2019,Child vs. adult,18+ years,18 - 40  Years,6048,24.3
+San Francisco,2019,Child vs. adult,18+ years,18 - 40  Years,2198,30
+San Joaquin,2019,Child vs. adult,18+ years,18 - 40  Years,3189,59.2
+San Luis Obispo,2019,Child vs. adult,18+ years,18 - 40  Years,530,26.2
+San Mateo,2019,Child vs. adult,18+ years,18 - 40  Years,1594,26.8
+Santa Barbara,2019,Child vs. adult,18+ years,18 - 40  Years,897,25.7
+Santa Clara,2019,Child vs. adult,18+ years,18 - 40  Years,4031,27.2
+Santa Cruz,2019,Child vs. adult,18+ years,18 - 40  Years,482,23.4
+Shasta,2019,Child vs. adult,18+ years,18 - 40  Years,493,39.8
+Sierra,2019,Child vs. adult,18+ years,18 - 40  Years,,
+Siskiyou,2019,Child vs. adult,18+ years,18 - 40  Years,114,38.5
+Solano,2019,Child vs. adult,18+ years,18 - 40  Years,2651,81.6
+Sonoma,2019,Child vs. adult,18+ years,18 - 40  Years,1377,36
+Stanislaus,2019,Child vs. adult,18+ years,18 - 40  Years,1956,49.5
+Sutter,2019,Child vs. adult,18+ years,18 - 40  Years,183,26.2
+Tehama,2019,Child vs. adult,18+ years,18 - 40  Years,211,48.8
+Trinity,2019,Child vs. adult,18+ years,18 - 40  Years,45,51.2
+Tulare,2019,Child vs. adult,18+ years,18 - 40  Years,1080,33
+Tuolumne,2019,Child vs. adult,18+ years,18 - 40  Years,182,47.5
+Ventura,2019,Child vs. adult,18+ years,18 - 40  Years,1756,27.8
+Yolo,2019,Child vs. adult,18+ years,18 - 40  Years,600,37.9
+Yuba,2019,Child vs. adult,18+ years,18 - 40  Years,245,45.1
+California,2019,Age groups,0–4 years,0 - 4 Years,22731,91.5
+Alameda,2019,Age groups,0–4 years,0 - 4 Years,1151,118.3
+Alpine,2019,Age groups,0–4 years,0 - 4 Years,0,0
+Amador,2019,Age groups,0–4 years,0 - 4 Years,,
+Butte,2019,Age groups,0–4 years,0 - 4 Years,73,59.6
+Calaveras,2019,Age groups,0–4 years,0 - 4 Years,15,84.6
+Colusa,2019,Age groups,0–4 years,0 - 4 Years,16,103.3
+Contra Costa,2019,Age groups,0–4 years,0 - 4 Years,709,112.7
+Del Norte,2019,Age groups,0–4 years,0 - 4 Years,16,102
+El Dorado,2019,Age groups,0–4 years,0 - 4 Years,38,48.5
+Fresno,2019,Age groups,0–4 years,0 - 4 Years,1702,219.3
+Glenn,2019,Age groups,0–4 years,0 - 4 Years,,
+Humboldt,2019,Age groups,0–4 years,0 - 4 Years,53,70.4
+Imperial,2019,Age groups,0–4 years,0 - 4 Years,145,87.8
+Inyo,2019,Age groups,0–4 years,0 - 4 Years,12,100.5
+Kern,2019,Age groups,0–4 years,0 - 4 Years,705,101
+Kings,2019,Age groups,0–4 years,0 - 4 Years,168,142.7
+Lake,2019,Age groups,0–4 years,0 - 4 Years,29,77.1
+Lassen,2019,Age groups,0–4 years,0 - 4 Years,,
+Los Angeles,2019,Age groups,0–4 years,0 - 4 Years,6106,96.8
+Madera,2019,Age groups,0–4 years,0 - 4 Years,220,193.4
+Marin,2019,Age groups,0–4 years,0 - 4 Years,49,41.6
+Mariposa,2019,Age groups,0–4 years,0 - 4 Years,,
+Mendocino,2019,Age groups,0–4 years,0 - 4 Years,64,124.8
+Merced,2019,Age groups,0–4 years,0 - 4 Years,304,146.3
+Modoc,2019,Age groups,0–4 years,0 - 4 Years,,
+Mono,2019,Age groups,0–4 years,0 - 4 Years,,
+Monterey,2019,Age groups,0–4 years,0 - 4 Years,220,69.8
+Napa,2019,Age groups,0–4 years,0 - 4 Years,47,65.2
+Nevada,2019,Age groups,0–4 years,0 - 4 Years,24,58.5
+Orange,2019,Age groups,0–4 years,0 - 4 Years,1324,69.2
+Placer,2019,Age groups,0–4 years,0 - 4 Years,125,67.9
+Plumas,2019,Age groups,0–4 years,0 - 4 Years,11,
+Riverside,2019,Age groups,0–4 years,0 - 4 Years,1154,74.9
+Sacramento,2019,Age groups,0–4 years,0 - 4 Years,993,101.4
+San Benito,2019,Age groups,0–4 years,0 - 4 Years,29,79.4
+San Bernardino,2019,Age groups,0–4 years,0 - 4 Years,1344,87.8
+San Diego,2019,Age groups,0–4 years,0 - 4 Years,1726,77.4
+San Francisco,2019,Age groups,0–4 years,0 - 4 Years,523,119.9
+San Joaquin,2019,Age groups,0–4 years,0 - 4 Years,536,104.7
+San Luis Obispo,2019,Age groups,0–4 years,0 - 4 Years,95,73.2
+San Mateo,2019,Age groups,0–4 years,0 - 4 Years,281,64.5
+Santa Barbara,2019,Age groups,0–4 years,0 - 4 Years,175,61.1
+Santa Clara,2019,Age groups,0–4 years,0 - 4 Years,591,48.8
+Santa Cruz,2019,Age groups,0–4 years,0 - 4 Years,118,76.3
+Shasta,2019,Age groups,0–4 years,0 - 4 Years,72,71.9
+Sierra,2019,Age groups,0–4 years,0 - 4 Years,0,0
+Siskiyou,2019,Age groups,0–4 years,0 - 4 Years,13,57.1
+Solano,2019,Age groups,0–4 years,0 - 4 Years,335,127.2
+Sonoma,2019,Age groups,0–4 years,0 - 4 Years,185,73.8
+Stanislaus,2019,Age groups,0–4 years,0 - 4 Years,323,84
+Sutter,2019,Age groups,0–4 years,0 - 4 Years,32,48.8
+Tehama,2019,Age groups,0–4 years,0 - 4 Years,27,63.6
+Trinity,2019,Age groups,0–4 years,0 - 4 Years,,
+Tulare,2019,Age groups,0–4 years,0 - 4 Years,397,106.2
+Tuolumne,2019,Age groups,0–4 years,0 - 4 Years,13,57.2
+Ventura,2019,Age groups,0–4 years,0 - 4 Years,299,58.6
+Yolo,2019,Age groups,0–4 years,0 - 4 Years,77,60.7
+Yuba,2019,Age groups,0–4 years,0 - 4 Years,26,43.6
+California,2019,Age groups,5–17 years,5 - 17 Years,46056,68.2
+Alameda,2019,Age groups,5–17 years,5 - 17 Years,2028,80.5
+Alpine,2019,Age groups,5–17 years,5 - 17 Years,0,0
+Amador,2019,Age groups,5–17 years,5 - 17 Years,28,71.6
+Butte,2019,Age groups,5–17 years,5 - 17 Years,153,45.7
+Calaveras,2019,Age groups,5–17 years,5 - 17 Years,35,65.1
+Colusa,2019,Age groups,5–17 years,5 - 17 Years,21,46.7
+Contra Costa,2019,Age groups,5–17 years,5 - 17 Years,1495,80.8
+Del Norte,2019,Age groups,5–17 years,5 - 17 Years,36,83.8
+El Dorado,2019,Age groups,5–17 years,5 - 17 Years,125,46.3
+Fresno,2019,Age groups,5–17 years,5 - 17 Years,2669,129.9
+Glenn,2019,Age groups,5–17 years,5 - 17 Years,18,32.6
+Humboldt,2019,Age groups,5–17 years,5 - 17 Years,120,58.5
+Imperial,2019,Age groups,5–17 years,5 - 17 Years,546,141.1
+Inyo,2019,Age groups,5–17 years,5 - 17 Years,20,70.3
+Kern,2019,Age groups,5–17 years,5 - 17 Years,1514,81.1
+Kings,2019,Age groups,5–17 years,5 - 17 Years,338,97.6
+Lake,2019,Age groups,5–17 years,5 - 17 Years,83,84.1
+Lassen,2019,Age groups,5–17 years,5 - 17 Years,27,67.9
+Los Angeles,2019,Age groups,5–17 years,5 - 17 Years,12955,77.3
+Madera,2019,Age groups,5–17 years,5 - 17 Years,342,110.3
+Marin,2019,Age groups,5–17 years,5 - 17 Years,116,29.4
+Mariposa,2019,Age groups,5–17 years,5 - 17 Years,,
+Mendocino,2019,Age groups,5–17 years,5 - 17 Years,128,90.9
+Merced,2019,Age groups,5–17 years,5 - 17 Years,590,99.9
+Modoc,2019,Age groups,5–17 years,5 - 17 Years,18,136.8
+Mono,2019,Age groups,5–17 years,5 - 17 Years,,
+Monterey,2019,Age groups,5–17 years,5 - 17 Years,527,62.2
+Napa,2019,Age groups,5–17 years,5 - 17 Years,105,47.9
+Nevada,2019,Age groups,5–17 years,5 - 17 Years,56,47.3
+Orange,2019,Age groups,5–17 years,5 - 17 Years,2504,47.1
+Placer,2019,Age groups,5–17 years,5 - 17 Years,247,43.5
+Plumas,2019,Age groups,5–17 years,5 - 17 Years,18,81.2
+Riverside,2019,Age groups,5–17 years,5 - 17 Years,2777,62.9
+Sacramento,2019,Age groups,5–17 years,5 - 17 Years,2176,82.6
+San Benito,2019,Age groups,5–17 years,5 - 17 Years,109,103.8
+San Bernardino,2019,Age groups,5–17 years,5 - 17 Years,3175,74.7
+San Diego,2019,Age groups,5–17 years,5 - 17 Years,2565,44
+San Francisco,2019,Age groups,5–17 years,5 - 17 Years,526,58.9
+San Joaquin,2019,Age groups,5–17 years,5 - 17 Years,1156,78.2
+San Luis Obispo,2019,Age groups,5–17 years,5 - 17 Years,175,46.5
+San Mateo,2019,Age groups,5–17 years,5 - 17 Years,471,39.4
+Santa Barbara,2019,Age groups,5–17 years,5 - 17 Years,399,54
+Santa Clara,2019,Age groups,5–17 years,5 - 17 Years,1243,37.8
+Santa Cruz,2019,Age groups,5–17 years,5 - 17 Years,172,38
+Shasta,2019,Age groups,5–17 years,5 - 17 Years,157,57.3
+Sierra,2019,Age groups,5–17 years,5 - 17 Years,0,0
+Siskiyou,2019,Age groups,5–17 years,5 - 17 Years,32,50.8
+Solano,2019,Age groups,5–17 years,5 - 17 Years,864,118.1
+Sonoma,2019,Age groups,5–17 years,5 - 17 Years,376,52.2
+Stanislaus,2019,Age groups,5–17 years,5 - 17 Years,798,74.5
+Sutter,2019,Age groups,5–17 years,5 - 17 Years,86,47
+Tehama,2019,Age groups,5–17 years,5 - 17 Years,112,101.2
+Trinity,2019,Age groups,5–17 years,5 - 17 Years,,
+Tulare,2019,Age groups,5–17 years,5 - 17 Years,657,61.3
+Tuolumne,2019,Age groups,5–17 years,5 - 17 Years,49,76.5
+Ventura,2019,Age groups,5–17 years,5 - 17 Years,781,53.5
+Yolo,2019,Age groups,5–17 years,5 - 17 Years,217,58
+Yuba,2019,Age groups,5–17 years,5 - 17 Years,95,60.5
+California,2019,Age groups,18–64 years,41 - 64 Years,97990,40.2
+Alameda,2019,Age groups,18–64 years,41 - 64 Years,4929,46
+Alpine,2019,Age groups,18–64 years,41 - 64 Years,0,0
+Amador,2019,Age groups,18–64 years,41 - 64 Years,114,57.1
+Butte,2019,Age groups,18–64 years,41 - 64 Years,638,49.3
+Calaveras,2019,Age groups,18–64 years,41 - 64 Years,118,54.9
+Colusa,2019,Age groups,18–64 years,41 - 64 Years,22,18.1
+Contra Costa,2019,Age groups,18–64 years,41 - 64 Years,3919,57.6
+Del Norte,2019,Age groups,18–64 years,41 - 64 Years,95,61.1
+El Dorado,2019,Age groups,18–64 years,41 - 64 Years,427,42.8
+Fresno,2019,Age groups,18–64 years,41 - 64 Years,3040,51.5
+Glenn,2019,Age groups,18–64 years,41 - 64 Years,86,51.5
+Humboldt,2019,Age groups,18–64 years,41 - 64 Years,634,79.5
+Imperial,2019,Age groups,18–64 years,41 - 64 Years,513,46.2
+Inyo,2019,Age groups,18–64 years,41 - 64 Years,68,76.9
+Kern,2019,Age groups,18–64 years,41 - 64 Years,2419,44.1
+Kings,2019,Age groups,18–64 years,41 - 64 Years,528,59.1
+Lake,2019,Age groups,18–64 years,41 - 64 Years,313,87.5
+Lassen,2019,Age groups,18–64 years,41 - 64 Years,89,42.3
+Los Angeles,2019,Age groups,18–64 years,41 - 64 Years,27020,41.7
+Madera,2019,Age groups,18–64 years,41 - 64 Years,360,39.3
+Marin,2019,Age groups,18–64 years,41 - 64 Years,303,21.1
+Mariposa,2019,Age groups,18–64 years,41 - 64 Years,48,53.9
+Mendocino,2019,Age groups,18–64 years,41 - 64 Years,339,69.6
+Merced,2019,Age groups,18–64 years,41 - 64 Years,1072,66.3
+Modoc,2019,Age groups,18–64 years,41 - 64 Years,52,122.5
+Mono,2019,Age groups,18–64 years,41 - 64 Years,30,37.7
+Monterey,2019,Age groups,18–64 years,41 - 64 Years,1036,38.5
+Napa,2019,Age groups,18–64 years,41 - 64 Years,310,37.3
+Nevada,2019,Age groups,18–64 years,41 - 64 Years,194,38.9
+Orange,2019,Age groups,18–64 years,41 - 64 Years,4485,22.6
+Placer,2019,Age groups,18–64 years,41 - 64 Years,676,31.5
+Plumas,2019,Age groups,18–64 years,41 - 64 Years,49,59.1
+Riverside,2019,Age groups,18–64 years,41 - 64 Years,5464,38.5
+Sacramento,2019,Age groups,18–64 years,41 - 64 Years,6333,68.4
+San Benito,2019,Age groups,18–64 years,41 - 64 Years,175,51.2
+San Bernardino,2019,Age groups,18–64 years,41 - 64 Years,6071,45.7
+San Diego,2019,Age groups,18–64 years,41 - 64 Years,5213,25.7
+San Francisco,2019,Age groups,18–64 years,41 - 64 Years,1884,31.6
+San Joaquin,2019,Age groups,18–64 years,41 - 64 Years,2895,64.9
+San Luis Obispo,2019,Age groups,18–64 years,41 - 64 Years,452,28.7
+San Mateo,2019,Age groups,18–64 years,41 - 64 Years,1279,27.3
+Santa Barbara,2019,Age groups,18–64 years,41 - 64 Years,754,26.5
+Santa Clara,2019,Age groups,18–64 years,41 - 64 Years,3457,28.3
+Santa Cruz,2019,Age groups,18–64 years,41 - 64 Years,428,25.6
+Shasta,2019,Age groups,18–64 years,41 - 64 Years,442,45.2
+Sierra,2019,Age groups,18–64 years,41 - 64 Years,,
+Siskiyou,2019,Age groups,18–64 years,41 - 64 Years,102,44
+Solano,2019,Age groups,18–64 years,41 - 64 Years,2342,89.2
+Sonoma,2019,Age groups,18–64 years,41 - 64 Years,1109,37.7
+Stanislaus,2019,Age groups,18–64 years,41 - 64 Years,1777,54.5
+Sutter,2019,Age groups,18–64 years,41 - 64 Years,162,28.7
+Tehama,2019,Age groups,18–64 years,41 - 64 Years,190,55.3
+Trinity,2019,Age groups,18–64 years,41 - 64 Years,37,57.2
+Tulare,2019,Age groups,18–64 years,41 - 64 Years,980,35.9
+Tuolumne,2019,Age groups,18–64 years,41 - 64 Years,147,52.4
+Ventura,2019,Age groups,18–64 years,41 - 64 Years,1524,29.8
+Yolo,2019,Age groups,18–64 years,41 - 64 Years,498,37.6
+Yuba,2019,Age groups,18–64 years,41 - 64 Years,211,47
+California,2019,Age groups,65+ years,65+ years,13276,23.4
+Alameda,2019,Age groups,65+ years,65+ years,834,36.4
+Alpine,2019,Age groups,65+ years,65+ years,0,0
+Amador,2019,Age groups,65+ years,65+ years,24,25.7
+Butte,2019,Age groups,65+ years,65+ years,72,17.6
+Calaveras,2019,Age groups,65+ years,65+ years,30,24.7
+Colusa,2019,Age groups,65+ years,65+ years,,
+Contra Costa,2019,Age groups,65+ years,65+ years,583,32.1
+Del Norte,2019,Age groups,65+ years,65+ years,,
+El Dorado,2019,Age groups,65+ years,65+ years,60,16.1
+Fresno,2019,Age groups,65+ years,65+ years,372,31.7
+Glenn,2019,Age groups,65+ years,65+ years,16,36.5
+Humboldt,2019,Age groups,65+ years,65+ years,44,18.2
+Imperial,2019,Age groups,65+ years,65+ years,87,36.5
+Inyo,2019,Age groups,65+ years,65+ years,,
+Kern,2019,Age groups,65+ years,65+ years,215,21.8
+Kings,2019,Age groups,65+ years,65+ years,40,25
+Lake,2019,Age groups,65+ years,65+ years,57,40.1
+Lassen,2019,Age groups,65+ years,65+ years,,
+Los Angeles,2019,Age groups,65+ years,65+ years,3423,24.3
+Madera,2019,Age groups,65+ years,65+ years,57,26.2
+Marin,2019,Age groups,65+ years,65+ years,96,16.9
+Mariposa,2019,Age groups,65+ years,65+ years,,
+Mendocino,2019,Age groups,65+ years,65+ years,36,17.8
+Merced,2019,Age groups,65+ years,65+ years,101,32.6
+Modoc,2019,Age groups,65+ years,65+ years,,
+Mono,2019,Age groups,65+ years,65+ years,,
+Monterey,2019,Age groups,65+ years,65+ years,133,22.5
+Napa,2019,Age groups,65+ years,65+ years,75,29
+Nevada,2019,Age groups,65+ years,65+ years,32,12.3
+Orange,2019,Age groups,65+ years,65+ years,771,16.6
+Placer,2019,Age groups,65+ years,65+ years,145,19
+Plumas,2019,Age groups,65+ years,65+ years,,
+Riverside,2019,Age groups,65+ years,65+ years,681,19.5
+Sacramento,2019,Age groups,65+ years,65+ years,627,30.3
+San Benito,2019,Age groups,65+ years,65+ years,27,36.4
+San Bernardino,2019,Age groups,65+ years,65+ years,614,24.6
+San Diego,2019,Age groups,65+ years,65+ years,835,17.6
+San Francisco,2019,Age groups,65+ years,65+ years,314,22.1
+San Joaquin,2019,Age groups,65+ years,65+ years,294,31.2
+San Luis Obispo,2019,Age groups,65+ years,65+ years,78,13.8
+San Mateo,2019,Age groups,65+ years,65+ years,315,24.5
+Santa Barbara,2019,Age groups,65+ years,65+ years,143,22
+Santa Clara,2019,Age groups,65+ years,65+ years,574,21.4
+Santa Cruz,2019,Age groups,65+ years,65+ years,54,12.7
+Shasta,2019,Age groups,65+ years,65+ years,51,13.8
+Sierra,2019,Age groups,65+ years,65+ years,,
+Siskiyou,2019,Age groups,65+ years,65+ years,12,11.6
+Solano,2019,Age groups,65+ years,65+ years,309,44.5
+Sonoma,2019,Age groups,65+ years,65+ years,268,27.4
+Stanislaus,2019,Age groups,65+ years,65+ years,179,25.6
+Sutter,2019,Age groups,65+ years,65+ years,21,14.1
+Tehama,2019,Age groups,65+ years,65+ years,21,17.2
+Trinity,2019,Age groups,65+ years,65+ years,,
+Tulare,2019,Age groups,65+ years,65+ years,100,18.8
+Tuolumne,2019,Age groups,65+ years,65+ years,35,23.3
+Ventura,2019,Age groups,65+ years,65+ years,232,18.4
+Yolo,2019,Age groups,65+ years,65+ years,102,39.3
+Yuba,2019,Age groups,65+ years,65+ years,34,35.8
+California,2019,Race/ethnicity,White,5 - 17 Years,46961,35.6
+Alameda,2019,Race/ethnicity,White,5 - 17 Years,1466,28.4
+Alpine,2019,Race/ethnicity,White,5 - 17 Years,0,0
+Amador,2019,Race/ethnicity,White,5 - 17 Years,125,52.9
+Butte,2019,Race/ethnicity,White,5 - 17 Years,664,48
+Calaveras,2019,Race/ethnicity,White,5 - 17 Years,167,61.2
+Colusa,2019,Race/ethnicity,White,5 - 17 Years,12,22.8
+Contra Costa,2019,Race/ethnicity,White,5 - 17 Years,1625,36.2
+Del Norte,2019,Race/ethnicity,White,5 - 17 Years,109,84.6
+El Dorado,2019,Race/ethnicity,White,5 - 17 Years,445,37.8
+Fresno,2019,Race/ethnicity,White,5 - 17 Years,1791,73.6
+Glenn,2019,Race/ethnicity,White,5 - 17 Years,72,49.2
+Humboldt,2019,Race/ethnicity,White,5 - 17 Years,614,68.4
+Imperial,2019,Race/ethnicity,White,5 - 17 Years,123,70.3
+Inyo,2019,Race/ethnicity,White,5 - 17 Years,63,77.6
+Kern,2019,Race/ethnicity,White,5 - 17 Years,1229,44.5
+Kings,2019,Race/ethnicity,White,5 - 17 Years,315,71.2
+Lake,2019,Race/ethnicity,White,5 - 17 Years,319,78.9
+Lassen,2019,Race/ethnicity,White,5 - 17 Years,102,55.6
+Los Angeles,2019,Race/ethnicity,White,5 - 17 Years,7271,29.7
+Madera,2019,Race/ethnicity,White,5 - 17 Years,211,51.6
+Marin,2019,Race/ethnicity,White,5 - 17 Years,312,18.4
+Mariposa,2019,Race/ethnicity,White,5 - 17 Years,48,46.4
+Mendocino,2019,Race/ethnicity,White,5 - 17 Years,365,82.5
+Merced,2019,Race/ethnicity,White,5 - 17 Years,483,75
+Modoc,2019,Race/ethnicity,White,5 - 17 Years,39,73
+Mono,2019,Race/ethnicity,White,5 - 17 Years,17,24.7
+Monterey,2019,Race/ethnicity,White,5 - 17 Years,450,38.1
+Napa,2019,Race/ethnicity,White,5 - 17 Years,277,45.7
+Nevada,2019,Race/ethnicity,White,5 - 17 Years,260,41.6
+Orange,2019,Race/ethnicity,White,5 - 17 Years,3318,28.9
+Placer,2019,Race/ethnicity,White,5 - 17 Years,847,34.9
+Plumas,2019,Race/ethnicity,White,5 - 17 Years,68,63.3
+Riverside,2019,Race/ethnicity,White,5 - 17 Years,3021,41.1
+Sacramento,2019,Race/ethnicity,White,5 - 17 Years,2947,47.1
+San Benito,2019,Race/ethnicity,White,5 - 17 Years,93,56.5
+San Bernardino,2019,Race/ethnicity,White,5 - 17 Years,2500,45.9
+San Diego,2019,Race/ethnicity,White,5 - 17 Years,3039,21.7
+San Francisco,2019,Race/ethnicity,White,5 - 17 Years,798,24.8
+San Joaquin,2019,Race/ethnicity,White,5 - 17 Years,1141,54.9
+San Luis Obispo,2019,Race/ethnicity,White,5 - 17 Years,481,30.9
+San Mateo,2019,Race/ethnicity,White,5 - 17 Years,676,23.3
+Santa Barbara,2019,Race/ethnicity,White,5 - 17 Years,535,31
+Santa Clara,2019,Race/ethnicity,White,5 - 17 Years,1410,23.7
+Santa Cruz,2019,Race/ethnicity,White,5 - 17 Years,377,27.3
+Shasta,2019,Race/ethnicity,White,5 - 17 Years,565,46.8
+Sierra,2019,Race/ethnicity,White,5 - 17 Years,,
+Siskiyou,2019,Race/ethnicity,White,5 - 17 Years,121,43.7
+Solano,2019,Race/ethnicity,White,5 - 17 Years,1050,71.4
+Sonoma,2019,Race/ethnicity,White,5 - 17 Years,1093,39
+Stanislaus,2019,Race/ethnicity,White,5 - 17 Years,1175,58.1
+Sutter,2019,Race/ethnicity,White,5 - 17 Years,115,29.6
+Tehama,2019,Race/ethnicity,White,5 - 17 Years,209,57.7
+Trinity,2019,Race/ethnicity,White,5 - 17 Years,44,48.9
+Tulare,2019,Race/ethnicity,White,5 - 17 Years,344,31.3
+Tuolumne,2019,Race/ethnicity,White,5 - 17 Years,215,62.7
+Ventura,2019,Race/ethnicity,White,5 - 17 Years,1178,35.9
+Yolo,2019,Race/ethnicity,White,5 - 17 Years,364,40.5
+Yuba,2019,Race/ethnicity,White,5 - 17 Years,211,51.5
+California,2019,Race/ethnicity,Black,5 - 17 Years,36416,168
+Alameda,2019,Race/ethnicity,Black,5 - 17 Years,3564,202.8
+Alpine,2019,Race/ethnicity,Black,5 - 17 Years,0,0
+Amador,2019,Race/ethnicity,Black,5 - 17 Years,,
+Butte,2019,Race/ethnicity,Black,5 - 17 Years,68,192.3
+Calaveras,2019,Race/ethnicity,Black,5 - 17 Years,,
+Colusa,2019,Race/ethnicity,Black,5 - 17 Years,,
+Contra Costa,2019,Race/ethnicity,Black,5 - 17 Years,2136,216.3
+Del Norte,2019,Race/ethnicity,Black,5 - 17 Years,,
+El Dorado,2019,Race/ethnicity,Black,5 - 17 Years,27,206.5
+Fresno,2019,Race/ethnicity,Black,5 - 17 Years,792,156.3
+Glenn,2019,Race/ethnicity,Black,5 - 17 Years,,
+Humboldt,2019,Race/ethnicity,Black,5 - 17 Years,54,370.4
+Imperial,2019,Race/ethnicity,Black,5 - 17 Years,31,145.4
+Inyo,2019,Race/ethnicity,Black,5 - 17 Years,0,0
+Kern,2019,Race/ethnicity,Black,5 - 17 Years,952,184.5
+Kings,2019,Race/ethnicity,Black,5 - 17 Years,156,208.6
+Lake,2019,Race/ethnicity,Black,41 - 64 Years,35,381.2
+Lassen,2019,Race/ethnicity,Black,41 - 64 Years,,
+Los Angeles,2019,Race/ethnicity,Black,41 - 64 Years,12350,162.3
+Madera,2019,Race/ethnicity,Black,41 - 64 Years,62,199
+Marin,2019,Race/ethnicity,Black,41 - 64 Years,69,113.1
+Mariposa,2019,Race/ethnicity,Black,41 - 64 Years,,
+Mendocino,2019,Race/ethnicity,Black,41 - 64 Years,18,328.6
+Merced,2019,Race/ethnicity,Black,41 - 64 Years,226,252.9
+Modoc,2019,Race/ethnicity,Black,41 - 64 Years,0,0
+Mono,2019,Race/ethnicity,Black,41 - 64 Years,,
+Monterey,2019,Race/ethnicity,Black,41 - 64 Years,107,111.8
+Napa,2019,Race/ethnicity,Black,41 - 64 Years,24,115.6
+Nevada,2019,Race/ethnicity,Black,41 - 64 Years,,
+Orange,2019,Race/ethnicity,Black,41 - 64 Years,579,124.7
+Placer,2019,Race/ethnicity,Black,41 - 64 Years,68,150.9
+Plumas,2019,Race/ethnicity,Black,41 - 64 Years,,
+Riverside,2019,Race/ethnicity,Black,41 - 64 Years,1969,141
+Sacramento,2019,Race/ethnicity,Black,41 - 64 Years,3427,221.4
+San Benito,2019,Race/ethnicity,Black,41 - 64 Years,,
+San Bernardino,2019,Race/ethnicity,Black,41 - 64 Years,2594,135.6
+San Diego,2019,Race/ethnicity,Black,41 - 64 Years,1689,113.7
+San Francisco,2019,Race/ethnicity,Black,41 - 64 Years,1017,257.8
+San Joaquin,2019,Race/ethnicity,Black,41 - 64 Years,1239,225
+San Luis Obispo,2019,Race/ethnicity,Black,41 - 64 Years,40,106.1
+San Mateo,2019,Race/ethnicity,Black,41 - 64 Years,140,82.6
+Santa Barbara,2019,Race/ethnicity,Black,41 - 64 Years,81,118.1
+Santa Clara,2019,Race/ethnicity,Black,41 - 64 Years,506,112.8
+Santa Cruz,2019,Race/ethnicity,Black,41 - 64 Years,17,66.2
+Shasta,2019,Race/ethnicity,Black,41 - 64 Years,30,192.8
+Sierra,2019,Race/ethnicity,Black,41 - 64 Years,0,0
+Siskiyou,2019,Race/ethnicity,Black,41 - 64 Years,,
+Solano,2019,Race/ethnicity,Black,41 - 64 Years,1425,242.8
+Sonoma,2019,Race/ethnicity,Black,41 - 64 Years,113,164.7
+Stanislaus,2019,Race/ethnicity,Black,41 - 64 Years,320,216.1
+Sutter,2019,Race/ethnicity,Black,41 - 64 Years,43,263
+Tehama,2019,Race/ethnicity,Black,41 - 64 Years,,
+Trinity,2019,Race/ethnicity,Black,41 - 64 Years,,
+Tulare,2019,Race/ethnicity,Black,41 - 64 Years,58,109.4
+Tuolumne,2019,Race/ethnicity,Black,41 - 64 Years,,
+Ventura,2019,Race/ethnicity,Black,41 - 64 Years,124,101.4
+Yolo,2019,Race/ethnicity,Black,41 - 64 Years,95,180.3
+Yuba,2019,Race/ethnicity,Black,41 - 64 Years,43,206.8
+California,2019,Race/ethnicity,Hispanic,41 - 64 Years,75479,45.8
+Alameda,2019,Race/ethnicity,Hispanic,41 - 64 Years,2098,53
+Alpine,2019,Race/ethnicity,Hispanic,41 - 64 Years,0,0
+Amador,2019,Race/ethnicity,Hispanic,41 - 64 Years,28,58.7
+Butte,2019,Race/ethnicity,Hispanic,41 - 64 Years,133,34.8
+Calaveras,2019,Race/ethnicity,Hispanic,41 - 64 Years,11,
+Colusa,2019,Race/ethnicity,Hispanic,41 - 64 Years,42,25.9
+Contra Costa,2019,Race/ethnicity,Hispanic,41 - 64 Years,2027,66.9
+Del Norte,2019,Race/ethnicity,Hispanic,41 - 64 Years,16,29.6
+El Dorado,2019,Race/ethnicity,Hispanic,41 - 64 Years,97,37.9
+Fresno,2019,Race/ethnicity,Hispanic,41 - 64 Years,4818,80.5
+Glenn,2019,Race/ethnicity,Hispanic,41 - 64 Years,41,34.2
+Humboldt,2019,Race/ethnicity,Hispanic,41 - 64 Years,84,47.3
+Imperial,2019,Race/ethnicity,Hispanic,41 - 64 Years,1129,66
+Inyo,2019,Race/ethnicity,Hispanic,41 - 64 Years,27,57.7
+Kern,2019,Race/ethnicity,Hispanic,41 - 64 Years,2403,45.6
+Kings,2019,Race/ethnicity,Hispanic,41 - 64 Years,577,60.9
+Lake,2019,Race/ethnicity,Hispanic,41 - 64 Years,93,72.1
+Lassen,2019,Race/ethnicity,Hispanic,41 - 64 Years,14,35.8
+Los Angeles,2019,Race/ethnicity,Hispanic,41 - 64 Years,24959,48.5
+Madera,2019,Race/ethnicity,Hispanic,41 - 64 Years,680,65.7
+Marin,2019,Race/ethnicity,Hispanic,41 - 64 Years,144,31.2
+Mariposa,2019,Race/ethnicity,Hispanic,41 - 64 Years,,
+Mendocino,2019,Race/ethnicity,Hispanic,41 - 64 Years,127,52.1
+Merced,2019,Race/ethnicity,Hispanic,41 - 64 Years,1258,72.5
+Modoc,2019,Race/ethnicity,Hispanic,41 - 64 Years,,
+Mono,2019,Race/ethnicity,Hispanic,41 - 64 Years,14,34.8
+Monterey,2019,Race/ethnicity,Hispanic,41 - 64 Years,1210,43.5
+Napa,2019,Race/ethnicity,Hispanic,41 - 64 Years,187,38.8
+Nevada,2019,Race/ethnicity,Hispanic,41 - 64 Years,32,31.9
+Orange,2019,Race/ethnicity,Hispanic,41 - 64 Years,3846,32.4
+Placer,2019,Race/ethnicity,Hispanic,41 - 64 Years,163,29.5
+Plumas,2019,Race/ethnicity,Hispanic,41 - 64 Years,11,
+Riverside,2019,Race/ethnicity,Hispanic,41 - 64 Years,4365,36.5
+Sacramento,2019,Race/ethnicity,Hispanic,41 - 64 Years,2305,61.6
+San Benito,2019,Race/ethnicity,Hispanic,41 - 64 Years,237,67.4
+San Bernardino,2019,Race/ethnicity,Hispanic,41 - 64 Years,5105,42
+San Diego,2019,Race/ethnicity,Hispanic,41 - 64 Years,4114,32.8
+San Francisco,2019,Race/ethnicity,Hispanic,41 - 64 Years,728,56.1
+San Joaquin,2019,Race/ethnicity,Hispanic,41 - 64 Years,1738,52.5
+San Luis Obispo,2019,Race/ethnicity,Hispanic,41 - 64 Years,203,28.9
+San Mateo,2019,Race/ethnicity,Hispanic,41 - 64 Years,943,47.3
+Santa Barbara,2019,Race/ethnicity,Hispanic,41 - 64 Years,742,32.8
+Santa Clara,2019,Race/ethnicity,Hispanic,41 - 64 Years,2485,45.4
+Santa Cruz,2019,Race/ethnicity,Hispanic,41 - 64 Years,340,32.4
+Shasta,2019,Race/ethnicity,Hispanic,41 - 64 Years,48,25.6
+Sierra,2019,Race/ethnicity,Hispanic,41 - 64 Years,,
+Siskiyou,2019,Race/ethnicity,Hispanic,41 - 64 Years,12,21
+Solano,2019,Race/ethnicity,Hispanic,41 - 64 Years,808,67.3
+Sonoma,2019,Race/ethnicity,Hispanic,41 - 64 Years,584,42.2
+Stanislaus,2019,Race/ethnicity,Hispanic,41 - 64 Years,1378,51.1
+Sutter,2019,Race/ethnicity,Hispanic,41 - 64 Years,89,27.6
+Tehama,2019,Race/ethnicity,Hispanic,41 - 64 Years,102,58.6
+Trinity,2019,Race/ethnicity,Hispanic,41 - 64 Years,,
+Tulare,2019,Race/ethnicity,Hispanic,41 - 64 Years,1034,29.8
+Tuolumne,2019,Race/ethnicity,Hispanic,41 - 64 Years,20,30.7
+Ventura,2019,Race/ethnicity,Hispanic,41 - 64 Years,1373,34.8
+Yolo,2019,Race/ethnicity,Hispanic,41 - 64 Years,328,45.2
+Yuba,2019,Race/ethnicity,Hispanic,41 - 64 Years,83,38.9
+California,2019,Race/ethnicity,Asian/PI,41 - 64 Years,10945,21.2
+Alameda,2019,Race/ethnicity,Asian/PI,41 - 64 Years,1112,25.2
+Alpine,2019,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Amador,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Butte,2019,Race/ethnicity,Asian/PI,41 - 64 Years,21,25.4
+Calaveras,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Colusa,2019,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Contra Costa,2019,Race/ethnicity,Asian/PI,41 - 64 Years,579,34
+Del Norte,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+El Dorado,2019,Race/ethnicity,Asian/PI,41 - 64 Years,21,34.1
+Fresno,2019,Race/ethnicity,Asian/PI,41 - 64 Years,208,21.5
+Glenn,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Humboldt,2019,Race/ethnicity,Asian/PI,41 - 64 Years,14,38.5
+Imperial,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Inyo,2019,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Kern,2019,Race/ethnicity,Asian/PI,41 - 64 Years,98,28.3
+Kings,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Lake,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Lassen,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Los Angeles,2019,Race/ethnicity,Asian/PI,41 - 64 Years,2515,18.6
+Madera,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Marin,2019,Race/ethnicity,Asian/PI,41 - 64 Years,18,12.2
+Mariposa,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Mendocino,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Merced,2019,Race/ethnicity,Asian/PI,41 - 64 Years,54,29.6
+Modoc,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Mono,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Monterey,2019,Race/ethnicity,Asian/PI,41 - 64 Years,67,30.8
+Napa,2019,Race/ethnicity,Asian/PI,41 - 64 Years,38,36
+Nevada,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Orange,2019,Race/ethnicity,Asian/PI,41 - 64 Years,792,13.7
+Placer,2019,Race/ethnicity,Asian/PI,41 - 64 Years,61,25.6
+Plumas,2019,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Riverside,2019,Race/ethnicity,Asian/PI,41 - 64 Years,249,18
+Sacramento,2019,Race/ethnicity,Asian/PI,41 - 64 Years,957,41.4
+San Benito,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+San Bernardino,2019,Race/ethnicity,Asian/PI,41 - 64 Years,244,17.3
+San Diego,2019,Race/ethnicity,Asian/PI,41 - 64 Years,733,21.2
+San Francisco,2019,Race/ethnicity,Asian/PI,41 - 64 Years,476,20.6
+San Joaquin,2019,Race/ethnicity,Asian/PI,41 - 64 Years,412,38
+San Luis Obispo,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+San Mateo,2019,Race/ethnicity,Asian/PI,41 - 64 Years,456,24.2
+Santa Barbara,2019,Race/ethnicity,Asian/PI,41 - 64 Years,32,16.5
+Santa Clara,2019,Race/ethnicity,Asian/PI,41 - 64 Years,939,14.7
+Santa Cruz,2019,Race/ethnicity,Asian/PI,41 - 64 Years,12,14.4
+Shasta,2019,Race/ethnicity,Asian/PI,41 - 64 Years,23,52.5
+Sierra,2019,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Siskiyou,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Solano,2019,Race/ethnicity,Asian/PI,41 - 64 Years,429,70.8
+Sonoma,2019,Race/ethnicity,Asian/PI,41 - 64 Years,61,36.9
+Stanislaus,2019,Race/ethnicity,Asian/PI,41 - 64 Years,66,21.3
+Sutter,2019,Race/ethnicity,Asian/PI,41 - 64 Years,30,20.5
+Tehama,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Trinity,2019,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Tulare,2019,Race/ethnicity,Asian/PI,41 - 64 Years,22,17.2
+Tuolumne,2019,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Ventura,2019,Race/ethnicity,Asian/PI,41 - 64 Years,67,12.3
+Yolo,2019,Race/ethnicity,Asian/PI,41 - 64 Years,51,60.5
+Yuba,2019,Race/ethnicity,Asian/PI,41 - 64 Years,14,33.8
+California,2019,Race/ethnicity,AI/AN,41 - 64 Years,734,46.1
+Alameda,2019,Race/ethnicity,AI/AN,41 - 64 Years,36,75
+Alpine,2019,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Amador,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Butte,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Calaveras,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Colusa,2019,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Contra Costa,2019,Race/ethnicity,AI/AN,41 - 64 Years,33,125.5
+Del Norte,2019,Race/ethnicity,AI/AN,41 - 64 Years,16,93.1
+El Dorado,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Fresno,2019,Race/ethnicity,AI/AN,41 - 64 Years,17,28.2
+Glenn,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Humboldt,2019,Race/ethnicity,AI/AN,41 - 64 Years,24,31.1
+Imperial,2019,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Inyo,2019,Race/ethnicity,AI/AN,41 - 64 Years,20,121.9
+Kern,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Kings,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Lake,2019,Race/ethnicity,AI/AN,41 - 64 Years,15,86.4
+Lassen,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Los Angeles,2019,Race/ethnicity,AI/AN,41 - 64 Years,57,29.8
+Madera,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Marin,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mariposa,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mendocino,2019,Race/ethnicity,AI/AN,41 - 64 Years,30,87.2
+Merced,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Modoc,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mono,2019,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Monterey,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Napa,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Nevada,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Orange,2019,Race/ethnicity,AI/AN,41 - 64 Years,12,25.3
+Placer,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Plumas,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Riverside,2019,Race/ethnicity,AI/AN,41 - 64 Years,45,42.8
+Sacramento,2019,Race/ethnicity,AI/AN,41 - 64 Years,42,50.5
+San Benito,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+San Bernardino,2019,Race/ethnicity,AI/AN,41 - 64 Years,151,182.6
+San Diego,2019,Race/ethnicity,AI/AN,41 - 64 Years,44,30.9
+San Francisco,2019,Race/ethnicity,AI/AN,41 - 64 Years,27,211.5
+San Joaquin,2019,Race/ethnicity,AI/AN,41 - 64 Years,16,45.5
+San Luis Obispo,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+San Mateo,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Santa Barbara,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Santa Clara,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Santa Cruz,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Shasta,2019,Race/ethnicity,AI/AN,41 - 64 Years,18,46.7
+Sierra,2019,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Siskiyou,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Solano,2019,Race/ethnicity,AI/AN,41 - 64 Years,11,
+Sonoma,2019,Race/ethnicity,AI/AN,41 - 64 Years,23,60.1
+Stanislaus,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Sutter,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Tehama,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Trinity,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Tulare,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Tuolumne,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Ventura,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Yolo,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+Yuba,2019,Race/ethnicity,AI/AN,41 - 64 Years,,
+California,2020,Total population,All ages,41 - 64 Years,163807,42.4
+Alameda,2020,Total population,All ages,41 - 64 Years,7795,48.6
+Alpine,2020,Total population,All ages,41 - 64 Years,,
+Amador,2020,Total population,All ages,41 - 64 Years,137,44.3
+Butte,2020,Total population,All ages,41 - 64 Years,907,42.2
+Calaveras,2020,Total population,All ages,41 - 64 Years,186,52.3
+Colusa,2020,Total population,All ages,41 - 64 Years,118,53.6
+Contra Costa,2020,Total population,All ages,41 - 64 Years,6001,55.4
+Del Norte,2020,Total population,All ages,41 - 64 Years,132,53.6
+El Dorado,2020,Total population,All ages,41 - 64 Years,564,34.1
+Fresno,2020,Total population,All ages,41 - 64 Years,6935,67
+Glenn,2020,Total population,All ages,41 - 64 Years,101,35.9
+Humboldt,2020,Total population,All ages,41 - 64 Years,688,53.4
+Imperial,2020,Total population,All ages,41 - 64 Years,1147,58.1
+Inyo,2020,Total population,All ages,41 - 64 Years,81,49.2
+Kern,2020,Total population,All ages,41 - 64 Years,4299,46.2
+Kings,2020,Total population,All ages,41 - 64 Years,833,53.7
+Lake,2020,Total population,All ages,41 - 64 Years,504,86.7
+Lassen,2020,Total population,All ages,41 - 64 Years,112,37.9
+Los Angeles,2020,Total population,All ages,41 - 64 Years,46729,47.1
+Madera,2020,Total population,All ages,41 - 64 Years,813,50.9
+Marin,2020,Total population,All ages,41 - 64 Years,583,24.3
+Mariposa,2020,Total population,All ages,41 - 64 Years,68,48
+Mendocino,2020,Total population,All ages,41 - 64 Years,507,62.4
+Merced,2020,Total population,All ages,41 - 64 Years,1709,60
+Modoc,2020,Total population,All ages,41 - 64 Years,86,109.3
+Mono,2020,Total population,All ages,41 - 64 Years,65,54.9
+Monterey,2020,Total population,All ages,41 - 64 Years,1615,36.3
+Napa,2020,Total population,All ages,41 - 64 Years,511,37.4
+Nevada,2020,Total population,All ages,41 - 64 Years,219,26.1
+Orange,2020,Total population,All ages,41 - 64 Years,8183,26.5
+Placer,2020,Total population,All ages,41 - 64 Years,1154,33
+Plumas,2020,Total population,All ages,41 - 64 Years,94,61.5
+Riverside,2020,Total population,All ages,41 - 64 Years,8935,37.9
+Sacramento,2020,Total population,All ages,41 - 64 Years,9656,64.5
+San Benito,2020,Total population,All ages,41 - 64 Years,318,56.7
+San Bernardino,2020,Total population,All ages,41 - 64 Years,10343,47.4
+San Diego,2020,Total population,All ages,41 - 64 Years,9436,28.7
+San Francisco,2020,Total population,All ages,41 - 64 Years,2859,36.1
+San Joaquin,2020,Total population,All ages,41 - 64 Years,4527,60.5
+San Luis Obispo,2020,Total population,All ages,41 - 64 Years,693,28.3
+San Mateo,2020,Total population,All ages,41 - 64 Years,2051,27.5
+Santa Barbara,2020,Total population,All ages,41 - 64 Years,1213,27.5
+Santa Clara,2020,Total population,All ages,41 - 64 Years,5095,26.4
+Santa Cruz,2020,Total population,All ages,41 - 64 Years,725,27.9
+Shasta,2020,Total population,All ages,41 - 64 Years,608,38.6
+Sierra,2020,Total population,All ages,41 - 64 Years,12,52.5
+Siskiyou,2020,Total population,All ages,41 - 64 Years,138,34.1
+Solano,2020,Total population,All ages,41 - 64 Years,3354,79.6
+Sonoma,2020,Total population,All ages,41 - 64 Years,1770,38
+Stanislaus,2020,Total population,All ages,41 - 64 Years,2904,52.8
+Sutter,2020,Total population,All ages,41 - 64 Years,291,29.9
+Tehama,2020,Total population,All ages,41 - 64 Years,288,48
+Trinity,2020,Total population,All ages,41 - 64 Years,57,60.1
+Tulare,2020,Total population,All ages,41 - 64 Years,1600,32.2
+Tuolumne,2020,Total population,All ages,41 - 64 Years,220,47.5
+Ventura,2020,Total population,All ages,41 - 64 Years,2469,30.4
+Yolo,2020,Total population,All ages,41 - 64 Years,807,38.9
+Yuba,2020,Total population,All ages,41 - 64 Years,333,43
+California,2020,Child vs. adult,0–17 years,5 - 17 Years,59753,64.7
+Alameda,2020,Child vs. adult,0–17 years,5 - 17 Years,2552,72.6
+Alpine,2020,Child vs. adult,0–17 years,5 - 17 Years,0,0
+Amador,2020,Child vs. adult,0–17 years,5 - 17 Years,34,60.9
+Butte,2020,Child vs. adult,0–17 years,5 - 17 Years,201,44
+Calaveras,2020,Child vs. adult,0–17 years,5 - 17 Years,50,70.6
+Colusa,2020,Child vs. adult,0–17 years,5 - 17 Years,50,84.3
+Contra Costa,2020,Child vs. adult,0–17 years,5 - 17 Years,1924,77.9
+Del Norte,2020,Child vs. adult,0–17 years,5 - 17 Years,46,79.7
+El Dorado,2020,Child vs. adult,0–17 years,5 - 17 Years,131,38.1
+Fresno,2020,Child vs. adult,0–17 years,5 - 17 Years,3687,129.6
+Glenn,2020,Child vs. adult,0–17 years,5 - 17 Years,31,41.7
+Humboldt,2020,Child vs. adult,0–17 years,5 - 17 Years,138,48.4
+Imperial,2020,Child vs. adult,0–17 years,5 - 17 Years,597,108.5
+Inyo,2020,Child vs. adult,0–17 years,5 - 17 Years,25,64.8
+Kern,2020,Child vs. adult,0–17 years,5 - 17 Years,1909,74.3
+Kings,2020,Child vs. adult,0–17 years,5 - 17 Years,368,79.8
+Lake,2020,Child vs. adult,0–17 years,5 - 17 Years,113,82.8
+Lassen,2020,Child vs. adult,0–17 years,5 - 17 Years,24,44.6
+Los Angeles,2020,Child vs. adult,0–17 years,5 - 17 Years,17797,77.5
+Madera,2020,Child vs. adult,0–17 years,5 - 17 Years,486,115.5
+Marin,2020,Child vs. adult,0–17 years,5 - 17 Years,168,34.3
+Mariposa,2020,Child vs. adult,0–17 years,5 - 17 Years,12,44.9
+Mendocino,2020,Child vs. adult,0–17 years,5 - 17 Years,153,79.8
+Merced,2020,Child vs. adult,0–17 years,5 - 17 Years,676,84.8
+Modoc,2020,Child vs. adult,0–17 years,5 - 17 Years,33,186
+Mono,2020,Child vs. adult,0–17 years,5 - 17 Years,18,64.9
+Monterey,2020,Child vs. adult,0–17 years,5 - 17 Years,570,49
+Napa,2020,Child vs. adult,0–17 years,5 - 17 Years,157,54.9
+Nevada,2020,Child vs. adult,0–17 years,5 - 17 Years,51,32.6
+Orange,2020,Child vs. adult,0–17 years,5 - 17 Years,3107,43.4
+Placer,2020,Child vs. adult,0–17 years,5 - 17 Years,309,41.9
+Plumas,2020,Child vs. adult,0–17 years,5 - 17 Years,30,97
+Riverside,2020,Child vs. adult,0–17 years,5 - 17 Years,3309,55.6
+Sacramento,2020,Child vs. adult,0–17 years,5 - 17 Years,2847,78.5
+San Benito,2020,Child vs. adult,0–17 years,5 - 17 Years,108,76.8
+San Bernardino,2020,Child vs. adult,0–17 years,5 - 17 Years,3806,66
+San Diego,2020,Child vs. adult,0–17 years,5 - 17 Years,3644,44.7
+San Francisco,2020,Child vs. adult,0–17 years,5 - 17 Years,927,65
+San Joaquin,2020,Child vs. adult,0–17 years,5 - 17 Years,1486,74
+San Luis Obispo,2020,Child vs. adult,0–17 years,5 - 17 Years,199,39.6
+San Mateo,2020,Child vs. adult,0–17 years,5 - 17 Years,660,40.5
+Santa Barbara,2020,Child vs. adult,0–17 years,5 - 17 Years,433,42.3
+Santa Clara,2020,Child vs. adult,0–17 years,5 - 17 Years,1500,33.4
+Santa Cruz,2020,Child vs. adult,0–17 years,5 - 17 Years,212,35.3
+Shasta,2020,Child vs. adult,0–17 years,5 - 17 Years,180,48
+Sierra,2020,Child vs. adult,0–17 years,5 - 17 Years,,
+Siskiyou,2020,Child vs. adult,0–17 years,5 - 17 Years,33,38.4
+Solano,2020,Child vs. adult,0–17 years,5 - 17 Years,1022,102.6
+Sonoma,2020,Child vs. adult,0–17 years,5 - 17 Years,490,50.7
+Stanislaus,2020,Child vs. adult,0–17 years,5 - 17 Years,1074,73.6
+Sutter,2020,Child vs. adult,0–17 years,5 - 17 Years,104,42.1
+Tehama,2020,Child vs. adult,0–17 years,5 - 17 Years,95,60.9
+Trinity,2020,Child vs. adult,0–17 years,5 - 17 Years,21,102.7
+Tulare,2020,Child vs. adult,0–17 years,5 - 17 Years,783,54.6
+Tuolumne,2020,Child vs. adult,0–17 years,5 - 17 Years,47,55.6
+Ventura,2020,Child vs. adult,0–17 years,5 - 17 Years,946,48.4
+Yolo,2020,Child vs. adult,0–17 years,5 - 17 Years,263,51.8
+Yuba,2020,Child vs. adult,0–17 years,5 - 17 Years,106,49.2
+California,2020,Child vs. adult,18+ years,18 - 40  Years,104054,34.6
+Alameda,2020,Child vs. adult,18+ years,18 - 40  Years,5243,40.2
+Alpine,2020,Child vs. adult,18+ years,18 - 40  Years,,
+Amador,2020,Child vs. adult,18+ years,18 - 40  Years,103,38.5
+Butte,2020,Child vs. adult,18+ years,18 - 40  Years,706,41.6
+Calaveras,2020,Child vs. adult,18+ years,18 - 40  Years,136,45.9
+Colusa,2020,Child vs. adult,18+ years,18 - 40  Years,68,42.9
+Contra Costa,2020,Child vs. adult,18+ years,18 - 40  Years,4077,47.6
+Del Norte,2020,Child vs. adult,18+ years,18 - 40  Years,86,44.5
+El Dorado,2020,Child vs. adult,18+ years,18 - 40  Years,433,32.7
+Fresno,2020,Child vs. adult,18+ years,18 - 40  Years,3248,45.2
+Glenn,2020,Child vs. adult,18+ years,18 - 40  Years,70,33.9
+Humboldt,2020,Child vs. adult,18+ years,18 - 40  Years,550,55.1
+Imperial,2020,Child vs. adult,18+ years,18 - 40  Years,550,40.6
+Inyo,2020,Child vs. adult,18+ years,18 - 40  Years,56,43.8
+Kern,2020,Child vs. adult,18+ years,18 - 40  Years,2390,36.4
+Kings,2020,Child vs. adult,18+ years,18 - 40  Years,465,44.6
+Lake,2020,Child vs. adult,18+ years,18 - 40  Years,391,88.1
+Lassen,2020,Child vs. adult,18+ years,18 - 40  Years,88,35.5
+Los Angeles,2020,Child vs. adult,18+ years,18 - 40  Years,28932,36.6
+Madera,2020,Child vs. adult,18+ years,18 - 40  Years,327,28.5
+Marin,2020,Child vs. adult,18+ years,18 - 40  Years,415,20.8
+Mariposa,2020,Child vs. adult,18+ years,18 - 40  Years,56,49.1
+Mendocino,2020,Child vs. adult,18+ years,18 - 40  Years,354,56.3
+Merced,2020,Child vs. adult,18+ years,18 - 40  Years,1033,51.4
+Modoc,2020,Child vs. adult,18+ years,18 - 40  Years,53,82.6
+Mono,2020,Child vs. adult,18+ years,18 - 40  Years,47,51.4
+Monterey,2020,Child vs. adult,18+ years,18 - 40  Years,1045,31.9
+Napa,2020,Child vs. adult,18+ years,18 - 40  Years,354,31.4
+Nevada,2020,Child vs. adult,18+ years,18 - 40  Years,168,23.9
+Orange,2020,Child vs. adult,18+ years,18 - 40  Years,5076,20.6
+Placer,2020,Child vs. adult,18+ years,18 - 40  Years,845,29.9
+Plumas,2020,Child vs. adult,18+ years,18 - 40  Years,64,49.2
+Riverside,2020,Child vs. adult,18+ years,18 - 40  Years,5626,31.7
+Sacramento,2020,Child vs. adult,18+ years,18 - 40  Years,6809,59.6
+San Benito,2020,Child vs. adult,18+ years,18 - 40  Years,210,49.7
+San Bernardino,2020,Child vs. adult,18+ years,18 - 40  Years,6537,40.9
+San Diego,2020,Child vs. adult,18+ years,18 - 40  Years,5792,23.2
+San Francisco,2020,Child vs. adult,18+ years,18 - 40  Years,1932,26.1
+San Joaquin,2020,Child vs. adult,18+ years,18 - 40  Years,3041,55.8
+San Luis Obispo,2020,Child vs. adult,18+ years,18 - 40  Years,494,24.3
+San Mateo,2020,Child vs. adult,18+ years,18 - 40  Years,1391,22.9
+Santa Barbara,2020,Child vs. adult,18+ years,18 - 40  Years,780,22.4
+Santa Clara,2020,Child vs. adult,18+ years,18 - 40  Years,3595,23.9
+Santa Cruz,2020,Child vs. adult,18+ years,18 - 40  Years,513,25.4
+Shasta,2020,Child vs. adult,18+ years,18 - 40  Years,428,35.3
+Sierra,2020,Child vs. adult,18+ years,18 - 40  Years,,
+Siskiyou,2020,Child vs. adult,18+ years,18 - 40  Years,105,32.7
+Solano,2020,Child vs. adult,18+ years,18 - 40  Years,2332,71.6
+Sonoma,2020,Child vs. adult,18+ years,18 - 40  Years,1280,33.6
+Stanislaus,2020,Child vs. adult,18+ years,18 - 40  Years,1830,45.6
+Sutter,2020,Child vs. adult,18+ years,18 - 40  Years,187,25.7
+Tehama,2020,Child vs. adult,18+ years,18 - 40  Years,193,43.5
+Trinity,2020,Child vs. adult,18+ years,18 - 40  Years,36,45.3
+Tulare,2020,Child vs. adult,18+ years,18 - 40  Years,817,24.4
+Tuolumne,2020,Child vs. adult,18+ years,18 - 40  Years,173,44.6
+Ventura,2020,Child vs. adult,18+ years,18 - 40  Years,1523,24.2
+Yolo,2020,Child vs. adult,18+ years,18 - 40  Years,544,34.5
+Yuba,2020,Child vs. adult,18+ years,18 - 40  Years,227,40.8
+California,2020,Age groups,0–4 years,0 - 4 Years,19245,77.9
+Alameda,2020,Age groups,0–4 years,0 - 4 Years,885,91
+Alpine,2020,Age groups,0–4 years,0 - 4 Years,0,0
+Amador,2020,Age groups,0–4 years,0 - 4 Years,,
+Butte,2020,Age groups,0–4 years,0 - 4 Years,74,60.2
+Calaveras,2020,Age groups,0–4 years,0 - 4 Years,15,82.3
+Colusa,2020,Age groups,0–4 years,0 - 4 Years,18,116.2
+Contra Costa,2020,Age groups,0–4 years,0 - 4 Years,577,90.2
+Del Norte,2020,Age groups,0–4 years,0 - 4 Years,,
+El Dorado,2020,Age groups,0–4 years,0 - 4 Years,32,40.4
+Fresno,2020,Age groups,0–4 years,0 - 4 Years,1421,184
+Glenn,2020,Age groups,0–4 years,0 - 4 Years,,
+Humboldt,2020,Age groups,0–4 years,0 - 4 Years,44,58.5
+Imperial,2020,Age groups,0–4 years,0 - 4 Years,121,73.9
+Inyo,2020,Age groups,0–4 years,0 - 4 Years,,
+Kern,2020,Age groups,0–4 years,0 - 4 Years,622,89.7
+Kings,2020,Age groups,0–4 years,0 - 4 Years,113,98.6
+Lake,2020,Age groups,0–4 years,0 - 4 Years,29,78.1
+Lassen,2020,Age groups,0–4 years,0 - 4 Years,,
+Los Angeles,2020,Age groups,0–4 years,0 - 4 Years,5488,88.5
+Madera,2020,Age groups,0–4 years,0 - 4 Years,203,180.1
+Marin,2020,Age groups,0–4 years,0 - 4 Years,61,52.5
+Mariposa,2020,Age groups,0–4 years,0 - 4 Years,,
+Mendocino,2020,Age groups,0–4 years,0 - 4 Years,46,90.6
+Merced,2020,Age groups,0–4 years,0 - 4 Years,226,109.2
+Modoc,2020,Age groups,0–4 years,0 - 4 Years,,
+Mono,2020,Age groups,0–4 years,0 - 4 Years,,
+Monterey,2020,Age groups,0–4 years,0 - 4 Years,154,49.1
+Napa,2020,Age groups,0–4 years,0 - 4 Years,53,72.9
+Nevada,2020,Age groups,0–4 years,0 - 4 Years,13,31.4
+Orange,2020,Age groups,0–4 years,0 - 4 Years,1048,55.3
+Placer,2020,Age groups,0–4 years,0 - 4 Years,109,58.5
+Plumas,2020,Age groups,0–4 years,0 - 4 Years,,
+Riverside,2020,Age groups,0–4 years,0 - 4 Years,954,61.3
+Sacramento,2020,Age groups,0–4 years,0 - 4 Years,838,85.3
+San Benito,2020,Age groups,0–4 years,0 - 4 Years,25,68.3
+San Bernardino,2020,Age groups,0–4 years,0 - 4 Years,1157,75.9
+San Diego,2020,Age groups,0–4 years,0 - 4 Years,1421,63.8
+San Francisco,2020,Age groups,0–4 years,0 - 4 Years,445,102.4
+San Joaquin,2020,Age groups,0–4 years,0 - 4 Years,397,76.5
+San Luis Obispo,2020,Age groups,0–4 years,0 - 4 Years,78,59.2
+San Mateo,2020,Age groups,0–4 years,0 - 4 Years,240,54.3
+Santa Barbara,2020,Age groups,0–4 years,0 - 4 Years,106,37.4
+Santa Clara,2020,Age groups,0–4 years,0 - 4 Years,513,42.9
+Santa Cruz,2020,Age groups,0–4 years,0 - 4 Years,74,48.5
+Shasta,2020,Age groups,0–4 years,0 - 4 Years,66,65.8
+Sierra,2020,Age groups,0–4 years,0 - 4 Years,,
+Siskiyou,2020,Age groups,0–4 years,0 - 4 Years,11,
+Solano,2020,Age groups,0–4 years,0 - 4 Years,273,103.3
+Sonoma,2020,Age groups,0–4 years,0 - 4 Years,160,63.6
+Stanislaus,2020,Age groups,0–4 years,0 - 4 Years,298,76.9
+Sutter,2020,Age groups,0–4 years,0 - 4 Years,21,31.4
+Tehama,2020,Age groups,0–4 years,0 - 4 Years,33,75.3
+Trinity,2020,Age groups,0–4 years,0 - 4 Years,,
+Tulare,2020,Age groups,0–4 years,0 - 4 Years,314,84.3
+Tuolumne,2020,Age groups,0–4 years,0 - 4 Years,12,53.7
+Ventura,2020,Age groups,0–4 years,0 - 4 Years,265,52.3
+Yolo,2020,Age groups,0–4 years,0 - 4 Years,84,66.7
+Yuba,2020,Age groups,0–4 years,0 - 4 Years,27,46.2
+California,2020,Age groups,5–17 years,5 - 17 Years,40508,59.9
+Alameda,2020,Age groups,5–17 years,5 - 17 Years,1667,65.9
+Alpine,2020,Age groups,5–17 years,5 - 17 Years,0,0
+Amador,2020,Age groups,5–17 years,5 - 17 Years,25,60.9
+Butte,2020,Age groups,5–17 years,5 - 17 Years,127,38.1
+Calaveras,2020,Age groups,5–17 years,5 - 17 Years,35,66.3
+Colusa,2020,Age groups,5–17 years,5 - 17 Years,32,72.6
+Contra Costa,2020,Age groups,5–17 years,5 - 17 Years,1347,73.5
+Del Norte,2020,Age groups,5–17 years,5 - 17 Years,36,85.2
+El Dorado,2020,Age groups,5–17 years,5 - 17 Years,99,37.2
+Fresno,2020,Age groups,5–17 years,5 - 17 Years,2266,109.7
+Glenn,2020,Age groups,5–17 years,5 - 17 Years,23,41.8
+Humboldt,2020,Age groups,5–17 years,5 - 17 Years,94,44.7
+Imperial,2020,Age groups,5–17 years,5 - 17 Years,476,121.2
+Inyo,2020,Age groups,5–17 years,5 - 17 Years,18,65.4
+Kern,2020,Age groups,5–17 years,5 - 17 Years,1287,68.7
+Kings,2020,Age groups,5–17 years,5 - 17 Years,255,72.9
+Lake,2020,Age groups,5–17 years,5 - 17 Years,84,84.5
+Lassen,2020,Age groups,5–17 years,5 - 17 Years,18,46.4
+Los Angeles,2020,Age groups,5–17 years,5 - 17 Years,12309,73.5
+Madera,2020,Age groups,5–17 years,5 - 17 Years,283,91.8
+Marin,2020,Age groups,5–17 years,5 - 17 Years,107,27.7
+Mariposa,2020,Age groups,5–17 years,5 - 17 Years,,
+Mendocino,2020,Age groups,5–17 years,5 - 17 Years,107,75.9
+Merced,2020,Age groups,5–17 years,5 - 17 Years,450,75.8
+Modoc,2020,Age groups,5–17 years,5 - 17 Years,25,180
+Mono,2020,Age groups,5–17 years,5 - 17 Years,13,62.8
+Monterey,2020,Age groups,5–17 years,5 - 17 Years,416,49
+Napa,2020,Age groups,5–17 years,5 - 17 Years,104,48.3
+Nevada,2020,Age groups,5–17 years,5 - 17 Years,38,33
+Orange,2020,Age groups,5–17 years,5 - 17 Years,2059,39
+Placer,2020,Age groups,5–17 years,5 - 17 Years,200,35.8
+Plumas,2020,Age groups,5–17 years,5 - 17 Years,20,87.3
+Riverside,2020,Age groups,5–17 years,5 - 17 Years,2355,53.5
+Sacramento,2020,Age groups,5–17 years,5 - 17 Years,2009,76
+San Benito,2020,Age groups,5–17 years,5 - 17 Years,83,79.9
+San Bernardino,2020,Age groups,5–17 years,5 - 17 Years,2649,62.4
+San Diego,2020,Age groups,5–17 years,5 - 17 Years,2223,37.6
+San Francisco,2020,Age groups,5–17 years,5 - 17 Years,482,51.4
+San Joaquin,2020,Age groups,5–17 years,5 - 17 Years,1089,73
+San Luis Obispo,2020,Age groups,5–17 years,5 - 17 Years,121,32.5
+San Mateo,2020,Age groups,5–17 years,5 - 17 Years,420,35.5
+Santa Barbara,2020,Age groups,5–17 years,5 - 17 Years,327,44.1
+Santa Clara,2020,Age groups,5–17 years,5 - 17 Years,987,29.9
+Santa Cruz,2020,Age groups,5–17 years,5 - 17 Years,138,30.4
+Shasta,2020,Age groups,5–17 years,5 - 17 Years,114,41.4
+Sierra,2020,Age groups,5–17 years,5 - 17 Years,,
+Siskiyou,2020,Age groups,5–17 years,5 - 17 Years,22,34.6
+Solano,2020,Age groups,5–17 years,5 - 17 Years,749,102.3
+Sonoma,2020,Age groups,5–17 years,5 - 17 Years,330,46
+Stanislaus,2020,Age groups,5–17 years,5 - 17 Years,776,72.4
+Sutter,2020,Age groups,5–17 years,5 - 17 Years,83,46.1
+Tehama,2020,Age groups,5–17 years,5 - 17 Years,62,55.7
+Trinity,2020,Age groups,5–17 years,5 - 17 Years,11,
+Tulare,2020,Age groups,5–17 years,5 - 17 Years,469,43.8
+Tuolumne,2020,Age groups,5–17 years,5 - 17 Years,35,56.3
+Ventura,2020,Age groups,5–17 years,5 - 17 Years,681,47
+Yolo,2020,Age groups,5–17 years,5 - 17 Years,179,46.3
+Yuba,2020,Age groups,5–17 years,5 - 17 Years,79,50.3
+California,2020,Age groups,18–64 years,41 - 64 Years,91324,37.3
+Alameda,2020,Age groups,18–64 years,41 - 64 Years,4508,42.2
+Alpine,2020,Age groups,18–64 years,41 - 64 Years,,
+Amador,2020,Age groups,18–64 years,41 - 64 Years,84,42.4
+Butte,2020,Age groups,18–64 years,41 - 64 Years,629,46.5
+Calaveras,2020,Age groups,18–64 years,41 - 64 Years,120,52.8
+Colusa,2020,Age groups,18–64 years,41 - 64 Years,59,46
+Contra Costa,2020,Age groups,18–64 years,41 - 64 Years,3536,51.6
+Del Norte,2020,Age groups,18–64 years,41 - 64 Years,85,53.2
+El Dorado,2020,Age groups,18–64 years,41 - 64 Years,363,35.9
+Fresno,2020,Age groups,18–64 years,41 - 64 Years,2845,47.7
+Glenn,2020,Age groups,18–64 years,41 - 64 Years,61,37
+Humboldt,2020,Age groups,18–64 years,41 - 64 Years,491,61.4
+Imperial,2020,Age groups,18–64 years,41 - 64 Years,481,43.1
+Inyo,2020,Age groups,18–64 years,41 - 64 Years,48,48.9
+Kern,2020,Age groups,18–64 years,41 - 64 Years,2212,40.4
+Kings,2020,Age groups,18–64 years,41 - 64 Years,428,48.8
+Lake,2020,Age groups,18–64 years,41 - 64 Years,338,99.1
+Lassen,2020,Age groups,18–64 years,41 - 64 Years,77,38.7
+Los Angeles,2020,Age groups,18–64 years,41 - 64 Years,25499,39.3
+Madera,2020,Age groups,18–64 years,41 - 64 Years,270,29.3
+Marin,2020,Age groups,18–64 years,41 - 64 Years,313,21.6
+Mariposa,2020,Age groups,18–64 years,41 - 64 Years,49,56.5
+Mendocino,2020,Age groups,18–64 years,41 - 64 Years,304,62.3
+Merced,2020,Age groups,18–64 years,41 - 64 Years,943,56.1
+Modoc,2020,Age groups,18–64 years,41 - 64 Years,48,95.7
+Mono,2020,Age groups,18–64 years,41 - 64 Years,47,62
+Monterey,2020,Age groups,18–64 years,41 - 64 Years,940,34.8
+Napa,2020,Age groups,18–64 years,41 - 64 Years,275,31.8
+Nevada,2020,Age groups,18–64 years,41 - 64 Years,136,26.4
+Orange,2020,Age groups,18–64 years,41 - 64 Years,4286,21.5
+Placer,2020,Age groups,18–64 years,41 - 64 Years,728,33
+Plumas,2020,Age groups,18–64 years,41 - 64 Years,49,54
+Riverside,2020,Age groups,18–64 years,41 - 64 Years,5058,35
+Sacramento,2020,Age groups,18–64 years,41 - 64 Years,6157,65.6
+San Benito,2020,Age groups,18–64 years,41 - 64 Years,175,50.5
+San Bernardino,2020,Age groups,18–64 years,41 - 64 Years,5971,44.8
+San Diego,2020,Age groups,18–64 years,41 - 64 Years,5006,24.7
+San Francisco,2020,Age groups,18–64 years,41 - 64 Years,1613,27
+San Joaquin,2020,Age groups,18–64 years,41 - 64 Years,2777,61.7
+San Luis Obispo,2020,Age groups,18–64 years,41 - 64 Years,412,26.4
+San Mateo,2020,Age groups,18–64 years,41 - 64 Years,1121,23.5
+Santa Barbara,2020,Age groups,18–64 years,41 - 64 Years,660,23.5
+Santa Clara,2020,Age groups,18–64 years,41 - 64 Years,3009,24.5
+Santa Cruz,2020,Age groups,18–64 years,41 - 64 Years,437,26.9
+Shasta,2020,Age groups,18–64 years,41 - 64 Years,390,40.5
+Sierra,2020,Age groups,18–64 years,41 - 64 Years,,
+Siskiyou,2020,Age groups,18–64 years,41 - 64 Years,86,35.8
+Solano,2020,Age groups,18–64 years,41 - 64 Years,2021,77.5
+Sonoma,2020,Age groups,18–64 years,41 - 64 Years,1057,36
+Stanislaus,2020,Age groups,18–64 years,41 - 64 Years,1657,50.1
+Sutter,2020,Age groups,18–64 years,41 - 64 Years,173,29
+Tehama,2020,Age groups,18–64 years,41 - 64 Years,176,49.6
+Trinity,2020,Age groups,18–64 years,41 - 64 Years,33,53
+Tulare,2020,Age groups,18–64 years,41 - 64 Years,738,26.5
+Tuolumne,2020,Age groups,18–64 years,41 - 64 Years,134,48.4
+Ventura,2020,Age groups,18–64 years,41 - 64 Years,1320,26
+Yolo,2020,Age groups,18–64 years,41 - 64 Years,464,35.6
+Yuba,2020,Age groups,18–64 years,41 - 64 Years,203,44.2
+California,2020,Age groups,65+ years,65+ years,12730,21.6
+Alameda,2020,Age groups,65+ years,65+ years,735,30.6
+Alpine,2020,Age groups,65+ years,65+ years,0,0
+Amador,2020,Age groups,65+ years,65+ years,19,19.8
+Butte,2020,Age groups,65+ years,65+ years,77,17.3
+Calaveras,2020,Age groups,65+ years,65+ years,16,12.6
+Colusa,2020,Age groups,65+ years,65+ years,,
+Contra Costa,2020,Age groups,65+ years,65+ years,541,28.4
+Del Norte,2020,Age groups,65+ years,65+ years,,
+El Dorado,2020,Age groups,65+ years,65+ years,70,17
+Fresno,2020,Age groups,65+ years,65+ years,403,33.1
+Glenn,2020,Age groups,65+ years,65+ years,,
+Humboldt,2020,Age groups,65+ years,65+ years,59,24.3
+Imperial,2020,Age groups,65+ years,65+ years,69,28.6
+Inyo,2020,Age groups,65+ years,65+ years,,
+Kern,2020,Age groups,65+ years,65+ years,178,17.2
+Kings,2020,Age groups,65+ years,65+ years,37,24.2
+Lake,2020,Age groups,65+ years,65+ years,53,34.6
+Lassen,2020,Age groups,65+ years,65+ years,11,
+Los Angeles,2020,Age groups,65+ years,65+ years,3433,23.5
+Madera,2020,Age groups,65+ years,65+ years,57,24.9
+Marin,2020,Age groups,65+ years,65+ years,102,17.3
+Mariposa,2020,Age groups,65+ years,65+ years,,
+Mendocino,2020,Age groups,65+ years,65+ years,50,26.8
+Merced,2020,Age groups,65+ years,65+ years,90,28.3
+Modoc,2020,Age groups,65+ years,65+ years,,
+Mono,2020,Age groups,65+ years,65+ years,0,0
+Monterey,2020,Age groups,65+ years,65+ years,105,17.5
+Napa,2020,Age groups,65+ years,65+ years,79,29.4
+Nevada,2020,Age groups,65+ years,65+ years,32,11.6
+Orange,2020,Age groups,65+ years,65+ years,790,16.4
+Placer,2020,Age groups,65+ years,65+ years,117,14.9
+Plumas,2020,Age groups,65+ years,65+ years,15,26
+Riverside,2020,Age groups,65+ years,65+ years,568,15.7
+Sacramento,2020,Age groups,65+ years,65+ years,652,30.4
+San Benito,2020,Age groups,65+ years,65+ years,35,45.9
+San Bernardino,2020,Age groups,65+ years,65+ years,566,21.9
+San Diego,2020,Age groups,65+ years,65+ years,786,15.8
+San Francisco,2020,Age groups,65+ years,65+ years,319,21.7
+San Joaquin,2020,Age groups,65+ years,65+ years,264,27.3
+San Luis Obispo,2020,Age groups,65+ years,65+ years,82,14
+San Mateo,2020,Age groups,65+ years,65+ years,270,20.1
+Santa Barbara,2020,Age groups,65+ years,65+ years,120,16.7
+Santa Clara,2020,Age groups,65+ years,65+ years,586,21
+Santa Cruz,2020,Age groups,65+ years,65+ years,76,18
+Shasta,2020,Age groups,65+ years,65+ years,38,10.3
+Sierra,2020,Age groups,65+ years,65+ years,0,0
+Siskiyou,2020,Age groups,65+ years,65+ years,19,17.4
+Solano,2020,Age groups,65+ years,65+ years,311,43.1
+Sonoma,2020,Age groups,65+ years,65+ years,223,22.2
+Stanislaus,2020,Age groups,65+ years,65+ years,173,23.4
+Sutter,2020,Age groups,65+ years,65+ years,14,9.4
+Tehama,2020,Age groups,65+ years,65+ years,17,13.7
+Trinity,2020,Age groups,65+ years,65+ years,,
+Tulare,2020,Age groups,65+ years,65+ years,79,14.1
+Tuolumne,2020,Age groups,65+ years,65+ years,39,26.2
+Ventura,2020,Age groups,65+ years,65+ years,203,15
+Yolo,2020,Age groups,65+ years,65+ years,80,29.2
+Yuba,2020,Age groups,65+ years,65+ years,24,24.3
+California,2020,Race/ethnicity,White,41 - 64 Years,42139,31.6
+Alameda,2020,Race/ethnicity,White,41 - 64 Years,1249,23.9
+Alpine,2020,Race/ethnicity,White,41 - 64 Years,,
+Amador,2020,Race/ethnicity,White,41 - 64 Years,109,46.7
+Butte,2020,Race/ethnicity,White,41 - 64 Years,629,43.4
+Calaveras,2020,Race/ethnicity,White,41 - 64 Years,151,54.6
+Colusa,2020,Race/ethnicity,White,41 - 64 Years,41,65.5
+Contra Costa,2020,Race/ethnicity,White,41 - 64 Years,1449,31.7
+Del Norte,2020,Race/ethnicity,White,41 - 64 Years,96,70.8
+El Dorado,2020,Race/ethnicity,White,41 - 64 Years,422,35
+Fresno,2020,Race/ethnicity,White,41 - 64 Years,1506,60.6
+Glenn,2020,Race/ethnicity,White,41 - 64 Years,52,40
+Humboldt,2020,Race/ethnicity,White,41 - 64 Years,454,49.4
+Imperial,2020,Race/ethnicity,White,41 - 64 Years,112,62.9
+Inyo,2020,Race/ethnicity,White,41 - 64 Years,47,57.6
+Kern,2020,Race/ethnicity,White,41 - 64 Years,1087,39.6
+Kings,2020,Race/ethnicity,White,41 - 64 Years,267,60.6
+Lake,2020,Race/ethnicity,White,41 - 64 Years,342,89.3
+Lassen,2020,Race/ethnicity,White,41 - 64 Years,87,44.5
+Los Angeles,2020,Race/ethnicity,White,41 - 64 Years,6859,27.7
+Madera,2020,Race/ethnicity,White,41 - 64 Years,156,39.2
+Marin,2020,Race/ethnicity,White,41 - 64 Years,325,19.7
+Mariposa,2020,Race/ethnicity,White,41 - 64 Years,61,51.7
+Mendocino,2020,Race/ethnicity,White,41 - 64 Years,310,67.9
+Merced,2020,Race/ethnicity,White,41 - 64 Years,417,62.9
+Modoc,2020,Race/ethnicity,White,41 - 64 Years,41,65.9
+Mono,2020,Race/ethnicity,White,41 - 64 Years,15,21.4
+Monterey,2020,Race/ethnicity,White,41 - 64 Years,351,30.7
+Napa,2020,Race/ethnicity,White,41 - 64 Years,257,38.5
+Nevada,2020,Race/ethnicity,White,41 - 64 Years,180,26.2
+Orange,2020,Race/ethnicity,White,41 - 64 Years,3082,26.5
+Placer,2020,Race/ethnicity,White,41 - 64 Years,763,30.5
+Plumas,2020,Race/ethnicity,White,41 - 64 Years,77,64.6
+Riverside,2020,Race/ethnicity,White,41 - 64 Years,2588,34.8
+Sacramento,2020,Race/ethnicity,White,41 - 64 Years,2779,43.4
+San Benito,2020,Race/ethnicity,White,41 - 64 Years,83,48.6
+San Bernardino,2020,Race/ethnicity,White,41 - 64 Years,2399,44.5
+San Diego,2020,Race/ethnicity,White,41 - 64 Years,2840,20
+San Francisco,2020,Race/ethnicity,White,18 - 40  Years,649,19.4
+San Joaquin,2020,Race/ethnicity,White,18 - 40  Years,1052,50.7
+San Luis Obispo,2020,Race/ethnicity,White,18 - 40  Years,413,26.4
+San Mateo,2020,Race/ethnicity,White,18 - 40  Years,545,18.8
+Santa Barbara,2020,Race/ethnicity,White,18 - 40  Years,421,25.3
+Santa Clara,2020,Race/ethnicity,White,18 - 40  Years,1135,18.8
+Santa Cruz,2020,Race/ethnicity,White,18 - 40  Years,380,26.6
+Shasta,2020,Race/ethnicity,White,18 - 40  Years,453,37.5
+Sierra,2020,Race/ethnicity,White,18 - 40  Years,12,60.9
+Siskiyou,2020,Race/ethnicity,White,18 - 40  Years,118,39.8
+Solano,2020,Race/ethnicity,White,18 - 40  Years,891,59.5
+Sonoma,2020,Race/ethnicity,White,18 - 40  Years,955,34.2
+Stanislaus,2020,Race/ethnicity,White,18 - 40  Years,1078,53.4
+Sutter,2020,Race/ethnicity,White,18 - 40  Years,133,34.6
+Tehama,2020,Race/ethnicity,White,18 - 40  Years,184,49.3
+Trinity,2020,Race/ethnicity,White,18 - 40  Years,53,73.2
+Tulare,2020,Race/ethnicity,White,18 - 40  Years,283,25.4
+Tuolumne,2020,Race/ethnicity,White,18 - 40  Years,181,50.9
+Ventura,2020,Race/ethnicity,White,18 - 40  Years,912,28.3
+Yolo,2020,Race/ethnicity,White,18 - 40  Years,326,38.1
+Yuba,2020,Race/ethnicity,White,18 - 40  Years,186,45
+California,2020,Race/ethnicity,Black,18 - 40  Years,33599,155
+Alameda,2020,Race/ethnicity,Black,18 - 40  Years,3091,176.1
+Alpine,2020,Race/ethnicity,Black,18 - 40  Years,0,0
+Amador,2020,Race/ethnicity,Black,18 - 40  Years,,
+Butte,2020,Race/ethnicity,Black,18 - 40  Years,111,297.4
+Calaveras,2020,Race/ethnicity,Black,18 - 40  Years,,
+Colusa,2020,Race/ethnicity,Black,18 - 40  Years,,
+Contra Costa,2020,Race/ethnicity,Black,18 - 40  Years,1974,197.7
+Del Norte,2020,Race/ethnicity,Black,18 - 40  Years,,
+El Dorado,2020,Race/ethnicity,Black,18 - 40  Years,25,196
+Fresno,2020,Race/ethnicity,Black,18 - 40  Years,865,175.2
+Glenn,2020,Race/ethnicity,Black,18 - 40  Years,,
+Humboldt,2020,Race/ethnicity,Black,18 - 40  Years,53,378.9
+Imperial,2020,Race/ethnicity,Black,18 - 40  Years,22,79.7
+Inyo,2020,Race/ethnicity,Black,18 - 40  Years,,
+Kern,2020,Race/ethnicity,Black,18 - 40  Years,917,178.1
+Kings,2020,Race/ethnicity,Black,18 - 40  Years,103,136.6
+Lake,2020,Race/ethnicity,Black,18 - 40  Years,32,404.9
+Lassen,2020,Race/ethnicity,Black,18 - 40  Years,,
+Los Angeles,2020,Race/ethnicity,Black,18 - 40  Years,11695,156
+Madera,2020,Race/ethnicity,Black,18 - 40  Years,59,212.6
+Marin,2020,Race/ethnicity,Black,18 - 40  Years,66,90.1
+Mariposa,2020,Race/ethnicity,Black,18 - 40  Years,0,0
+Mendocino,2020,Race/ethnicity,Black,18 - 40  Years,29,483.3
+Merced,2020,Race/ethnicity,Black,18 - 40  Years,151,165.9
+Modoc,2020,Race/ethnicity,Black,18 - 40  Years,,
+Mono,2020,Race/ethnicity,Black,18 - 40  Years,0,0
+Monterey,2020,Race/ethnicity,Black,18 - 40  Years,83,97.5
+Napa,2020,Race/ethnicity,Black,18 - 40  Years,21,97.7
+Nevada,2020,Race/ethnicity,Black,18 - 40  Years,,
+Orange,2020,Race/ethnicity,Black,18 - 40  Years,462,97.1
+Placer,2020,Race/ethnicity,Black,18 - 40  Years,61,119.4
+Plumas,2020,Race/ethnicity,Black,18 - 40  Years,,
+Riverside,2020,Race/ethnicity,Black,18 - 40  Years,1742,122.1
+Sacramento,2020,Race/ethnicity,Black,18 - 40  Years,3196,202.6
+San Benito,2020,Race/ethnicity,Black,18 - 40  Years,,
+San Bernardino,2020,Race/ethnicity,Black,18 - 40  Years,2370,122.7
+San Diego,2020,Race/ethnicity,Black,18 - 40  Years,1486,99.9
+San Francisco,2020,Race/ethnicity,Black,18 - 40  Years,896,227.6
+San Joaquin,2020,Race/ethnicity,Black,18 - 40  Years,1152,207.8
+San Luis Obispo,2020,Race/ethnicity,Black,18 - 40  Years,45,101
+San Mateo,2020,Race/ethnicity,Black,18 - 40  Years,151,86.3
+Santa Barbara,2020,Race/ethnicity,Black,18 - 40  Years,80,113.3
+Santa Clara,2020,Race/ethnicity,Black,18 - 40  Years,457,101.7
+Santa Cruz,2020,Race/ethnicity,Black,18 - 40  Years,24,117.4
+Shasta,2020,Race/ethnicity,Black,18 - 40  Years,30,174.6
+Sierra,2020,Race/ethnicity,Black,18 - 40  Years,0,0
+Siskiyou,2020,Race/ethnicity,Black,18 - 40  Years,,
+Solano,2020,Race/ethnicity,Black,18 - 40  Years,1275,219.9
+Sonoma,2020,Race/ethnicity,Black,18 - 40  Years,89,124
+Stanislaus,2020,Race/ethnicity,Black,18 - 40  Years,302,198
+Sutter,2020,Race/ethnicity,Black,18 - 40  Years,26,137.3
+Tehama,2020,Race/ethnicity,Black,18 - 40  Years,,
+Trinity,2020,Race/ethnicity,Black,18 - 40  Years,0,0
+Tulare,2020,Race/ethnicity,Black,18 - 40  Years,59,99.7
+Tuolumne,2020,Race/ethnicity,Black,18 - 40  Years,,
+Ventura,2020,Race/ethnicity,Black,18 - 40  Years,130,105.7
+Yolo,2020,Race/ethnicity,Black,18 - 40  Years,77,151.3
+Yuba,2020,Race/ethnicity,Black,18 - 40  Years,57,242.3
+California,2020,Race/ethnicity,Hispanic,18 - 40  Years,68760,41.6
+Alameda,2020,Race/ethnicity,Hispanic,18 - 40  Years,1783,45.1
+Alpine,2020,Race/ethnicity,Hispanic,18 - 40  Years,0,0
+Amador,2020,Race/ethnicity,Hispanic,18 - 40  Years,17,36.7
+Butte,2020,Race/ethnicity,Hispanic,18 - 40  Years,78,18.5
+Calaveras,2020,Race/ethnicity,Hispanic,18 - 40  Years,13,23.7
+Colusa,2020,Race/ethnicity,Hispanic,18 - 40  Years,69,46.2
+Contra Costa,2020,Race/ethnicity,Hispanic,18 - 40  Years,1769,57.2
+Del Norte,2020,Race/ethnicity,Hispanic,18 - 40  Years,16,27.7
+El Dorado,2020,Race/ethnicity,Hispanic,18 - 40  Years,83,31.4
+Fresno,2020,Race/ethnicity,Hispanic,18 - 40  Years,4144,69.7
+Glenn,2020,Race/ethnicity,Hispanic,18 - 40  Years,23,19.7
+Humboldt,2020,Race/ethnicity,Hispanic,18 - 40  Years,60,36.1
+Imperial,2020,Race/ethnicity,Hispanic,18 - 40  Years,995,57.9
+Inyo,2020,Race/ethnicity,Hispanic,18 - 40  Years,21,41.6
+Kern,2020,Race/ethnicity,Hispanic,18 - 40  Years,2090,40
+Kings,2020,Race/ethnicity,Hispanic,18 - 40  Years,435,47.6
+Lake,2020,Race/ethnicity,Hispanic,18 - 40  Years,94,75.6
+Lassen,2020,Race/ethnicity,Hispanic,18 - 40  Years,11,
+Los Angeles,2020,Race/ethnicity,Hispanic,18 - 40  Years,23665,46
+Madera,2020,Race/ethnicity,Hispanic,18 - 40  Years,574,54.7
+Marin,2020,Race/ethnicity,Hispanic,18 - 40  Years,150,35.4
+Mariposa,2020,Race/ethnicity,Hispanic,18 - 40  Years,,
+Mendocino,2020,Race/ethnicity,Hispanic,18 - 40  Years,125,53.5
+Merced,2020,Race/ethnicity,Hispanic,18 - 40  Years,1058,60.1
+Modoc,2020,Race/ethnicity,Hispanic,18 - 40  Years,,
+Mono,2020,Race/ethnicity,Hispanic,18 - 40  Years,25,58.4
+Monterey,2020,Race/ethnicity,Hispanic,18 - 40  Years,1041,36.9
+Napa,2020,Race/ethnicity,Hispanic,18 - 40  Years,186,36.6
+Nevada,2020,Race/ethnicity,Hispanic,18 - 40  Years,25,26.4
+Orange,2020,Race/ethnicity,Hispanic,18 - 40  Years,3368,28.2
+Placer,2020,Race/ethnicity,Hispanic,18 - 40  Years,212,38.2
+Plumas,2020,Race/ethnicity,Hispanic,18 - 40  Years,,
+Riverside,2020,Race/ethnicity,Hispanic,18 - 40  Years,3932,32.4
+Sacramento,2020,Race/ethnicity,Hispanic,18 - 40  Years,2239,60.1
+San Benito,2020,Race/ethnicity,Hispanic,18 - 40  Years,217,61.5
+San Bernardino,2020,Race/ethnicity,Hispanic,18 - 40  Years,4602,37.6
+San Diego,2020,Race/ethnicity,Hispanic,18 - 40  Years,3689,29.5
+San Francisco,2020,Race/ethnicity,Hispanic,18 - 40  Years,619,48.1
+San Joaquin,2020,Race/ethnicity,Hispanic,18 - 40  Years,1676,50.1
+San Luis Obispo,2020,Race/ethnicity,Hispanic,18 - 40  Years,172,25.6
+San Mateo,2020,Race/ethnicity,Hispanic,18 - 40  Years,817,41
+Santa Barbara,2020,Race/ethnicity,Hispanic,18 - 40  Years,613,27.3
+Santa Clara,2020,Race/ethnicity,Hispanic,18 - 40  Years,2241,41.5
+Santa Cruz,2020,Race/ethnicity,Hispanic,18 - 40  Years,296,29.8
+Shasta,2020,Race/ethnicity,Hispanic,18 - 40  Years,49,26.3
+Sierra,2020,Race/ethnicity,Hispanic,18 - 40  Years,0,0
+Siskiyou,2020,Race/ethnicity,Hispanic,18 - 40  Years,12,18.7
+Solano,2020,Race/ethnicity,Hispanic,18 - 40  Years,735,59.5
+Sonoma,2020,Race/ethnicity,Hispanic,18 - 40  Years,582,41.9
+Stanislaus,2020,Race/ethnicity,Hispanic,18 - 40  Years,1272,46.3
+Sutter,2020,Race/ethnicity,Hispanic,18 - 40  Years,88,24.6
+Tehama,2020,Race/ethnicity,Hispanic,18 - 40  Years,57,31.6
+Trinity,2020,Race/ethnicity,Hispanic,18 - 40  Years,,
+Tulare,2020,Race/ethnicity,Hispanic,18 - 40  Years,1013,29
+Tuolumne,2020,Race/ethnicity,Hispanic,18 - 40  Years,24,38.3
+Ventura,2020,Race/ethnicity,Hispanic,18 - 40  Years,1248,31.6
+Yolo,2020,Race/ethnicity,Hispanic,18 - 40  Years,307,39.3
+Yuba,2020,Race/ethnicity,Hispanic,18 - 40  Years,72,29.3
+California,2020,Race/ethnicity,Asian/PI,18 - 40  Years,10326,19.6
+Alameda,2020,Race/ethnicity,Asian/PI,18 - 40  Years,1082,24.4
+Alpine,2020,Race/ethnicity,Asian/PI,18 - 40  Years,0,0
+Amador,2020,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Butte,2020,Race/ethnicity,Asian/PI,41 - 64 Years,17,18
+Calaveras,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Colusa,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Contra Costa,2020,Race/ethnicity,Asian/PI,41 - 64 Years,521,30
+Del Norte,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+El Dorado,2020,Race/ethnicity,Asian/PI,41 - 64 Years,17,27.2
+Fresno,2020,Race/ethnicity,Asian/PI,41 - 64 Years,248,25.9
+Glenn,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Humboldt,2020,Race/ethnicity,Asian/PI,41 - 64 Years,17,45.9
+Imperial,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Inyo,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Kern,2020,Race/ethnicity,Asian/PI,41 - 64 Years,64,17.9
+Kings,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Lake,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Lassen,2020,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Los Angeles,2020,Race/ethnicity,Asian/PI,41 - 64 Years,2221,16.2
+Madera,2020,Race/ethnicity,Asian/PI,41 - 64 Years,11,
+Marin,2020,Race/ethnicity,Asian/PI,41 - 64 Years,23,15.9
+Mariposa,2020,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Mendocino,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Merced,2020,Race/ethnicity,Asian/PI,41 - 64 Years,50,26.5
+Modoc,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Mono,2020,Race/ethnicity,Asian/PI,41 - 64 Years,22,3531
+Monterey,2020,Race/ethnicity,Asian/PI,41 - 64 Years,46,18.3
+Napa,2020,Race/ethnicity,Asian/PI,41 - 64 Years,31,27.9
+Nevada,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Orange,2020,Race/ethnicity,Asian/PI,41 - 64 Years,817,14.1
+Placer,2020,Race/ethnicity,Asian/PI,41 - 64 Years,68,29.9
+Plumas,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Riverside,2020,Race/ethnicity,Asian/PI,41 - 64 Years,259,18.5
+Sacramento,2020,Race/ethnicity,Asian/PI,41 - 64 Years,940,39.7
+San Benito,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+San Bernardino,2020,Race/ethnicity,Asian/PI,41 - 64 Years,250,17.5
+San Diego,2020,Race/ethnicity,Asian/PI,41 - 64 Years,666,19.4
+San Francisco,2020,Race/ethnicity,Asian/PI,41 - 64 Years,494,21.1
+San Joaquin,2020,Race/ethnicity,Asian/PI,41 - 64 Years,387,34.9
+San Luis Obispo,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+San Mateo,2020,Race/ethnicity,Asian/PI,41 - 64 Years,410,20.2
+Santa Barbara,2020,Race/ethnicity,Asian/PI,41 - 64 Years,38,21.1
+Santa Clara,2020,Race/ethnicity,Asian/PI,41 - 64 Years,870,13.3
+Santa Cruz,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Shasta,2020,Race/ethnicity,Asian/PI,41 - 64 Years,32,63.3
+Sierra,2020,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Siskiyou,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Solano,2020,Race/ethnicity,Asian/PI,41 - 64 Years,337,54.7
+Sonoma,2020,Race/ethnicity,Asian/PI,41 - 64 Years,67,35.6
+Stanislaus,2020,Race/ethnicity,Asian/PI,41 - 64 Years,91,28.9
+Sutter,2020,Race/ethnicity,Asian/PI,41 - 64 Years,24,16.3
+Tehama,2020,Race/ethnicity,Asian/PI,41 - 64 Years,0,0
+Trinity,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Tulare,2020,Race/ethnicity,Asian/PI,41 - 64 Years,18,13.8
+Tuolumne,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+Ventura,2020,Race/ethnicity,Asian/PI,41 - 64 Years,69,12.6
+Yolo,2020,Race/ethnicity,Asian/PI,41 - 64 Years,51,21.8
+Yuba,2020,Race/ethnicity,Asian/PI,41 - 64 Years,,
+California,2020,Race/ethnicity,AI/AN,41 - 64 Years,683,43.5
+Alameda,2020,Race/ethnicity,AI/AN,41 - 64 Years,22,47.8
+Alpine,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Amador,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Butte,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Calaveras,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Colusa,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Contra Costa,2020,Race/ethnicity,AI/AN,41 - 64 Years,14,47.8
+Del Norte,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+El Dorado,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Fresno,2020,Race/ethnicity,AI/AN,41 - 64 Years,14,23.9
+Glenn,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Humboldt,2020,Race/ethnicity,AI/AN,41 - 64 Years,42,59.9
+Imperial,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Inyo,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Kern,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Kings,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Lake,2020,Race/ethnicity,AI/AN,41 - 64 Years,14,109.3
+Lassen,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Los Angeles,2020,Race/ethnicity,AI/AN,41 - 64 Years,57,31
+Madera,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Marin,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mariposa,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mendocino,2020,Race/ethnicity,AI/AN,41 - 64 Years,23,69.4
+Merced,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Modoc,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Mono,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Monterey,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Napa,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Nevada,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Orange,2020,Race/ethnicity,AI/AN,41 - 64 Years,12,23
+Placer,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Plumas,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Riverside,2020,Race/ethnicity,AI/AN,41 - 64 Years,38,33.5
+Sacramento,2020,Race/ethnicity,AI/AN,41 - 64 Years,35,41.4
+San Benito,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+San Bernardino,2020,Race/ethnicity,AI/AN,41 - 64 Years,173,203.4
+San Diego,2020,Race/ethnicity,AI/AN,41 - 64 Years,39,26.1
+San Francisco,2020,Race/ethnicity,AI/AN,41 - 64 Years,23,145.7
+San Joaquin,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+San Luis Obispo,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+San Mateo,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Santa Barbara,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Santa Clara,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Santa Cruz,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Shasta,2020,Race/ethnicity,AI/AN,41 - 64 Years,14,38.8
+Sierra,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Siskiyou,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Solano,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Sonoma,2020,Race/ethnicity,AI/AN,41 - 64 Years,14,41.5
+Stanislaus,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Sutter,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Tehama,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Trinity,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Tulare,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Tuolumne,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Ventura,2020,Race/ethnicity,AI/AN,41 - 64 Years,0,0
+Yolo,2020,Race/ethnicity,AI/AN,41 - 64 Years,,
+Yuba,2020,Race/ethnicity,AI/AN,41 - 64 Years,,

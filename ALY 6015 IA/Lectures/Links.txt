@@ -1,0 +1,23 @@
+Videos:
+
+1. https://www.youtube.com/watch?v=l9V5tlIWTvs
+2. https://www.youtube.com/watch?v=-uC6075nTTs
+
+Docs & Articles:
+
+1. https://link-springer-com.ezproxy.neu.edu/book/10.1007/978-0-387-84858-7
+2. https://link-springer-com.ezproxy.neu.edu/chapter/10.1007/978-1-4614-7138-7_3
+3. https://www.r-bloggers.com/how-and-when-ridge-regression-with-glmnet/
+4. https://www.r-bloggers.com/variable-selection-using-automatic-methods/
+5. http://www.milanor.net/blog/performing-principal-components-regression-pcr-in-r/
+6. https://github.com/YaohuiZeng/biglasso/blob/master/vignettes/biglasso.pdf
+7. https://arxiv.org/pdf/1701.05936.pdf
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+---
+title: "Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning=F, message=F)
+```
+
+## Loading data
+```{r}
+library(tidyverse)
+er <- read.csv("ER Visits Data.csv")
+er <- er %>% mutate(STRATA.NAME=gsub("[^a-zA-Z0-9 ]", " ", STRATA.NAME))
+conc <- read.csv("annual_conc_by_monitor_2020.csv")
+```
+
+
+Glimpse of dataset.
+```{r}
+str(er)
+```
+
+
+```{r}
+str(conc)
+```
+
+
+```{r}
+colSums(is.na(er))
+colSums(is.na(conc))
+```
+
+
+```{r}
+er <- na.omit(er)
+```
+
+
+```{r}
+summary(er$AGE.ADJUSTED.ED.VISIT.RATE)
+```
+
+```{r}
+er %>% filter(STRATA=="Age groups") %>% group_by(STRATA.NAME) %>%    summarise(value=mean(AGE.ADJUSTED.ED.VISIT.RATE)) %>%
+  ggplot(aes(x=STRATA.NAME, y=value)) + geom_col(fill="orange") +
+  labs(x="Age Group", y="Average ED Visit Rate")
+```
+
+
+```{r fig.height=10, fig.width=6}
+df <- er %>% filter(STRATA=="Total population")
+df %>% group_by(COUNTY) %>% summarise(value=mean(AGE.ADJUSTED.ED.VISIT.RATE)) %>%
+  arrange(desc(value)) %>%
+  ggplot(aes(x=reorder(COUNTY, value), y=value)) + geom_col() + coord_flip() +
+  labs(x="County", y="Average ED Visit Rate")
+```
+
+```{r}
+er %>% filter(STRATA=="Child vs. adult") %>% 
+  ggplot(aes(x=STRATA.NAME, y=AGE.ADJUSTED.ED.VISIT.RATE)) + geom_boxplot() +
+  labs(x="Child vs. adult", y="Average ED Visit Rate")
+```
+
+
+```{r}
+er %>% filter(STRATA=="Race/ethnicity") %>% 
+  ggplot(aes(x=STRATA.NAME, y=AGE.ADJUSTED.ED.VISIT.RATE)) + geom_boxplot() +
+  labs(x="Race/ethnicity", y="Average ED Visit Rate") + scale_y_log10()
+```
+
+
+```{r}
+conc %>% filter(Parameter.Name=="Acceptable PM2.5 AQI & Speciation Mass") %>%
+  group_by(State.Name) %>% summarise(value=mean(Arithmetic.Mean)) %>%
+  ggplot(aes(x=reorder(State.Name, value), y=value)) + geom_col() + coord_flip()
+```
+

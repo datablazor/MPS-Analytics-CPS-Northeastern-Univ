@@ -1,0 +1,7 @@
+https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
+https://medium.com/@jameschen_78678/which-customers-are-more-likely-to-respond-to-banks-marketing-campaigns-3f00c512268d
+
+https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset-analysis
+
+https://towardsdatascience.com/machine-learning-case-study-a-data-driven-approach-to-predict-the-success-of-bank-telemarketing-20e37d46c31c
